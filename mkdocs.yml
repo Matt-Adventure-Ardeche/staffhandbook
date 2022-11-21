@@ -3,12 +3,26 @@ repo_url: https://github.com/Matt-Adventure-Ardeche/staffhandbook
 edit_uri: ""
 
 theme:
+  language: en
   name: material
   custom_dir: docs/overrides
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+      primary: lime
+      accent: pink
+
+    # Palette toggle for dark mode
+    - scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+      primary: lime
+      accent: pink
   icon:
     repo: fontawesome/brands/github
-
-
 
 plugins:
   - search
@@ -17,3 +31,12 @@ plugins:
   - git-authors:
      enabled: true
      show_email_address: false
+
+extra:
+  alternate:
+    - name: English
+      link: /
+      lang: en
+    - name: Francais
+      link: /fr/
+      lang: fr
