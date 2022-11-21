@@ -1,0 +1,13 @@
+site_name: Adventure Ardeche
+
+theme:
+  name: bootstrap4
+
+plugins:
+  - search
+  - git-committers:
+      repository: Matt-Adventure-Ardeche/mkdocs
+      branch: master
+      token: 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
+       
+       
