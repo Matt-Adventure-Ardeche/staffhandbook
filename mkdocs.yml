@@ -9,6 +9,7 @@ nav:
   - Activities:
       - ardeche.md
       - raft-build.md
+
 theme:
   language: en
   name: material
@@ -42,8 +43,9 @@ plugins:
   - git-revision-date-localized:
       enable_creation_date: true
   - git-authors:
-     enabled: true
-     show_email_address: false
+      enabled: true
+      show_email_address: false
+      show_contribution: true
 
 extra:
   consent:
