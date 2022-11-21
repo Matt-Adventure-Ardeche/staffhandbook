@@ -1,13 +1,19 @@
 site_name: Adventure Ardeche
+repo_url: https://github.com/Matt-Adventure-Ardeche/staffhandbook
+edit_uri: ""
 
 theme:
-  name: bootstrap4
+  name: material
+  custom_dir: docs/overrides
+  icon:
+    repo: fontawesome/brands/github
+
+
 
 plugins:
   - search
-  - git-committers:
-      repository: Matt-Adventure-Ardeche/mkdocs
-      branch: master
-      token: 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
-       
-       
+  - git-revision-date-localized:
+      enable_creation_date: true
+  - git-authors:
+     enabled: true
+     show_email_address: false

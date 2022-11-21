@@ -1,5 +1,3 @@
-contributors: Matt T
-
 # Staff Handbook
 v0.0.1
 
