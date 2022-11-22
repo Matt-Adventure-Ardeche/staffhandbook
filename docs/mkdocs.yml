@@ -118,4 +118,8 @@ markdown_extensions:
   - pymdownx.caret
   - pymdownx.keys
   - pymdownx.mark
+<<<<<<< HEAD
   - pymdownx.tilde
+=======
+  - pymdownx.tilde
+>>>>>>> f46ac35 (yml move)
