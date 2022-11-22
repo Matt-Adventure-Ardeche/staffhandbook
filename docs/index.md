@@ -8,7 +8,7 @@ hide:
 # Staff Handbook
 v0.0.1
 
-!!! tip
+!!! tip "Whoa"
     # A way to evangelize, explain, and support solutions to peers so they can be correctly used and successfully adopted
     
 # Supporting Learning Objectives & Efficiency to create High Quality Provision.
