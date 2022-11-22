@@ -1,6 +1,6 @@
 # Overview
 
-This online document is essentially a **HANDBOOK** to guide you through the systems in place at **Adventure Aedeche**.
+This online document is essentially a **HANDBOOK** to guide you through the systems in place at **Adventure Ardeche**.
 
 !!! tip ""
     Those systems are laid out in the menu on the left in order of need.
