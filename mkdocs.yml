@@ -1,7 +1,9 @@
 site_name: Adventure Ardeche
 repo_url: https://github.com/Matt-Adventure-Ardeche/staffhandbook
 edit_uri: ""
+copyright: Copyright &copy; 2022 - 2023 Adventure Ardeche. All Rights Reserved.
 
+# NAVIGATION
 nav:
   - Home:
       - index.md
@@ -10,6 +12,7 @@ nav:
       - ardeche.md
       - raft-build.md
 
+# THEME
 theme:
   language: en
   name: material
@@ -30,23 +33,46 @@ theme:
         name: Switch to light mode
       primary: lime
       accent: pink
+
+  # ICONS
   icon:
     repo: fontawesome/brands/github
     logo: material/library-shelves
+    admonition:
+      note: fontawesome/solid/note-sticky
+      abstract: fontawesome/solid/book
+      info: fontawesome/solid/circle-info
+      tip: fontawesome/solid/bullhorn
+      success: fontawesome/solid/check
+      question: fontawesome/solid/circle-question
+      warning: fontawesome/solid/triangle-exclamation
+      failure: fontawesome/solid/bomb
+      danger: fontawesome/solid/skull
+      bug: fontawesome/solid/robot
+      example: fontawesome/solid/flask
+      quote: fontawesome/solid/quote-left
+
+  # FEATURES
   features:
     - navigation.instant 
     - navigation.tracking
     - navigation.indexes
 
+# PLUGINS
 plugins:
   - search
   - git-revision-date-localized:
+      exclude:
+        - index.md
       enable_creation_date: true
   - git-authors:
+      exclude:
+        - index.md
       enabled: true
       show_email_address: false
       show_contribution: true
 
+# EXTRAS
 extra:
   consent:
     actions:
@@ -59,3 +85,23 @@ extra:
       as to measure the effectiveness of our documentation and whether users
       find what they're searching for. With your consent, you're helping us to
       make our documentation better.
+  generator: false
+
+# EXTRA CSS
+extra_css:
+  - assets/css/extra.css
+
+# Markdown Extentions
+markdown_extensions:
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - md_in_html
+  - admonition
+  - pymdownx.details
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
