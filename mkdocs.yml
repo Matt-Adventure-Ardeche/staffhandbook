@@ -5,13 +5,28 @@ copyright: Copyright &copy; 2022 - 2023 Adventure Ardeche. All Rights Reserved.
 
 # NAVIGATION
 nav:
-  - Home:
-      - index.md
-      - home.md
+  - index.md
+  - overview.md
+  - Risk Assessments:
+      - risk-assessments/ardecheRA.md
+      - risk-assessments/raft-buildRA.md
+  - Policies:
+      - still-to-write.md
+  - Procedures:
+      - still-to-write.md
   - Activities:
       - ardeche.md
       - raft-build.md
-
+  - learning.md
+  - Best Practices:
+      - still-to-write.md
+  - Resources:
+      - still-to-write.md
+  - Reference:
+      - still-to-write.md
+  - Personal Adventure:
+      - still-to-write.md
+  
 # THEME
 theme:
   language: en
