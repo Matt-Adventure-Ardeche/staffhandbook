@@ -85,7 +85,6 @@ plugins:
         - index.md
       enabled: true
       show_email_address: false
-      show_contribution: true
 
 # EXTRAS
 extra:
