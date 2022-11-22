@@ -1,0 +1,121 @@
+site_name: Adventure Ardeche
+repo_url: https://github.com/Matt-Adventure-Ardeche/staffhandbook
+edit_uri: ""
+copyright: Copyright &copy; 2022 - 2023 Adventure Ardeche. All Rights Reserved.
+
+# NAVIGATION
+nav:
+  - index.md
+  - overview.md
+  - Risk Assessments:
+      - risk-assessments/ardecheRA.md
+      - risk-assessments/raft-buildRA.md
+  - Policies:
+      - still-to-write.md
+  - Procedures:
+      - still-to-write.md
+  - Activities:
+      - ardeche.md
+      - raft-build.md
+  - learning.md
+  - Best Practices:
+      - still-to-write.md
+  - Resources:
+      - still-to-write.md
+  - Reference:
+      - still-to-write.md
+  - Personal Adventure:
+      - still-to-write.md
+  
+# THEME
+theme:
+  language: en
+  name: material
+  custom_dir: docs/overrides
+  palette:
+    # Palette toggle to light mode
+    - scheme: default
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+      primary: lime
+      accent: pink
+
+    # Palette toggle to dark mode
+    - scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+      primary: lime
+      accent: pink
+
+  # ICONS
+  icon:
+    repo: fontawesome/brands/github
+    logo: material/library-shelves
+    admonition:
+      note: fontawesome/solid/note-sticky
+      abstract: fontawesome/solid/book
+      info: fontawesome/solid/circle-info
+      tip: fontawesome/solid/bullhorn
+      success: fontawesome/solid/check
+      question: fontawesome/solid/circle-question
+      warning: fontawesome/solid/triangle-exclamation
+      failure: fontawesome/solid/bomb
+      danger: fontawesome/solid/skull
+      bug: fontawesome/solid/robot
+      example: fontawesome/solid/flask
+      quote: fontawesome/solid/quote-left
+
+  # FEATURES
+  features:
+    - navigation.instant 
+    - navigation.tracking
+    - navigation.indexes
+
+# PLUGINS
+plugins:
+  - search
+  - git-revision-date-localized:
+      exclude:
+        - index.md
+      enable_creation_date: true
+  - git-authors:
+      exclude:
+        - index.md
+      enabled: true
+      show_email_address: false
+
+# EXTRAS
+extra:
+  consent:
+    actions:
+      - manage 
+      - accept
+      - reject
+    title: Cookie consent
+    description: >- 
+      We use cookies to recognize your repeated visits and preferences, as well
+      as to measure the effectiveness of our documentation and whether users
+      find what they're searching for. With your consent, you're helping us to
+      make our documentation better.
+  generator: false
+
+# EXTRA CSS
+extra_css:
+  - assets/css/extra.css
+
+# Markdown Extentions
+markdown_extensions:
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - md_in_html
+  - admonition
+  - pymdownx.details
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
