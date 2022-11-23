@@ -65,4 +65,4 @@ If you identify a hazard and assess the risk to be greater than 8 you are expect
 
 ## Planning Tool
 
-<span style="font-size: 1.1rem; color:red">:fontawesome-regular-file-pdf:</span> [Risk Assessment Planning Tool](../assets/pdfs/risk-benefit-exercise.pdf)
+:fontawesome-regular-file-pdf:{ .pdf } [Risk Assessment Planning Tool](../assets/pdfs/risk-benefit-exercise.pdf)

@@ -1,3 +1,9 @@
+/* Styles Overides */
+.md-typeset {
+    line-height: 1.7 !important;
+    color: rgb(48, 48, 48) !important;
+}
+
 .md-typeset :is(.tip, .hint, .important)> :is(.admonition-title, summary),
 .md-typeset :is(.note)> :is(.admonition-title, summary),
 .md-typeset :is(.info,
@@ -31,4 +37,14 @@
     .attention)> :is(.admonition-title, summary)::before,
 .md-typeset :is(.abstract)> :is(.admonition-title, summary)::before {
     left: 0 !important;
+}
+
+/* icons */
+.md-typeset :is(.emojione, .twemoji, .gemoji) {
+    vertical-align: text-bottom !important;
+}
+
+.pdf {
+    color: darkred;
+    font-size: 1.1rem;
 }
