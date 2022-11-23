@@ -4,6 +4,12 @@
 
 _**Look, explore, listen, etc**_ - get to know the environment that you are working in, and the potential interaction between you, your participants and that environment. There is no point in assessing a risk without knowledge of the full implications.
 
+In organised outdoor learning it is common for there to be a residual level of risk that is judged to be tolerable and in balance with the benefits that will accrue.
+
+It is desirable to give equal consideration to risks and benefits throughout the planning process to avoid benefits being eclipsed by a small possibility of harm.
+
+Hazards and risks cannot be considered in isolation; it is necessary to consider the maturity and experience of learners, the expertise of those leading them, wishes of parents and many other factors. Engagement with actual risk is vital if learners are to develop the skills to deal with the succession of risks they will meet in their own lives.
+
 <div style="text-align: center; font-weight:bold;font-size:1.1rem">Risk level = how bad could it be x the chance of it happening</div>
 
 !!! danger
@@ -41,3 +47,10 @@ _**Look, explore, listen, etc**_ - get to know the environment that you are work
 If you identify a hazard and assess the risk to be greater than 8 you are expected to take steps to reduce the risk, which means clearly and concisely identifying the hazard to all people in your party, giving clear, concise instruction, issuing appropriate equipment and (_unless your purpose***** is to lead your clients through the hazardous environment_) leading them away from the hazard towards an environment in which the risk is acceptable.
 
 * _If you are contracted to lead clients up an ice climb (as an example), their purpose would be to tackle any hazards encountered including those rated above level 8 because the clients’ enjoyment and fulfilment comes from that level of risk acceptance. However, even at this level the instructor should be taking reasonable precautions to ensure the safety of his/her clients - so a risk level 12 may be acceptable._
+
+!!! abstract
+
+    On occasion, an outdoor learning experience of great value may be judged to be right and proper even if some significant risks cannot be eliminated or significantly reduced. This is not a position to be entered in to lightly and without thought of the possible consequences.
+
+## Planning Tool
+[Risk Assessment Planning Tool](../resources/risk-benefit-exercise.pdf)

@@ -10,7 +10,8 @@
 .md-typeset :is(.success,
     .check,
     .done)> :is(.admonition-title, summary),
-.md-typeset :is(.quote)> :is(.admonition-title, summary) {
+.md-typeset :is(.quote)> :is(.admonition-title, summary),
+.md-typeset :is(.abstract)> :is(.admonition-title, summary) {
     padding-left: 2rem !important;
 }
 
@@ -27,6 +28,7 @@
     .error)> :is(.admonition-title, summary)::before,
 .md-typeset :is(.warning,
     .caution,
-    .attention)> :is(.admonition-title, summary)::before {
+    .attention)> :is(.admonition-title, summary)::before,
+.md-typeset :is(.abstract)> :is(.admonition-title, summary)::before {
     left: 0 !important;
 }
