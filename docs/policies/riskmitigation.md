@@ -5,6 +5,7 @@
 Managing safety through compliance has traditionally been at the forefront of thinking when it comes to safety. However, organisations might approach safety in 2 ways: by paying greater attention to the traditional tools of risk assessments and risk controls, often built upon risk avoidance, risk prevention or repression; or by learning to deploy a broader and more informed perspective of safety, beyond the applying and monitoring of controls, to that of **safety by design**.
 
 ### A Modern Approach
+
 Understanding safety by design starts instead by investing in **shared values and beliefs**, interacting with our organisation's structures and control systems to produce behavioural norms. That is, how the people and the cultures they develop, support a healthy **safety climate**.
 
 In organised outdoor learning it is common for there to be a residual level of risk that is judged to be tolerable and in balance with the benefits that will accrue.
@@ -25,7 +26,7 @@ _**Look, explore, listen, etc**_ - get to know the environment that you are work
 !!! danger
 
     _Rate the worst probable and possible consequence due to that hazard on a scale of 1-5:_
-    
+
     * Cause for minor concern e.g. a small graze, helmet rash, a small bruise;
     * Minor injuries treatable with a first aid kit but which wouldn’t normally require the attention of a medical officer e.g. cuts, twists, scratch
     * Injuries or ailments requiring evacuation and medical attention e.g. mild hypothermia, animal bites, an untreatable asthma attack, lacerations requiring stitches, minor breaks.
@@ -51,16 +52,17 @@ _**Look, explore, listen, etc**_ - get to know the environment that you are work
     6-8 is acceptable in outdoor activities (Although you may be able to reduce it with concise instruction and warnings).
 
 !!! danger
-    
+
     **8+? You must reduce it**
 
-If you identify a hazard and assess the risk to be greater than 8 you are expected to take steps to reduce the risk, which means clearly and concisely identifying the hazard to all people in your party, giving clear, concise instruction, issuing appropriate equipment and (_unless your purpose***** is to lead your clients through the hazardous environment_) leading them away from the hazard towards an environment in which the risk is acceptable.
+If you identify a hazard and assess the risk to be greater than 8 you are expected to take steps to reduce the risk, which means clearly and concisely identifying the hazard to all people in your party, giving clear, concise instruction, issuing appropriate equipment and (_unless your purpose**\*** is to lead your clients through the hazardous environment_) leading them away from the hazard towards an environment in which the risk is acceptable.
 
-* _If you are contracted to lead clients up an ice climb (as an example), their purpose would be to tackle any hazards encountered including those rated above level 8 because the clients’ enjoyment and fulfilment comes from that level of risk acceptance. However, even at this level the instructor should be taking reasonable precautions to ensure the safety of his/her clients - so a risk level 12 may be acceptable._
+-   _If you are contracted to lead clients up an ice climb (as an example), their purpose would be to tackle any hazards encountered including those rated above level 8 because the clients’ enjoyment and fulfilment comes from that level of risk acceptance. However, even at this level the instructor should be taking reasonable precautions to ensure the safety of his/her clients - so a risk level 12 may be acceptable._
 
 !!! abstract
 
     On occasion, an outdoor learning experience of great value may be judged to be right and proper even if some significant risks cannot be eliminated or significantly reduced. This is not a position to be entered in to lightly and without thought of the possible consequences.
 
 ## Planning Tool
+
 [Risk Assessment Planning Tool](assets/pdfs/risk-benefit-exercise.pdf)
