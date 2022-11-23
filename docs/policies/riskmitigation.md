@@ -2,12 +2,10 @@
 
 ## A Simple Risk Assessment Process
 
-Managing safety through compliance has traditionally been at the forefront of thinking when it comes to safety. However, organisations might approach safety in 2 ways: by paying greater attention to the traditional tools of risk assessments and risk controls, often built upon risk avoidance, risk prevention or repression; or by learning to deploy a broader and more informed perspective of safety, beyond the applying and monitoring of controls, to that of safety by design.
+Managing safety through compliance has traditionally been at the forefront of thinking when it comes to safety. However, organisations might approach safety in 2 ways: by paying greater attention to the traditional tools of risk assessments and risk controls, often built upon risk avoidance, risk prevention or repression; or by learning to deploy a broader and more informed perspective of safety, beyond the applying and monitoring of controls, to that of **safety by design**.
 
 ### A Modern Approach
 Understanding safety by design starts instead by investing in **shared values and beliefs**, interacting with our organisation's structures and control systems to produce behavioural norms. That is, how the people and the cultures they develop, support a healthy **safety climate**.
-
-_**Look, explore, listen, etc**_ - get to know the environment that you are working in, and the potential interaction between you, your participants and that environment. There is no point in assessing a risk without knowledge of the full implications.
 
 In organised outdoor learning it is common for there to be a residual level of risk that is judged to be tolerable and in balance with the benefits that will accrue.
 
@@ -15,6 +13,8 @@ It is desirable to give equal consideration to risks and benefits throughout the
 
 Hazards and risks cannot be considered in isolation; it is necessary to consider the maturity and experience of learners, the expertise of those leading them, wishes of parents and many other factors. En
 gagement with actual risk is vital if learners are to develop the skills to deal with the succession of risks they will meet in their own lives.
+
+_**Look, explore, listen, etc**_ - get to know the environment that you are working in, and the potential interaction between you, your participants and that environment. There is no point in assessing a risk without knowledge of the full implications.
 
 !!! info
 
