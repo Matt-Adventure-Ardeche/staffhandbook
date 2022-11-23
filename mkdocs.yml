@@ -21,6 +21,7 @@ nav:
   - Policies:
       - policies/safeguarding.md
       - policies/riskmitigation.md
+      - policies/ensuringQuality.md
   - Procedures:
       - still-to-write.md
   - Activities:
