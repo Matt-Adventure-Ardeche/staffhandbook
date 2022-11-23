@@ -94,6 +94,7 @@ plugins:
       back_cover: true
       cover_logo: docs/assets/images/AA.png
       cover_subtitle: Staff Handbook
+      render_js: true
     # enabled_if_env: ENABLE_PDF_EXPORT
     # debug_html: true
   - search
