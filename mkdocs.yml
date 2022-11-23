@@ -89,11 +89,11 @@ plugins:
       exclude:
         - index.md
       enable_creation_date: true
-  #- git-authors:
-   #   exclude:
-   #     - index.md
-   #   enabled: true
-    #  show_email_address: false
+  - git-authors:
+      exclude:
+        - index.md
+      enabled: true
+      show_email_address: false
 
 # EXTRAS
 extra:
