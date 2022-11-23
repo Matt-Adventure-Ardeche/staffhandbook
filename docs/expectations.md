@@ -7,7 +7,11 @@ An up-to-date knowledge of all safety and technical aspects of the subject or ac
 
 The ability to effectively manage the activity for which you are employed, and to deal effectively with all worst-case scenarios that you might encounter during the activity, hence all instructors must make available use of all appropriate safety equipment and familiarise themselves with respective emergency procedures.
 
-The ability to enable, motivate and support each and every individual customer: We do not expect staff to run "**standard**" activities, i.e. if one individual needs greater attention than another, we expect that it be provided with skill and without prejudice in order that that individual gains as much as they desire, rather than being required to conform to "normal" requirements. 
+The ability to enable, motivate and support each and every individual customer.
+
+> We do not expect staff to run "**standard**" activities
+
+If one individual needs greater attention than another, we expect that it be provided with skill and without prejudice in order that that individual gains as much as they desire, rather than being required to conform to "**normal**" requirements. 
 
 !!! note
     
@@ -15,20 +19,20 @@ The ability to enable, motivate and support each and every individual customer: 
 
 - That the Leadership Team is informed about any personal issue that may affect the quality of any aspect of your operation:
     * Such information should be given openly, and at the earliest possible opportunity.  
-    * We expect that staff will go out of their way to ensure that this happens.
+    * We would expect that staff will go out of their way to ensure that this happens.
 
 * An up-to-date knowledge and awareness of legal responsibilities, Health and Safety issues, PPE regulations, and risk assessment requirements.
 
-* That all accidents, incidents and near misses are reported.
+* That **all** accidents, incidents and near misses are reported and recorded.
 
-* That all first aid treatments are reported.
+* That **all** first aid treatments are reported.
 
-* That any information about guests that might be required prior to medical treatment, is obtained, recorded, and passed on to others only on a need to know basis, in confidence, and at the earliest opportunity.
+* That any information about guests that might be required prior to medical treatment, is obtained, recorded, and passed on to others **only** on a need to know basis, in confidence, and at the earliest opportunity.
 
 * That any questions regarding Health and Safety, guest care, professional duty, and any other matter between guest(s), and Adventure Ardeche personnel are referred to the Leadership Team at the earliest opportunity.
 
 ### Code of Practice
-For the safety and wellbeing of those involved in any activities during an Adventure Ardeche activity.
+For the safety and wellbeing of those involved in any activity, during an Adventure Ardeche experience.
 
 !!! info
 
@@ -36,7 +40,7 @@ For the safety and wellbeing of those involved in any activities during an Adven
 
 ### This code will be successfully operational when:
 
-* A good working relationship and clear communication exists between the staff running the activity and their guests and the Leadership Team.
+* A good working relationship and clear communication exists between the staff running the activity, their guests, and the Leadership Team.
 
 * We (*all staff involved*) carefully plan and prepare all activities and identify special and particular needs as early as practicable
 
@@ -126,7 +130,7 @@ Whilst engaging in an activity for the pure element of participation and fun is 
 
 * Through Unfamiliar Settings
 * Through activities that are Mentally & Physically Challenging
-* Guests have ‘More in them than they know’
+* Guests have ‘*More in them than they know*’
 
 **Supportive Environment**
 
