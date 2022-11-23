@@ -28,10 +28,7 @@ def inject_link(html: str, href: str,
     logger.info(f'(hook on inject_link: {page.title})')
     soup = BeautifulSoup(html, 'html.parser')
 
-    nav = soup.find(class_='md-header-nav')
-    if not nav:
-        # after 7.x
-        nav = soup.find('nav', class_='md-header__inner')
+    nav = soup.find('nav', class_='md-header__inner')
     if nav:
         a = soup.new_tag('a', href=href, title='PDF',
                          **{'class': 'md-header__button md-header-nav__button md-icon'})

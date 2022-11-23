@@ -94,8 +94,6 @@ plugins:
       back_cover: true
       cover_logo: docs/assets/images/AA.png
       cover_subtitle: Staff Handbook
-      output_path: docs/StaffHandbook.pdf
-      custom_template_path: docs/templates/styles.css
     # enabled_if_env: ENABLE_PDF_EXPORT
     # debug_html: true
   - search
