@@ -20,7 +20,7 @@ If there is no existing documentation set, some areas will be well documented, w
 Tuckman model is an approach to team development that helps teams understand their current state and develop strategies to move towards their goals. Tuckman (1965) identified four stages of team development, including Forming, Storming, Norming, and Performing, later extended to a Fifth stage - Adjourning.
 
 <figure markdown>
-![Tuckmans - Stages of Development](assets/images/tuckman_stages_of_group_development.webp){ width="800", loading=lazy } <figcaption>Tuckmans - Stages of Development</figcaption>
+![Tuckmans - Stages of Development](../assets/images/tuckman_stages_of_group_development.webp){ width="800", loading=lazy } <figcaption>Tuckmans - Stages of Development</figcaption>
 </figure>
 
 ### Five Stages of The Tuckman Model of Group Development
