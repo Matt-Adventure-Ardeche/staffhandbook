@@ -1,4 +1,4 @@
-# Ensuring Quality
+- [ ] # Ensuring Quality
 
 This document is in place to ensure that our client’s experience is of high quality. It is based on 5 fundamental standards.
 
