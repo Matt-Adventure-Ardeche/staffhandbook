@@ -33,7 +33,9 @@ nav:
       - activities/initiatives.md
       - activities/adventurechallenge.md
       - activities/ardecheolympics.md
-  - learning.md
+  - Learning:
+      - learning.md
+      - shapingprogrammes.md
   - Best Practices:
       - still-to-write.md
   - Resources:

@@ -3,6 +3,7 @@
     line-height: 1.7 !important;
 }
 
+.md-typeset :is(.question, .help, .faq)> :is(.admonition-title, summary),
 .md-typeset :is(.tip, .hint, .important)> :is(.admonition-title, summary),
 .md-typeset :is(.note)> :is(.admonition-title, summary),
 .md-typeset :is(.info,
@@ -20,6 +21,7 @@
     padding-left: 2rem !important;
 }
 
+.md-typeset :is(.question, .help, .faq)> :is(.admonition-title, summary)::before,
 .md-typeset :is(.note)> :is(.admonition-title, summary)::before,
 .md-typeset :is(.tip, .hint,
     .important)> :is(.admonition-title, summary)::before,
