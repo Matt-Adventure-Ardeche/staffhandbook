@@ -38,13 +38,3 @@
 .md-typeset :is(.abstract)> :is(.admonition-title, summary)::before {
     left: 0 !important;
 }
-
-/* icons */
-.md-typeset :is(.emojione, .twemoji, .gemoji) {
-    vertical-align: text-bottom !important;
-}
-
-.pdf {
-    color: darkred;
-    font-size: 1.1rem;
-}

@@ -6,7 +6,7 @@ This online document is essentially a **HANDBOOK** to guide you through the syst
 
     Those systems are laid out in the menu on the left in order of need.
 
-The handbook is provided so that staff have a easily accessible reference to the informations, systems, other resources etc to hand. It is also available as a paper based resource in the Centre Managers office and Activity Managers office. You can also load as a **.pdf** by clicking the :fontawesome-regular-file-pdf:{ .pdf } icon in the top right of the browser window.
+The handbook is provided so that staff have a easily accessible reference to the informations, systems, other resources etc to hand. It is also available as a paper based resource in the Centre Managers office and Activity Managers office. You can also load as a **.pdf** by clicking the ![](assets/images/pdf.png){width="22"} icon in the top right of the browser window.
 
 The handbook is designed so that whenever a staff member is unsure of their requirements they can firstly refer to the handbook, before then approaching either the Activity Manager or Centre Manager for further clarification of their query.
 
