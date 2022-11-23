@@ -63,4 +63,4 @@ If you identify a hazard and assess the risk to be greater than 8 you are expect
     On occasion, an outdoor learning experience of great value may be judged to be right and proper even if some significant risks cannot be eliminated or significantly reduced. This is not a position to be entered in to lightly and without thought of the possible consequences.
 
 ## Planning Tool
-[Risk Assessment Planning Tool](../assets/pdfs/risk-benefit-exercise.pdf)
+[Risk Assessment Planning Tool](assets/pdfs/risk-benefit-exercise.pdf)
