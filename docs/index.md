@@ -17,6 +17,6 @@ v0.0.1-2023
 
 Supporting **Learning Objectives** & **Efficiency** to create **High Quality Provision** & making learning outdoors accessible to all.
 
-### MPOWER YOUNG PEOPLE TO THRIVE
+### EMPOWER YOUNG PEOPLE TO THRIVE
 
 Immersion in the outdoors builds core skills for their future.
