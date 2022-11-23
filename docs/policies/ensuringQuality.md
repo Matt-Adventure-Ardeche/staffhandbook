@@ -25,7 +25,7 @@ Feedback is collected through daily conversations with visiting staff and group 
 
 ## Safety and Risk Management
 
-Safety and risk management is of fundamental importance to us. We have adopted the **Outdoor Education Activity Providors** national guidance for our approach to this area. Our approach can be summarised in the following sentence.
+Safety and risk management is of fundamental importance to us. We have adopted the **Outdoor Education Activity Providers** national guidance for our approach to this area. Our approach can be summarised in the following sentence.
 
 !!! info ""
     We ensure the right leaders, do the right activities, with the right people, in the right places at the right time.
