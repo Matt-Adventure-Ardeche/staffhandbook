@@ -1,4 +1,8 @@
 .env
 
+# Folders and files to ignore
 site
 site/sitemap.xml.gz
+_pycache_
+for_pdf_print.html
+pdf_event_hook.py
