@@ -23,7 +23,7 @@ nav:
       - policies/riskmitigation.md
       - policies/ensuringQuality.md
   - Procedures:
-      - still-to-write.md
+      - staffhandbook/still-to-write.md
   - Activities:
       - activities/ardeche.md
       - activities/raft-build.md
@@ -35,13 +35,13 @@ nav:
       - activities/ardecheolympics.md
   - learning.md
   - Best Practices:
-      - still-to-write.md
+      - staffhandbook/still-to-write.md
   - Resources:
       - resources/resources.md
   - Reference:
-      - still-to-write.md
+      - staffhandbook/still-to-write.md
   - Personal Adventure:
-      - still-to-write.md
+      - staffhandbook/still-to-write.md
   
 # THEME
 theme:
