@@ -1,0 +1,1024 @@
+<html><head>
+<meta charset="utf-8"/>
+<meta content="width=device-width,initial-scale=1" name="viewport"/>
+<meta content="Matt Thompson, Adventure Ardeche" name="author"/>
+<link href="file:///home/matthew/AA/staffhandbook/site/assets/images/favicon.png" rel="icon"/>
+<meta content="mkdocs-1.4.2, mkdocs-material-8.5.10" name="generator"/>
+<title>Adventure Ardeche</title>
+<link href="file:///home/matthew/AA/staffhandbook/site/assets/stylesheets/main.472b142f.min.css" rel="stylesheet"/>
+<link href="file:///home/matthew/AA/staffhandbook/site/assets/stylesheets/palette.08040f6c.min.css" rel="stylesheet"/>
+<style>:root{--md-admonition-icon--note:url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc.--><path d="M64 32C28.7 32 0 60.7 0 96v320c0 35.3 28.7 64 64 64h226.7c17 0 33.3-6.7 45.3-18.7l93.3-93.3c12-12 18.7-28.3 18.7-45.3V96c0-35.3-28.7-64-64-64H64zm0 64h320v224h-64c-17.7 0-32 14.3-32 32v64H64V96z"/></svg>');--md-admonition-icon--abstract:url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc.--><path d="M96 0C43 0 0 43 0 96v320c0 53 43 96 96 96h320c17.7 0 32-14.3 32-32s-14.3-32-32-32v-64c17.7 0 32-14.3 32-32V32c0-17.7-14.3-32-32-32H96zm0 384h256v64H96c-17.7 0-32-14.3-32-32s14.3-32 32-32zm32-240c0-8.8 7.2-16 16-16h192c8.8 0 16 7.2 16 16s-7.2 16-16 16H144c-8.8 0-16-7.2-16-16zm16 48h192c8.8 0 16 7.2 16 16s-7.2 16-16 16H144c-8.8 0-16-7.2-16-16s7.2-16 16-16z"/></svg>');--md-admonition-icon--info:url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc.--><path d="M256 512c141.4 0 256-114.6 256-256S397.4 0 256 0 0 114.6 0 256s114.6 256 256 256zm-40-176h24v-64h-24c-13.3 0-24-10.7-24-24s10.7-24 24-24h48c13.3 0 24 10.7 24 24v88h8c13.3 0 24 10.7 24 24s-10.7 24-24 24h-80c-13.3 0-24-10.7-24-24s10.7-24 24-24zm40-144c-17.7 0-32-14.3-32-32s14.3-32 32-32 32 14.3 32 32-14.3 32-32 32z"/></svg>');--md-admonition-icon--tip:url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc.--><path d="M480 32c0-12.9-7.8-24.6-19.8-29.6S434.5.2 425.3 9.3L381.7 53c-48 48-113.1 75-181 75H64c-35.3 0-64 28.7-64 64v96c0 35.3 28.7 64 64 64v128c0 17.7 14.3 32 32 32h64c17.7 0 32-14.3 32-32V352h8.7c67.9 0 133 27 181 75l43.6 43.6c9.2 9.2 22.9 11.9 34.9 6.9s19.8-16.6 19.8-29.6V300.4c18.6-8.8 32-32.5 32-60.4s-13.4-51.6-32-60.4V32zm-64 76.7v262.6C357.2 317.8 280.5 288 200.7 288H192v-96h8.7c79.8 0 156.5-29.8 215.3-83.3z"/></svg>');--md-admonition-icon--success:url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc.--><path d="M470.6 105.4c12.5 12.5 12.5 32.8 0 45.3l-256 256c-12.5 12.5-32.8 12.5-45.3 0l-128-128c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0L192 338.7l233.4-233.3c12.5-12.5 32.8-12.5 45.3 0z"/></svg>');--md-admonition-icon--question:url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc.--><path d="M256 512c141.4 0 256-114.6 256-256S397.4 0 256 0 0 114.6 0 256s114.6 256 256 256zm-86.2-346.7c7.9-22.3 29.1-37.3 52.8-37.3h58.3c34.9 0 63.1 28.3 63.1 63.1 0 22.6-12.1 43.5-31.7 54.8L280 264.4c-.2 13-10.9 23.6-24 23.6-13.3 0-24-10.7-24-24v-13.5c0-8.6 4.6-16.5 12.1-20.8l44.3-25.4c4.7-2.7 7.6-7.7 7.6-13.1 0-8.4-6.8-15.1-15.1-15.1h-58.3c-3.4 0-6.4 2.1-7.5 5.3l-.4 1.2c-4.4 12.5-18.2 19-30.6 14.6s-19-18.2-14.6-30.6l.4-1.2zM288 352c0 17.7-14.3 32-32 32s-32-14.3-32-32 14.3-32 32-32 32 14.3 32 32z"/></svg>');--md-admonition-icon--warning:url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc.--><path d="M256 32c14.2 0 27.3 7.5 34.5 19.8l216 368c7.3 12.4 7.3 27.7.2 40.1S486.3 480 472 480H40c-14.3 0-27.6-7.7-34.7-20.1s-7-27.8.2-40.1l216-368C228.7 39.5 241.8 32 256 32zm0 128c-13.3 0-24 10.7-24 24v112c0 13.3 10.7 24 24 24s24-10.7 24-24V184c0-13.3-10.7-24-24-24zm32 224c0-17.7-14.3-32-32-32s-32 14.3-32 32 14.3 32 32 32 32-14.3 32-32z"/></svg>');--md-admonition-icon--failure:url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc.--><path d="M459.1 52.4 442.6 6.5c-1.9-3.9-6.1-6.5-10.5-6.5s-8.5 2.6-10.4 6.5l-16.5 45.9-46 16.8c-4.3 1.6-7.3 5.9-7.2 10.4 0 4.5 3 8.7 7.2 10.2l45.7 16.8 16.8 45.8c1.5 4.4 5.8 7.5 10.4 7.5s8.9-3.1 10.4-7.5l16.5-45.8 45.7-16.8c4.2-1.5 7.2-5.7 7.2-10.2 0-4.6-3-8.9-7.2-10.4l-45.6-16.8zm-132.4 53c-12.5-12.5-32.8-12.5-45.3 0l-2.9 2.9c-22-8-45.8-12.3-70.5-12.3C93.1 96 0 189.1 0 304s93.1 208 208 208 208-93.1 208-208c0-24.7-4.3-48.5-12.2-70.5l2.9-2.9c12.5-12.5 12.5-32.8 0-45.3l-80-80zM200 192c-57.4 0-104 46.6-104 104v8c0 8.8-7.2 16-16 16s-16-7.2-16-16v-8c0-75.1 60.9-136 136-136h8c8.8 0 16 7.2 16 16s-7.2 16-16 16h-8z"/></svg>');--md-admonition-icon--danger:url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc.--><path d="M416 398.9c58.5-41.1 96-104.1 96-174.9C512 100.3 397.4 0 256 0S0 100.3 0 224c0 70.7 37.5 133.8 96 174.9V464c0 26.5 21.5 48 48 48h48v-48c0-8.8 7.2-16 16-16s16 7.2 16 16v48h64v-48c0-8.8 7.2-16 16-16s16 7.2 16 16v48h48c26.5 0 48-21.5 48-48v-65.1zM224 256c0 35.3-28.7 64-64 64s-64-28.7-64-64 28.7-64 64-64 64 28.7 64 64zm128 64c-35.3 0-64-28.7-64-64s28.7-64 64-64 64 28.7 64 64-28.7 64-64 64z"/></svg>');--md-admonition-icon--bug:url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc.--><path d="M320 0c17.7 0 32 14.3 32 32v64h128c35.3 0 64 28.7 64 64v288c0 35.3-28.7 64-64 64H160c-35.3 0-64-28.7-64-64V160c0-35.3 28.7-64 64-64h128V32c0-17.7 14.3-32 32-32zM208 384c-8.8 0-16 7.2-16 16s7.2 16 16 16h32c8.8 0 16-7.2 16-16s-7.2-16-16-16h-32zm96 0c-8.8 0-16 7.2-16 16s7.2 16 16 16h32c8.8 0 16-7.2 16-16s-7.2-16-16-16h-32zm96 0c-8.8 0-16 7.2-16 16s7.2 16 16 16h32c8.8 0 16-7.2 16-16s-7.2-16-16-16h-32zM264 256c0-22.1-17.9-40-40-40s-40 17.9-40 40 17.9 40 40 40 40-17.9 40-40zm152 40c22.1 0 40-17.9 40-40s-17.9-40-40-40-40 17.9-40 40 17.9 40 40 40zM48 224h16v192H48c-26.5 0-48-21.5-48-48v-96c0-26.5 21.5-48 48-48zm544 0c26.5 0 48 21.5 48 48v96c0 26.5-21.5 48-48 48h-16V224h16z"/></svg>');--md-admonition-icon--example:url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc.--><path d="M288 0H128c-17.7 0-32 14.3-32 32s14.3 32 32 32v132.8c0 11.8-3.3 23.5-9.5 33.5L10.3 406.2C3.6 417.2 0 429.7 0 442.6 0 480.9 31.1 512 69.4 512h309.2c38.3 0 69.4-31.1 69.4-69.4 0-12.8-3.6-25.4-10.3-36.4L329.5 230.4c-6.2-10.1-9.5-21.7-9.5-33.5V64c17.7 0 32-14.3 32-32S337.7 0 320 0h-32zm-96 196.8V64h64v132.8c0 23.7 6.6 46.9 19 67.1l34.5 56.1h-171l34.5-56.1c12.4-20.2 19-43.4 19-67.1z"/></svg>');--md-admonition-icon--quote:url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc.--><path d="M0 216C0 149.7 53.7 96 120 96h8c17.7 0 32 14.3 32 32s-14.3 32-32 32h-8c-30.9 0-56 25.1-56 56v8h64c35.3 0 64 28.7 64 64v64c0 35.3-28.7 64-64 64H64c-35.3 0-64-28.7-64-64V216zm256 0c0-66.3 53.7-120 120-120h8c17.7 0 32 14.3 32 32s-14.3 32-32 32h-8c-30.9 0-56 25.1-56 56v8h64c35.3 0 64 28.7 64 64v64c0 35.3-28.7 64-64 64h-64c-35.3 0-64-28.7-64-64V216z"/></svg>');}</style>
+<link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/>
+<link href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&amp;display=fallback" rel="stylesheet"/>
+<style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+<link href="file:///home/matthew/AA/staffhandbook/site/assets/css/extra.css" rel="stylesheet"/>
+<script>__md_scope=new URL(".",location),__md_hash=e=>[...e].reduce((e,_)=>(e<<5)-e+_.charCodeAt(0),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+<style>@charset "UTF-8";
+:root {
+  string-set: author 'Matt Thompson, Adventure Ardeche', copyright 'Copyright © 2022 - 2023 Adventure Ardeche. All Rights Reserved.', title 'Adventure Ardeche'; }
+
+h1, h2, h3 {
+  string-set: chapter content(); }
+@page {
+  size: a4 portrait;
+  margin: 25mm 10mm 25mm 10mm;
+  counter-increment: page;
+  white-space: pre;
+  color: grey;
+  @top-right {
+    font-size: 7pt;
+    content: string(chapter); }
+  @bottom-center {
+    font-size: 8pt;
+    content: "- " counter(page) "/" counter(pages) " -"; }
+  @bottom-right {
+    font-size: 6pt;
+    content: string(copyright); } }
+
+@media print {
+  body {
+    background: none;
+    background-color: #fff; } }
+
+article,
+section + section {
+  page-break-before: always;
+  min-height: 100vh;
+  /* Defining all page breaks */ }
+  article,
+  article h1,
+  article h2,
+  article h3,
+  article h4,
+  article h5,
+  article h6,
+  article div.tabbed-content--wrap > .tabbed-content,
+  section + section,
+  section + section h1,
+  section + section h2,
+  section + section h3,
+  section + section h4,
+  section + section h5,
+  section + section h6,
+  section + section div.tabbed-content--wrap > .tabbed-content {
+    clear: both; }
+  article h1,
+  article h2,
+  article h3,
+  article h4,
+  article h5,
+  article h6,
+  article img,
+  section + section h1,
+  section + section h2,
+  section + section h3,
+  section + section h4,
+  section + section h5,
+  section + section h6,
+  section + section img {
+    page-break-after: avoid;
+    page-break-inside: avoid; }
+  article a,
+  article blockquote,
+  article table,
+  article ul,
+  article ol,
+  section + section a,
+  section + section blockquote,
+  section + section table,
+  section + section ul,
+  section + section ol {
+    page-break-before: avoid;
+    page-break-inside: avoid; }
+  article pre,
+  article dt + dd,
+  section + section pre,
+  section + section dt + dd {
+    page-break-before: avoid; }
+  article h1 + ul,
+  article h2 + ul,
+  article h3 + ul,
+  article h4 + ul,
+  article h5 + ul,
+  article h6 + ul,
+  article h1 + ol,
+  article h2 + ol,
+  article h3 + ol,
+  article h4 + ol,
+  article h5 + ol,
+  article h6 + ol,
+  section + section h1 + ul,
+  section + section h2 + ul,
+  section + section h3 + ul,
+  section + section h4 + ul,
+  section + section h5 + ul,
+  section + section h6 + ul,
+  section + section h1 + ol,
+  section + section h2 + ol,
+  section + section h3 + ol,
+  section + section h4 + ol,
+  section + section h5 + ol,
+  section + section h6 + ol {
+    page-break-inside: auto; }
+  article div.admonition,
+  section + section div.admonition {
+    page-break-inside: avoid; }
+  article div.tabbed-content--wrap,
+  section + section div.tabbed-content--wrap {
+    page-break-inside: avoid; }
+  article * + div.highlight,
+  article * + div.tabbed-set,
+  section + section * + div.highlight,
+  section + section * + div.tabbed-set {
+    page-break-before: avoid; }
+
+section.two-columns {
+  columns: 2;
+  column-gap: 1cm; }
+
+article h1 {
+  border-bottom: 2px solid #f00; }
+
+article h2 {
+  border-bottom: 1px solid #f99; }
+
+article h3 {
+  border-bottom: 0.5px solid #eee; }
+
+article h1 > .pdf-order,
+article h2 > .pdf-order,
+article h3 > .pdf-order {
+  padding-left: 6px; }
+
+article#doc-toc {
+  margin: 0 .8rem 1.2rem;
+  padding-top: .6rem;
+  font-size: 12pt;
+  line-height: 1.6; }
+  article#doc-toc > h1 {
+    margin: 0 0 2rem;
+    color: rgba(0, 0, 0, 0.54);
+    font-size: 1.2rem;
+    font-weight: 300;
+    letter-spacing: -.01em;
+    page-break-after: auto;
+    page-break-inside: auto;
+    bookmark-level: none; }
+    article#doc-toc > h1::before {
+      display: block;
+      margin-top: -9px;
+      padding-top: 9px;
+      content: ""; }
+  article#doc-toc ul {
+    list-style: none;
+    padding-left: 0;
+    margin-left: 1em;
+    font-size: 8pt;
+    page-break-inside: auto !important; }
+  article#doc-toc li {
+    list-style: none; }
+    article#doc-toc li > a {
+      color: inherit;
+      text-decoration: none;
+      padding-top: 0.4rem;
+      border-bottom: 1px dotted #ddd;
+      display: inline-block;
+      width: 100%; }
+      article#doc-toc li > a > .pdf-order {
+        padding-right: 0.5em; }
+      article#doc-toc li > a::after {
+        float: right;
+        content: target-counter(attr(href), page); }
+
+@media print {
+  html {
+    font-size: 95%;
+    font-family: 'Kelmscott Roman NF', 'Noto Serif JP', serif; }
+  body {
+    font-size: 10.5pt;
+    font-family: 'Classico URW T OT', 'Noto Serif JP', serif; }
+  article {
+    font-size: 0.8rem;
+    line-height: 1.6; }
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6,
+  label {
+    font-family: 'Gentium Book Basic', 'Helvetica Neue', Helvetica, Arial, 'Noto Sans JP', 'Roboto', sans-serif; }
+  pre,
+  code,
+  var,
+  samp,
+  kbd,
+  tt {
+    font-family: 'Noto Sans Mono CJK JP', 'Courier New', monospace, serif;
+    font-size: 0.8em; }
+  pre code,
+  pre var,
+  pre samp,
+  pre kbd,
+  pre tt {
+    font-size: 100%; } }
+@page :first {
+  @top-right {
+    content: normal; }
+  @bottom-center {
+    content: normal; }
+  @bottom-right {
+    content: normal; } }
+
+article#doc-cover {
+  display: flex;
+  flex-direction: column;
+  height: 100vh; }
+  article#doc-cover > .wrapper {
+    flex: 1 0 auto;
+    text-align: center;
+    padding: 0 3rem; }
+    article#doc-cover > .wrapper.upper {
+      flex: 1 1 auto;
+      max-height: 30vh; }
+      article#doc-cover > .wrapper.upper > .logo {
+        width: 100%;
+        height: 100%;
+        background-position: center bottom;
+        background-repeat: no-repeat;
+        background-size: contain; }
+    article#doc-cover > .wrapper h1 {
+      font-size: 36pt;
+      line-height: 1.4; }
+    article#doc-cover > .wrapper h2 {
+      border: none;
+      bookmark-level: none; }
+  article#doc-cover > .properties {
+    flex: 0 0 auto;
+    text-align: right;
+    padding: 0 2rem; }
+    article#doc-cover > .properties p#copyright {
+      font-size: 80%; }
+
+article#doc-back_cover {
+  page: back_cover;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  text-align: center; }
+  article#doc-back_cover .wrapper {
+    flex: 1 0 auto;
+    display: inline-block;
+    background: #eee; }
+  article#doc-back_cover .qrcode {
+    display: inline-block;
+    flex: 0 0 auto;
+    background: #eee; }
+    article#doc-back_cover .qrcode > a {
+      display: inline-block;
+      padding: 0.5em 2em;
+      border-radius: 1em;
+      background-color: #fff; }
+      article#doc-back_cover .qrcode > a img {
+        width: 100%;
+        height: auto; }
+
+@page back_cover {
+  background-color: #eee;
+  @top-right {
+    content: normal; }
+  @bottom-center {
+    content: normal; }
+  @bottom-left {
+    font-size: 8pt;
+    content: string(title); }
+  @bottom-right {
+    font-size: 8pt;
+    content: string(copyright); } }
+</style><style>@media print {
+  .md-typeset .tabbed-set {
+    display: block; }
+    .md-typeset .tabbed-set .tabbed-content--wrap {
+      display: inline-block;
+      width: 100%;
+      margin-bottom: 0.25rem; }
+      .md-typeset .tabbed-set .tabbed-content--wrap > input {
+        display: none; }
+      .md-typeset .tabbed-set .tabbed-content--wrap > label {
+        background-color: rgba(170, 170, 170, 0.2);
+        padding: 0.2rem 2rem;
+        margin: 0;
+        font-weight: 600;
+        color: #666;
+        border-radius: 3px 3px 0 0;
+        border-bottom-color: transparent; }
+      .md-typeset .tabbed-set .tabbed-content--wrap > .tabbed-content {
+        display: block;
+        box-shadow: none; }
+  .md-typeset .admonition-title + .tabbed-set:last-child,
+  .md-typeset summary + .tabbed-set:last-child {
+    margin-top: 0.5rem; }
+  .md-typeset > details summary::after {
+    display: none; }
+  .md-typeset > div, .md-typeset > div.admonition, .md-typeset > details, .md-typeset > div.tabbed-set, .md-typeset > blockquote, .md-typeset > mark, .md-typeset > table, .md-typeset > p {
+    margin-left: 0.7rem; }
+  .md-typeset > table.highlighttable {
+    margin: 0 0 0 0.7rem; }
+  .md-typeset table.highlighttable,
+  .md-typeset table.highlighttable > tbody {
+    width: 100%; }
+  .md-typeset table.highlighttable {
+    padding-bottom: 0.5em; }
+    .md-typeset table.highlighttable .linenos {
+      padding-bottom: 0; }
+  .md-typeset > ul {
+    margin-left: 1.5rem; }
+  .md-typeset h4,
+  .md-typeset h5,
+  .md-typeset h6 {
+    margin-left: 0.25rem; }
+  .md-typeset *:not(h3) + h4 {
+    margin-top: 1.5rem; }
+  .md-typeset hr {
+    border-bottom: 1px dotted #999; }
+  .md-typeset .footnote {
+    line-height: 1.1; }
+  .md-typeset table:not([class]) th, .md-typeset table:not([class]) td {
+    padding: 0.5em 1.25rem 0.4em; }
+  .md-typeset table:not([class]) td {
+    border-bottom: 1px solid #eee; }
+  .md-typeset span.twemoji {
+    vertical-align: middle;
+    height: 1.125rem;
+    display: inline-block; }
+    .md-typeset span.twemoji > img {
+      height: 1.125rem;
+      vertical-align: middle;
+      display: inline-block; } }
+.md-typeset kbd {
+  vertical-align: middle;
+  border-color: #b8b8b8;
+  border-style: outset;
+  border-width: .05rem .075rem .1rem .075rem;
+  border-radius: .25rem;
+  box-shadow: none; }
+
+:root {
+  --print-md-admonition-icon--note: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="%23448aff"><path d="M20.71 7.04c.39-.39.39-1.04 0-1.41l-2.34-2.34c-.37-.39-1.02-.39-1.41 0l-1.84 1.83 3.75 3.75M3 17.25V21h3.75L17.81 9.93l-3.75-3.75L3 17.25z"/></svg>');
+  --print-md-admonition-icon--abstract: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="%2300b0ff"><path d="M4 5h16v2H4V5m0 4h16v2H4V9m0 4h16v2H4v-2m0 4h10v2H4v-2z"/></svg>');
+  --print-md-admonition-icon--info: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="%2300b8d4"><path d="M13 9h-2V7h2m0 10h-2v-6h2m-1-9A10 10 0 002 12a10 10 0 0010 10 10 10 0 0010-10A10 10 0 0012 2z"/></svg>');
+  --print-md-admonition-icon--tip: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="%2300bfa5"><path d="M17.66 11.2c-.23-.3-.51-.56-.77-.82-.67-.6-1.43-1.03-2.07-1.66C13.33 7.26 13 4.85 13.95 3c-.95.23-1.78.75-2.49 1.32-2.59 2.08-3.61 5.75-2.39 8.9.04.1.08.2.08.33 0 .22-.15.42-.35.5-.23.1-.47.04-.66-.12a.58.58 0 01-.14-.17c-1.13-1.43-1.31-3.48-.55-5.12C5.78 10 4.87 12.3 5 14.47c.06.5.12 1 .29 1.5.14.6.41 1.2.71 1.73 1.08 1.73 2.95 2.97 4.96 3.22 2.14.27 4.43-.12 6.07-1.6 1.83-1.66 2.47-4.32 1.53-6.6l-.13-.26c-.21-.46-.77-1.26-.77-1.26m-3.16 6.3c-.28.24-.74.5-1.1.6-1.12.4-2.24-.16-2.9-.82 1.19-.28 1.9-1.16 2.11-2.05.17-.8-.15-1.46-.28-2.23-.12-.74-.1-1.37.17-2.06.19.38.39.76.63 1.06.77 1 1.98 1.44 2.24 2.8.04.14.06.28.06.43.03.82-.33 1.72-.93 2.27z"/></svg>');
+  --print-md-admonition-icon--success: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="%2300c853"><path d="M12 2C6.5 2 2 6.5 2 12s4.5 10 10 10 10-4.5 10-10S17.5 2 12 2m-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"/></svg>');
+  --print-md-admonition-icon--question: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="%2364dd17"><path d="M15.07 11.25l-.9.92C13.45 12.89 13 13.5 13 15h-2v-.5c0-1.11.45-2.11 1.17-2.83l1.24-1.26c.37-.36.59-.86.59-1.41a2 2 0 00-2-2 2 2 0 00-2 2H8a4 4 0 014-4 4 4 0 014 4 3.2 3.2 0 01-.93 2.25M13 19h-2v-2h2M12 2A10 10 0 002 12a10 10 0 0010 10 10 10 0 0010-10c0-5.53-4.5-10-10-10z"/></svg>');
+  --print-md-admonition-icon--warning: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="%23ff9100"><path d="M13 14h-2V9h2m0 9h-2v-2h2M1 21h22L12 2 1 21z"/></svg>');
+  --print-md-admonition-icon--failure: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="%23ff5252"><path d="M12 2c5.53 0 10 4.47 10 10s-4.47 10-10 10S2 17.53 2 12 6.47 2 12 2m3.59 5L12 10.59 8.41 7 7 8.41 10.59 12 7 15.59 8.41 17 12 13.41 15.59 17 17 15.59 13.41 12 17 8.41 15.59 7z"/></svg>');
+  --print-md-admonition-icon--danger: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="%23ff1744"><path d="M11.5 20l4.86-9.73H13V4l-5 9.73h3.5V20M12 2c2.75 0 5.1 1 7.05 2.95C21 6.9 22 9.25 22 12s-1 5.1-2.95 7.05C17.1 21 14.75 22 12 22s-5.1-1-7.05-2.95C3 17.1 2 14.75 2 12s1-5.1 2.95-7.05C6.9 3 9.25 2 12 2z"/></svg>');
+  --print-md-admonition-icon--bug: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="%23f50057"><path d="M14 12h-4v-2h4m0 6h-4v-2h4m6-6h-2.81a5.985 5.985 0 00-1.82-1.96L17 4.41 15.59 3l-2.17 2.17a6.002 6.002 0 00-2.83 0L8.41 3 7 4.41l1.62 1.63C7.88 6.55 7.26 7.22 6.81 8H4v2h2.09c-.05.33-.09.66-.09 1v1H4v2h2v1c0 .34.04.67.09 1H4v2h2.81c1.04 1.79 2.97 3 5.19 3s4.15-1.21 5.19-3H20v-2h-2.09c.05-.33.09-.66.09-1v-1h2v-2h-2v-1c0-.34-.04-.67-.09-1H20V8z"/></svg>');
+  --print-md-admonition-icon--example: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="%23651fff"><path d="M7 13v-2h14v2H7m0 6v-2h14v2H7M7 7V5h14v2H7M3 8V5H2V4h2v4H3m-1 9v-1h3v4H2v-1h2v-.5H3v-1h1V17H2m2.25-7a.75.75 0 01.75.75c0 .2-.08.39-.21.52L3.12 13H5v1H2v-.92L4 11H2v-1h2.25z"/></svg>');
+  --print-md-admonition-icon--quote: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="%239e9e9e"><path d="M14 17h3l2-4V7h-6v6h3M6 17h3l2-4V7H5v6h3l-2 4z"/></svg>'); }
+
+@media print {
+  .md-typeset .admonition-title {
+    padding: .6rem .6rem .4rem 2.2rem; }
+  .md-typeset .admonition-title::before {
+    margin-top: -0.15rem;
+    background-color: transparent;
+    background-image: var(--print-md-admonition-icon--note); }
+  .md-typeset .note > .admonition-title, .md-typeset .note > summary {
+    padding: .6rem .6rem .4rem 2.2rem; }
+  .md-typeset .note > .admonition-title::before, .md-typeset .note > summary::before {
+    margin-top: -0.15rem;
+    background-color: transparent;
+    background-image: var(--print-md-admonition-icon--note); }
+  .md-typeset .abstract > .admonition-title, .md-typeset .tldr > .admonition-title, .md-typeset .summary > .admonition-title, .md-typeset .abstract > summary, .md-typeset .tldr > summary, .md-typeset .summary > summary {
+    padding: .6rem .6rem .4rem 2.2rem; }
+  .md-typeset .abstract > .admonition-title::before, .md-typeset .tldr > .admonition-title::before, .md-typeset .summary > .admonition-title::before, .md-typeset .abstract > summary::before, .md-typeset .tldr > summary::before, .md-typeset .summary > summary::before {
+    margin-top: -0.15rem;
+    background-color: transparent;
+    background-image: var(--print-md-admonition-icon--abstract); }
+  .md-typeset .info > .admonition-title, .md-typeset .todo > .admonition-title, .md-typeset .info > summary, .md-typeset .todo > summary {
+    padding: .6rem .6rem .4rem 2.2rem; }
+  .md-typeset .info > .admonition-title::before, .md-typeset .todo > .admonition-title::before, .md-typeset .info > summary::before, .md-typeset .todo > summary::before {
+    margin-top: -0.15rem;
+    background-color: transparent;
+    background-image: var(--print-md-admonition-icon--info); }
+  .md-typeset .tip > .admonition-title, .md-typeset .important > .admonition-title, .md-typeset .hint > .admonition-title, .md-typeset .tip > summary, .md-typeset .important > summary, .md-typeset .hint > summary {
+    padding: .6rem .6rem .4rem 2.2rem; }
+  .md-typeset .tip > .admonition-title::before, .md-typeset .important > .admonition-title::before, .md-typeset .hint > .admonition-title::before, .md-typeset .tip > summary::before, .md-typeset .important > summary::before, .md-typeset .hint > summary::before {
+    margin-top: -0.15rem;
+    background-color: transparent;
+    background-image: var(--print-md-admonition-icon--tip); }
+  .md-typeset .success > .admonition-title, .md-typeset .done > .admonition-title, .md-typeset .check > .admonition-title, .md-typeset .success > summary, .md-typeset .done > summary, .md-typeset .check > summary {
+    padding: .6rem .6rem .4rem 2.2rem; }
+  .md-typeset .success > .admonition-title::before, .md-typeset .done > .admonition-title::before, .md-typeset .check > .admonition-title::before, .md-typeset .success > summary::before, .md-typeset .done > summary::before, .md-typeset .check > summary::before {
+    margin-top: -0.15rem;
+    background-color: transparent;
+    background-image: var(--print-md-admonition-icon--success); }
+  .md-typeset .question > .admonition-title, .md-typeset .faq > .admonition-title, .md-typeset .help > .admonition-title, .md-typeset .question > summary, .md-typeset .faq > summary, .md-typeset .help > summary {
+    padding: .6rem .6rem .4rem 2.2rem; }
+  .md-typeset .question > .admonition-title::before, .md-typeset .faq > .admonition-title::before, .md-typeset .help > .admonition-title::before, .md-typeset .question > summary::before, .md-typeset .faq > summary::before, .md-typeset .help > summary::before {
+    margin-top: -0.15rem;
+    background-color: transparent;
+    background-image: var(--print-md-admonition-icon--question); }
+  .md-typeset .warning > .admonition-title, .md-typeset .attention > .admonition-title, .md-typeset .caution > .admonition-title, .md-typeset .warning > summary, .md-typeset .attention > summary, .md-typeset .caution > summary {
+    padding: .6rem .6rem .4rem 2.2rem; }
+  .md-typeset .warning > .admonition-title::before, .md-typeset .attention > .admonition-title::before, .md-typeset .caution > .admonition-title::before, .md-typeset .warning > summary::before, .md-typeset .attention > summary::before, .md-typeset .caution > summary::before {
+    margin-top: -0.15rem;
+    background-color: transparent;
+    background-image: var(--print-md-admonition-icon--warning); }
+  .md-typeset .failure > .admonition-title, .md-typeset .missing > .admonition-title, .md-typeset .fail > .admonition-title, .md-typeset .failure > summary, .md-typeset .missing > summary, .md-typeset .fail > summary {
+    padding: .6rem .6rem .4rem 2.2rem; }
+  .md-typeset .failure > .admonition-title::before, .md-typeset .missing > .admonition-title::before, .md-typeset .fail > .admonition-title::before, .md-typeset .failure > summary::before, .md-typeset .missing > summary::before, .md-typeset .fail > summary::before {
+    margin-top: -0.15rem;
+    background-color: transparent;
+    background-image: var(--print-md-admonition-icon--failure); }
+  .md-typeset .danger > .admonition-title, .md-typeset .error > .admonition-title, .md-typeset .danger > summary, .md-typeset .error > summary {
+    padding: .6rem .6rem .4rem 2.2rem; }
+  .md-typeset .danger > .admonition-title::before, .md-typeset .error > .admonition-title::before, .md-typeset .danger > summary::before, .md-typeset .error > summary::before {
+    margin-top: -0.15rem;
+    background-color: transparent;
+    background-image: var(--print-md-admonition-icon--danger); }
+  .md-typeset .bug > .admonition-title, .md-typeset .bug > summary {
+    padding: .6rem .6rem .4rem 2.2rem; }
+  .md-typeset .bug > .admonition-title::before, .md-typeset .bug > summary::before {
+    margin-top: -0.15rem;
+    background-color: transparent;
+    background-image: var(--print-md-admonition-icon--bug); }
+  .md-typeset .example > .admonition-title, .md-typeset .example > summary {
+    padding: .6rem .6rem .4rem 2.2rem; }
+  .md-typeset .example > .admonition-title::before, .md-typeset .example > summary::before {
+    margin-top: -0.15rem;
+    background-color: transparent;
+    background-image: var(--print-md-admonition-icon--example); }
+  .md-typeset .quote > .admonition-title, .md-typeset .cite > .admonition-title, .md-typeset .quote > summary, .md-typeset .cite > summary {
+    padding: .6rem .6rem .4rem 2.2rem; }
+  .md-typeset .quote > .admonition-title::before, .md-typeset .cite > .admonition-title::before, .md-typeset .quote > summary::before, .md-typeset .cite > summary::before {
+    margin-top: -0.15rem;
+    background-color: transparent;
+    background-image: var(--print-md-admonition-icon--quote); } }
+
+:root {
+  --print-md-footnotes-icon: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="%23000000de"><path d="M19 7v4H5.83l3.58-3.59L8 6l-6 6 6 6 1.41-1.42L5.83 13H21V7h-2z"/></svg>'); }
+
+@media print {
+  .md-typeset .footnote-backref::before {
+    background-color: transparent;
+    background-image: var(--print-md-footnotes-icon); } }
+
+:root {
+  --print-md-details-icon: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="hsla(0, 0%, 0%, 0.87)"><path d="M8.59 16.58L13.17 12 8.59 7.41 10 6l6 6-6 6-1.41-1.42z"/></svg>'); }
+
+@media print {
+  .md-typeset summary::after {
+    background-color: transparent;
+    background-image: var(--print-md-details-icon);
+    -webkit-mask-image: none;
+    mask-image: none; } }
+
+:root {
+  --print-md-tasklist-icon: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="%23ddd"><path d="M12 2C6.5 2 2 6.5 2 12s4.5 10 10 10 10-4.5 10-10S17.5 2 12 2m-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"/></svg>');
+  --print-md-tasklist-icon--checked: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="%2300e676"><path d="M12 2C6.5 2 2 6.5 2 12s4.5 10 10 10 10-4.5 10-10S17.5 2 12 2m-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"/></svg>'); }
+
+@media print {
+  .md-typeset .task-list-control .task-list-indicator::before {
+    background-color: transparent;
+    background-image: var(--print-md-tasklist-icon); }
+  .md-typeset .task-list-control [type=checkbox]:checked + .task-list-indicator::before {
+    background-color: transparent;
+    background-image: var(--print-md-tasklist-icon--checked); } }
+
+/*# sourceMappingURL=material-polyfills.css.map*/
+</style></head><body><article id="doc-cover">
+<div class="wrapper upper">
+<div class="logo" style="background-image: url(file:///home/matthew/AA/staffhandbook/docs/assets/images/AA.png);"></div>
+</div>
+<div class="wrapper">
+<h1>Adventure Ardeche</h1>
+<h2>Staff Handbook</h2>
+</div>
+<div class="properties">
+<address>
+<p id="author">Matt Thompson, Adventure Ardeche</p>
+<p id="copyright">Copyright © 2022 - 2023 Adventure Ardeche. All Rights Reserved.</p>
+</address>
+</div>
+</article><article id="doc-toc"><h1>Table of contents</h1><ul><li><a href="#./:staff-handbook"><span class="pdf-order">1. </span>Staff Handbook</a></li><li><a href="#overview/:overview"><span class="pdf-order">2. </span>Overview</a></li><li><a href="#expectations/:expectations"><span class="pdf-order">3. </span>Expectations</a><ul><li><a href="#expectations/:staff-expectations"><span class="pdf-order">3.1 </span>Staff Expectations</a></li></ul></li><li><a href="#KJUXG2ZAIFZXGZLTONWWK3TUOM/"><span class="pdf-order">4. </span>Risk Assessments</a><ul><li><a href="#risk-assessments/ardecheRA/:ardeche-descent-ra"><span class="pdf-order">4.1 </span>Ardeche Descent RA</a></li><li><a href="#risk-assessments/raft-buildRA/:raft-build-ra"><span class="pdf-order">4.2 </span>Raft Build RA</a></li><li><a href="#risk-assessments/supRA/:stand-up-paddling-ra"><span class="pdf-order">4.3 </span>Stand Up Paddling RA</a></li><li><a href="#risk-assessments/gorgetrekRA/:gorge-trek-ra"><span class="pdf-order">4.4 </span>Gorge Trek RA</a></li><li><a href="#risk-assessments/fosshillRA/:foss-hill-ra"><span class="pdf-order">4.5 </span>Foss Hill RA</a></li><li><a href="#risk-assessments/initiativesRA/:initiatives-ra"><span class="pdf-order">4.6 </span>Initiatives RA</a></li><li><a href="#risk-assessments/adventurechallengeRA/:adventure-challenge-ra"><span class="pdf-order">4.7 </span>Adventure Challenge RA</a></li><li><a href="#risk-assessments/ardecheolympicsRA/:ardeche-olympics-ra"><span class="pdf-order">4.8 </span>Ardeche Olympics RA</a></li></ul></li><li><a href="#IFRXI2LWNF2GSZLT/"><span class="pdf-order">5. </span>Activities</a><ul><li><a href="#activities/ardeche/:ardeche-descent"><span class="pdf-order">5.1 </span>Ardeche Descent</a></li><li><a href="#activities/raft-build/:raft-build"><span class="pdf-order">5.2 </span>Raft Build</a></li><li><a href="#activities/sup/:stand-up-paddling"><span class="pdf-order">5.3 </span>Stand Up Paddling</a></li><li><a href="#activities/gorgetrek/:gorge-trek"><span class="pdf-order">5.4 </span>Gorge Trek</a></li><li><a href="#activities/fosshill/:foss-hill"><span class="pdf-order">5.5 </span>Foss Hill</a></li><li><a href="#activities/initiatives/:initiatives"><span class="pdf-order">5.6 </span>Initiatives</a></li><li><a href="#activities/adventurechallenge/:adventure-challenge"><span class="pdf-order">5.7 </span>Adventure Challenge</a></li><li><a href="#activities/ardecheolympics/:ardeche-olympics"><span class="pdf-order">5.8 </span>Ardeche Olympics</a></li></ul></li><li><a href="#learning/:learning-development"><span class="pdf-order">6. </span>Learning &amp; Development</a><ul><li><a href="#learning/:learning-objectives"><span class="pdf-order">6.1 </span>Learning Objectives</a></li><li><a href="#learning/:tuckmans-stages-of-team-development"><span class="pdf-order">6.2 </span>Tuckmans - Stages of Team Development</a></li></ul></li></ul></article><article class="md-content__inner md-typeset" data-url="/." id=".:">
+<figure>
+<p><img alt="AA logo" loading="lazy" src="file:///home/matthew/AA/staffhandbook/site/assets/images/AA.png" style=""/></p>
+</figure>
+<h1 id="./:staff-handbook"><span class="pdf-order">1. </span>Staff Handbook</h1>
+<p>v0.0.1</p>
+<div class="admonition tip">
+<p class="admonition-title">Whoa</p>
+<p>A way to evangelize, explain, and support solutions to peers so they can be correctly used and successfully adopted</p>
+</div>
+<p>Supporting Learning Objectives &amp; Efficiency to create High Quality Provision.</p>
+</article><article class="md-content__inner md-typeset" data-url="/overview/" id="overview/:">
+<h1 id="overview/:overview"><span class="pdf-order">2. </span>Overview</h1>
+<p>This online document is essentially a <strong>HANDBOOK</strong> to guide you through the systems in place at <strong>Adventure Ardeche</strong>.</p>
+<div class="admonition tip">
+<p>Those systems are laid out in the menu on the left in order of need.</p>
+</div>
+<p>The handbook is provided so that staff have a easily accessible reference to the informations, systems, other resources etc to hand. It is also available as a paper based resource in the Centre Managers office and Activity Managers office.</p>
+<p>The handbook is designed so that whenever a staff member is unsure of their requirements they can firstly refer to the handbook, before then approaching either the Activity Manager or Centre Manager for further clarification of their query.</p>
+<p>The information contained here is under a continual process of updating and development.  <strong>Critical Information</strong> ie. <em>Risk Assessments</em> or <em>Policies &amp; Procedures</em> are reviewed yearly or after an incident. </p>
+<div class="admonition warning">
+<p>Critical Information should not change, and if it does, staff will be informed through the <strong>staff meeting</strong> channel.</p>
+</div>
+<p>Your contribution is essential to expanding, simplifing, and editing the information contained here. Please feel free to suggest any changes, amendments, or additions to either the Activity Manager or Centre Manager or one of the <strong>Leadership Team</strong>.</p>
+<hr/>
+<div class="md-source-file">
+<small>
+    
+      Last update:
+      <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">November 22, 2022</span>
+<br/>
+        Created:
+        <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">November 21, 2022</span>
+</small>
+</div>
+</article><article class="md-content__inner md-typeset" data-url="/expectations/" id="expectations/:">
+<h1 id="expectations/:expectations"><span class="pdf-order">3. </span>Expectations</h1>
+<h2 id="expectations/:staff-expectations"><span class="pdf-order">3.1 </span>Staff Expectations</h2>
+<p>The ability to introduce, present, instruct and enthuse about the subject or activity you are employed for.</p>
+<p>An up-to-date knowledge of all safety and technical aspects of the subject or activity for which you are employed.</p>
+<p>The ability to effectively manage the activity for which you are employed, and to deal effectively with all worst-case scenarios that you might encounter during the activity, hence all instructors must make available use of all appropriate safety equipment and familiarise themselves with respective emergency procedures.</p>
+<p>The ability to enable, motivate and support each and every individual customer: We do not expect staff to run "<strong>standard</strong>" activities, i.e. if one individual needs greater attention than another, we expect that it be provided with skill and without prejudice in order that that individual gains as much as they desire, rather than being required to conform to "normal" requirements. </p>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>We expect that staff will go out of their way for our customers! A polite, courteous and supportive approach to all customers, members of the public and fellow staff members.</p>
+</div>
+<ul>
+<li>
+<p>That the Leadership Team is informed about any personal issue that may affect the quality of any aspect of your operation:</p>
+<ul>
+<li>Such information should be given openly, and at the earliest possible opportunity.  </li>
+<li>We expect that staff will go out of their way to ensure that this happens.</li>
+</ul>
+</li>
+<li>
+<p>An up-to-date knowledge and awareness of legal responsibilities, Health and Safety issues, PPE regulations, and risk assessment requirements.</p>
+</li>
+<li>
+<p>That all accidents, incidents and near misses are reported.</p>
+</li>
+<li>
+<p>That all first aid treatments are reported.</p>
+</li>
+<li>
+<p>That any information about guests that might be required prior to medical treatment, is obtained, recorded, and passed on to others only on a need to know basis, in confidence, and at the earliest opportunity.</p>
+</li>
+<li>
+<p>That any questions regarding Health and Safety, guest care, professional duty, and any other matter between guest(s), and Adventure Ardeche personnel are referred to the Leadership Team at the earliest opportunity.</p>
+</li>
+</ul>
+<h3 id="expectations/:code-of-practice"><span class="pdf-order">3.1.1 </span>Code of Practice</h3>
+<p>For the safety and wellbeing of those involved in any activities during an Adventure Ardeche activity.</p>
+<div class="admonition info">
+<p class="admonition-title">Info</p>
+<p>The purpose of this code is to state the practice that should be in use during any activity in relation to organisational, safety, and the physical well-being of everyone concerned. </p>
+</div>
+<h3 id="expectations/:this-code-will-be-successfully-operational-when"><span class="pdf-order">3.1.2 </span>This code will be successfully operational when:</h3>
+<ul>
+<li>
+<p>A good working relationship and clear communication exists between the staff running the activity and their guests and the Leadership Team.</p>
+</li>
+<li>
+<p>We (<em>all staff involved</em>) carefully plan and prepare all activities and identify special and particular needs as early as practicable</p>
+</li>
+<li>
+<p>We clearly define objectives for the activity, relating to the age group and type of our guests, and clearly identify the overall aims of each guest and guest group</p>
+</li>
+<li>
+<p>Each instructor, or facilitator is competent to deliver the activity for which they have been employed</p>
+</li>
+<li>
+<p>Our resources and facilities are well managed.</p>
+</li>
+<li>
+<p>Adventure Ardeche staff must always be prepared to adapt, and to be flexible in their outlook, and in their management of resources to ensure that we create a safe and enjoyable experience for all the guests who have placed their trust in our organisation.</p>
+</li>
+<li>
+<p>The information contained in this document is intended to be guidance for all people working within Adventure Ardeche. It is expected that all people working within Adventure Ardeche read, digest and use this information, and where they recognise that improvements could be made, they take it upon themselves to inform the Leadership Team.</p>
+</li>
+<li>
+<p>We support the development of and interaction between staff and the Leadership Team with the intention of improving the odds against unsafe operation in hazardous situations.</p>
+</li>
+<li>
+<p>We foresee that any staff member may opt to take actions that fall outside the scope of this document in order to maintain a safe environment, and where there is sufficient evidence to suggest that their course of action is justified, we will support them.</p>
+</li>
+<li>
+<p>Each staff member will make judgements according to their own training and experiences, and we support those decisions that are taken in order to create a safe working environment and to reduce the risk to health in any given situation.</p>
+</li>
+<li>
+<p>Adventure Ardeche policies and procedures are published for guidance and we recognise that qualified and experienced staff will use their expertise to design appropriate solutions for different situations, locations and guest types.</p>
+</li>
+<li>
+<p>The nature of our business is such that the aims and objectives of our guests may be to increase the risks that they take. Our policy is to ensure that these risks are reduced to a reasonable level and that the guest is fully aware of the hazards and the consequences.</p>
+</li>
+<li>
+<p>We will always support a guest in achieving their objectives as safely as possible, and will advise and instruct a guest in support of his or her objectives. Where a guests’ objectives and intentions are not conducive to a safe and positive outcome we will advise against their actions and prevent them from proceeding where appropriate.</p>
+</li>
+<li>
+<p>We expect that the standard and practises specified by the National Governing Bodies are, on the whole, adopted as a basic minimum standard for the relevant activities, and where no specification has been made, that the staff involved discuss their intended safe operating practises with the Leadership Team or persons notified by them (<em>Technical Advisors</em>).</p>
+</li>
+</ul>
+<h3 id="expectations/:how-to-look-after-clients"><span class="pdf-order">3.1.3 </span>How to look after clients</h3>
+<p>What we expect, what the guest can expect, what legal responsibilities we have and what should not be done!</p>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>Adventure Ardeche is not intended to be an organisation that offers poor or even average standards of service. We expect that all staff working within Adventure Ardeche perform to an excellent standard, which is clearly obvious to all. </p>
+</div>
+<h4 id="expectations/:the-following-criteria-are-laid-down-as-the-result-of-feedback-from-past-guests-who-have-found-our-service-to-be-excellent">The following criteria are laid down as the result of feedback from past guests who have found our service to be excellent.</h4>
+<p>Our guests can expect the following from all personnel:</p>
+<ul>
+<li>High standards of personal presentation.</li>
+<li>Exceptional punctuality.</li>
+<li>Attention to detail.</li>
+<li>A focus on the guest experience at all times.</li>
+<li>Polite, courteous and proactively helpful behaviour.</li>
+<li>Open, honest communication.</li>
+<li>High standards of technical skill.</li>
+<li>Clear and appropriate instruction.</li>
+<li>Safe practice.</li>
+<li>An enabling, inspiring and enjoyable experience.</li>
+</ul>
+<h3 id="expectations/:standard-staff-practices"><span class="pdf-order">3.1.4 </span>Standard Staff Practices</h3>
+<p>We expect that a staff member carries out the following regardless of the activity they are undertaking. These guidelines are offered as a check for all staff– we recognise that different methods may be used to achieve these results.</p>
+<ul>
+<li>Get one or more appropriate weather forecasts.</li>
+<li>Gather up to date information about your guests (medical, fitness, behavioural and dietary) from the Leadership Team or directly from the participants.</li>
+<li>Ensure that your  Leadership Team knows your intended route or activity site, ETA and party details.</li>
+<li>Ensure that you have any activity appropriate kit with you.</li>
+<li>Identify yourself to the group, introduce yourself by name, and ensure that all accompanying adults are aware of your role.</li>
+<li>Clearly identify the role you want any accompanying adults to take, even if it is a passive role. </li>
+<li>Ensure that each client is appropriately dressed and equipped for the activity.</li>
+<li>Carry, and know how to use appropriate 1st Aid, safety and rescue equipment.</li>
+<li>Provide a clear overview and briefing for all activities and re-brief whenever the activity changes.</li>
+<li>Learn the first names of all of your guests.</li>
+<li>Watch for individuals struggling and provide additional help and encouragement.</li>
+<li>Provide clear warnings in advance of any significant hazard followed by appropriate instruction and equipment as required.</li>
+<li>Record any incidents or accidents in the appropriate place and notify the Leadership Team</li>
+</ul>
+<h3 id="expectations/:standard-instructor-kit"><span class="pdf-order">3.1.5 </span>Standard Instructor Kit</h3>
+<p>All instructors must ensure the following is available at any time during an activity:</p>
+<ul>
+<li>First aid kit</li>
+<li>Group shelter or large survival bag</li>
+<li>Reliable light source if operating in the evenings</li>
+<li>Any safety or rescue equipment appropriate to the prevailing and anticipated conditions, the nature of the activity and the number, type and ability of guests. This might normally include spare clothing, food/energy source, hydration and an appropriate form of communication.</li>
+</ul>
+<h3 id="expectations/:basic-philosophies"><span class="pdf-order">3.1.6 </span>Basic Philosophies</h3>
+<p>Whilst engaging in an activity for the pure element of participation and fun is valuable, many of our guests are at a period of their development where sound role-modelling and example is of great benefit to them. As an Instructor at Adventure Ardeche you are in an enviable position where the example you set is a foundational block in a guests life journey, use that position/opportunity with clear thought.</p>
+<p><strong>Learning Through Experience</strong></p>
+<ul>
+<li>Engaging Experiences</li>
+<li>Promote Skill Mastery</li>
+<li>Incorporate Reflection</li>
+<li>Learn from both Success &amp; Failure</li>
+</ul>
+<p><strong>Challenge &amp; Adventure</strong></p>
+<ul>
+<li>Through Unfamiliar Settings</li>
+<li>Through activities that are Mentally &amp; Physically Challenging</li>
+<li>Guests have ‘More in them than they know’</li>
+</ul>
+<p><strong>Supportive Environment</strong></p>
+<ul>
+<li>Provide both Physical and Emotional Safety</li>
+<li>Be a Skilled &amp; Compassionate Instructor</li>
+<li>Foster a Caring, Positive, and Inclusive culture</li>
+</ul>
+<h3 id="expectations/:as-a-member-of-adventure-ardeche-staff-live-positively"><span class="pdf-order">3.1.7 </span>As a member of Adventure Ardeche staff, live positively…</h3>
+<h4 id="expectations/:physical-fitness">Physical Fitness</h4>
+<p>Build physical and emotional stamina to meet challenges.</p>
+<h4 id="expectations/:craftsmanship">Craftsmanship</h4>
+<p>Model quality and intention through your actions.</p>
+<h4 id="expectations/:self-reliance">Self-Reliance</h4>
+<p>Be resourceful, apply personal strengths.</p>
+<h4 id="expectations/:compassion">Compassion</h4>
+<p>Engage in the welfare and dignity of others.</p>
+<div class="admonition quote">
+<p class="admonition-title">Madeleine K Albright</p>
+<p>What people have the capacity to choose, they have the abilities to change.</p>
+</div>
+<hr/>
+<div class="md-source-file">
+<small>
+    
+      Last update:
+      <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">November 23, 2022</span>
+<br/>
+        Created:
+        <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">November 23, 2022</span>
+</small>
+</div>
+</article><article class="md-content__inner md-typeset" data-url="/KJUXG2ZAIFZXGZLTONWWK3TUOM/" id="KJUXG2ZAIFZXGZLTONWWK3TUOM/:"><h1 id="KJUXG2ZAIFZXGZLTONWWK3TUOM/"><span class="pdf-order">4. </span>Risk Assessments</h1><section class="md-typeset" data-url="/risk-assessments/ardecheRA/" id="risk-assessments/ardecheRA/:">
+<h2 id="risk-assessments/ardecheRA/:ardeche-descent-ra"><span class="pdf-order">4.1 </span>Ardeche Descent RA</h2>
+<hr/>
+<div class="md-source-file">
+<small>
+    
+      Last update:
+      <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">November 22, 2022</span>
+<br/>
+        Created:
+        <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">November 22, 2022</span>
+</small>
+</div>
+</section><section class="md-typeset" data-url="/risk-assessments/raft-buildRA/" id="risk-assessments/raft-buildRA/:">
+<h2 id="risk-assessments/raft-buildRA/:raft-build-ra"><span class="pdf-order">4.2 </span>Raft Build RA</h2>
+<hr/>
+<div class="md-source-file">
+<small>
+    
+      Last update:
+      <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">November 22, 2022</span>
+<br/>
+        Created:
+        <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">November 22, 2022</span>
+</small>
+</div>
+</section><section class="md-typeset" data-url="/risk-assessments/supRA/" id="risk-assessments/supRA/:">
+<h2 id="risk-assessments/supRA/:stand-up-paddling-ra"><span class="pdf-order">4.3 </span>Stand Up Paddling RA</h2>
+<hr/>
+<div class="md-source-file">
+<small>
+    
+      Last update:
+      <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">November 22, 2022</span>
+<br/>
+        Created:
+        <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">November 22, 2022</span>
+</small>
+</div>
+</section><section class="md-typeset" data-url="/risk-assessments/gorgetrekRA/" id="risk-assessments/gorgetrekRA/:">
+<h2 id="risk-assessments/gorgetrekRA/:gorge-trek-ra"><span class="pdf-order">4.4 </span>Gorge Trek RA</h2>
+<hr/>
+<div class="md-source-file">
+<small>
+    
+      Last update:
+      <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">November 22, 2022</span>
+<br/>
+        Created:
+        <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">November 22, 2022</span>
+</small>
+</div>
+</section><section class="md-typeset" data-url="/risk-assessments/fosshillRA/" id="risk-assessments/fosshillRA/:">
+<h2 id="risk-assessments/fosshillRA/:foss-hill-ra"><span class="pdf-order">4.5 </span>Foss Hill RA</h2>
+<hr/>
+<div class="md-source-file">
+<small>
+    
+      Last update:
+      <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">November 22, 2022</span>
+<br/>
+        Created:
+        <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">November 22, 2022</span>
+</small>
+</div>
+</section><section class="md-typeset" data-url="/risk-assessments/initiativesRA/" id="risk-assessments/initiativesRA/:">
+<h2 id="risk-assessments/initiativesRA/:initiatives-ra"><span class="pdf-order">4.6 </span>Initiatives RA</h2>
+<hr/>
+<div class="md-source-file">
+<small>
+    
+      Last update:
+      <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">November 22, 2022</span>
+<br/>
+        Created:
+        <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">November 22, 2022</span>
+</small>
+</div>
+</section><section class="md-typeset" data-url="/risk-assessments/adventurechallengeRA/" id="risk-assessments/adventurechallengeRA/:">
+<h2 id="risk-assessments/adventurechallengeRA/:adventure-challenge-ra"><span class="pdf-order">4.7 </span>Adventure Challenge RA</h2>
+<hr/>
+<div class="md-source-file">
+<small>
+    
+      Last update:
+      <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">November 22, 2022</span>
+<br/>
+        Created:
+        <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">November 22, 2022</span>
+</small>
+</div>
+</section><section class="md-typeset" data-url="/risk-assessments/ardecheolympicsRA/" id="risk-assessments/ardecheolympicsRA/:">
+<h2 id="risk-assessments/ardecheolympicsRA/:ardeche-olympics-ra"><span class="pdf-order">4.8 </span>Ardeche Olympics RA</h2>
+<hr/>
+<div class="md-source-file">
+<small>
+    
+      Last update:
+      <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">November 22, 2022</span>
+<br/>
+        Created:
+        <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">November 22, 2022</span>
+</small>
+</div>
+</section></article><article class="md-content__inner md-typeset" data-url="/IFRXI2LWNF2GSZLT/" id="IFRXI2LWNF2GSZLT/:"><h1 id="IFRXI2LWNF2GSZLT/"><span class="pdf-order">5. </span>Activities</h1><section class="md-typeset" data-url="/activities/ardeche/" id="activities/ardeche/:">
+<h2 id="activities/ardeche/:ardeche-descent"><span class="pdf-order">5.1 </span>Ardeche Descent</h2>
+<hr/>
+<div class="md-source-file">
+<small>
+    
+      Last update:
+      <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">November 22, 2022</span>
+<br/>
+        Created:
+        <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">November 21, 2022</span>
+</small>
+</div>
+</section><section class="md-typeset" data-url="/activities/raft-build/" id="activities/raft-build/:">
+<h2 id="activities/raft-build/:raft-build"><span class="pdf-order">5.2 </span>Raft Build</h2>
+<hr/>
+<div class="md-source-file">
+<small>
+    
+      Last update:
+      <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">November 22, 2022</span>
+<br/>
+        Created:
+        <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">November 21, 2022</span>
+</small>
+</div>
+</section><section class="md-typeset" data-url="/activities/sup/" id="activities/sup/:">
+<h2 id="activities/sup/:stand-up-paddling"><span class="pdf-order">5.3 </span>Stand Up Paddling</h2>
+<hr/>
+<div class="md-source-file">
+<small>
+    
+      Last update:
+      <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">November 22, 2022</span>
+<br/>
+        Created:
+        <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">November 22, 2022</span>
+</small>
+</div>
+</section><section class="md-typeset" data-url="/activities/gorgetrek/" id="activities/gorgetrek/:">
+<h2 id="activities/gorgetrek/:gorge-trek"><span class="pdf-order">5.4 </span>Gorge Trek</h2>
+<hr/>
+<div class="md-source-file">
+<small>
+    
+      Last update:
+      <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">November 22, 2022</span>
+<br/>
+        Created:
+        <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">November 22, 2022</span>
+</small>
+</div>
+</section><section class="md-typeset" data-url="/activities/fosshill/" id="activities/fosshill/:">
+<h2 id="activities/fosshill/:foss-hill"><span class="pdf-order">5.5 </span>Foss Hill</h2>
+<hr/>
+<div class="md-source-file">
+<small>
+    
+      Last update:
+      <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">November 22, 2022</span>
+<br/>
+        Created:
+        <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">November 22, 2022</span>
+</small>
+</div>
+</section><section class="md-typeset" data-url="/activities/initiatives/" id="activities/initiatives/:">
+<h2 id="activities/initiatives/:initiatives"><span class="pdf-order">5.6 </span>Initiatives</h2>
+<hr/>
+<div class="md-source-file">
+<small>
+    
+      Last update:
+      <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">November 22, 2022</span>
+<br/>
+        Created:
+        <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">November 22, 2022</span>
+</small>
+</div>
+</section><section class="md-typeset" data-url="/activities/adventurechallenge/" id="activities/adventurechallenge/:">
+<h2 id="activities/adventurechallenge/:adventure-challenge"><span class="pdf-order">5.7 </span>Adventure Challenge</h2>
+<hr/>
+<div class="md-source-file">
+<small>
+    
+      Last update:
+      <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">November 22, 2022</span>
+<br/>
+        Created:
+        <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">November 22, 2022</span>
+</small>
+</div>
+</section><section class="md-typeset" data-url="/activities/ardecheolympics/" id="activities/ardecheolympics/:">
+<h2 id="activities/ardecheolympics/:ardeche-olympics"><span class="pdf-order">5.8 </span>Ardeche Olympics</h2>
+<hr/>
+<div class="md-source-file">
+<small>
+    
+      Last update:
+      <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">November 22, 2022</span>
+<br/>
+        Created:
+        <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">November 22, 2022</span>
+</small>
+</div>
+</section></article><article class="md-content__inner md-typeset" data-url="/learning/" id="learning/:">
+<h1 id="learning/:learning-development"><span class="pdf-order">6. </span>Learning &amp; Development</h1>
+<h2 id="learning/:learning-objectives"><span class="pdf-order">6.1 </span>Learning Objectives</h2>
+<div class="admonition info">
+<p class="admonition-title">Learning Objectives</p>
+<p>You should define the knowledge and skill set of your target audience before starting. You can then use this information to avoid wasting time explaining information your audience already knows.   </p>
+</div>
+<p>Just as stories are used to define software, learning objectives can be written using a standard template:</p>
+<p><em>As a <code>user</code> of the <code>solution</code> I <code>know a specific piece of information</code>, or <code>can perform a specific task</code>.</em></p>
+<h3 id="learning/:for-each-learning-objective-you-should"><span class="pdf-order">6.1.1 </span>For each learning objective, you should:</h3>
+<p>Identify what your audience should know and be able to do after they have read the documentation, and/or participated in the activity. Use that information to create a list of <strong>Learning Objectives</strong>.</p>
+<p>Clearly worded learning objectives enable you to focus the content on comprehensive and coherent goals. Learning objectives should be evident in the title and content.</p>
+<p>If there is no existing documentation set, some areas will be well documented, while others will either be poorly defined or missing. Expect to find duplicate and outdated content. Maintain a list of the best documentation you find for any learning objective.</p>
+<h2 id="learning/:tuckmans-stages-of-team-development"><span class="pdf-order">6.2 </span>Tuckmans - Stages of Team Development</h2>
+<p>Tuckman model is an approach to team development that helps teams understand their current state and develop strategies to move towards their goals. Tuckman (1965) identified four stages of team development, including Forming, Storming, Norming, and Performing, later extended to a Fifth stage - Adjourning.</p>
+<figure>
+<p><img _="," alt="Tuckmans - Stages of Development" loading="lazy" src="file:///home/matthew/AA/staffhandbook/site/assets/images/tuckman_stages_of_group_development.webp" style="width: 800px;"/> <figcaption>Tuckmans - Stages of Development</figcaption></p>
+</figure>
+<h3 id="learning/:five-stages-of-the-tuckman-model-of-group-development"><span class="pdf-order">6.2.1 </span>Five Stages of The Tuckman Model of Group Development</h3>
+<h4 id="learning/:forming">Forming</h4>
+<p>This phase occurs when new members join an existing team or organization. During this period, individuals are still learning about their roles on the team. They try to understand what they need to do to succeed. In most cases, it can take several months before people feel comfortable with one another. It may also take some time before you get your first performance review from someone who knows you well enough to give you feedback.</p>
+<h4 id="learning/:storming">Storming</h4>
+<p>As the name suggests, this is the “storm” part of the process. Members begin to argue among themselves as they figure out where they stand within the team’s hierarchy. They might even start fighting amongst themselves. If left unchecked, this behavior could lead to severe problems down the road if not addressed immediately.</p>
+<h4 id="learning/:norming">Norming</h4>
+<p>Once everyone feels more at ease, the team begins to work together toward common goals. People become familiar with others’ strengths and weaknesses and learn how best to use them. At this point, there should be fewer arguments between teammates because everyone understands their role on the team.</p>
+<h4 id="learning/:performing">Performing</h4>
+<p>Finally, once all members have learned how to cooperate effectively, the team performs better than ever before. Everyone works together smoothly and efficiently towards achieving shared objectives. You know you’re ready to move into the next stage when you no longer hear anyone complain about working with other team members.</p>
+<h4 id="learning/:adjourning">Adjourning</h4>
+<p>Once the goal has been achieved, the team recognizes individual contributions and then disbands. This is sometimes called the mourning stage because members feel a sense of loss after separating from those they’ve shared a meaningful experience with. Any lessons learned from the process should be passed to a responsible person for use by future teams.</p>
+<h3 id="learning/:which-factors-affect-team-performance"><span class="pdf-order">6.2.2 </span>Which Factors Affect Team Performance?</h3>
+<p>The Tuckman model of group development considers three factors that affect team performance. These three factors are;</p>
+<p>1. Content refers to what the team does, the actual work that they perform.</p>
+<p>2. Process refers to how the team performs the work.</p>
+<p>3. Feelings refer to how the team members relate to one another.</p>
+<p>When a team focuses on the balance between all three, it can elevate performance.</p>
+<p>The following table represents the team attitude on these three factors during each stage of development.</p>
+<table>
+<thead>
+<tr>
+<th align="center">Stages</th>
+<th align="center">Content</th>
+<th align="center">Process</th>
+<th align="center">Feelings</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center"><strong>Forming</strong></td>
+<td align="center">The team attempts to define the work the team needs to do.</td>
+<td align="center">The team might seek external guidance to define how to do the work</td>
+<td align="center">Team members are unsure and may need a leader to guide them</td>
+</tr>
+<tr>
+<td align="center"><strong>Storming</strong></td>
+<td align="center">Team members may resist the task demands</td>
+<td align="center">Member may attempt to avoid doing the work and find reasons to do so</td>
+<td align="center">Friction about individual positions &amp; hierarchy of the team</td>
+</tr>
+<tr>
+<td align="center"><strong>Norming</strong></td>
+<td align="center">The team starts to open up about the work and challenges</td>
+<td align="center">Processes start getting defined and adopted</td>
+<td align="center">Members become collaborative and start working collectively</td>
+</tr>
+<tr>
+<td align="center"><strong>Performing</strong></td>
+<td align="center">The team meets work challenges and delivers</td>
+<td align="center">Processes ensure systematic allocation of resources and systematic workflow</td>
+<td align="center">Members share common objectives and become accountable</td>
+</tr>
+<tr>
+<td align="center"><strong>Adjouring</strong></td>
+<td align="center">In the adjourning phase, the <strong>Leadership</strong> acknowledges the efforts of the team and, in the process, brings about closure.</td>
+<td align="center">Before this occurs, however, the team is assembled one final time and individuals are encouraged to share their experiences of working at the organisation.</td>
+<td align="center">It’s important that the team does not gloss over any of the problems encountered or lessons learned. This is because the solutions and insights are valuable to subsequent teams who may find themselves in similar predicaments.</td>
+</tr>
+</tbody>
+</table>
+<h3 id="learning/:summary"><span class="pdf-order">6.2.3 </span>Summary</h3>
+<div class="admonition abstract">
+<p>The Tuckman model for team development is an excellent tool for helping teams understand their dynamics and how they interact with each other. It is one of the most widely used models for explaining group behavior. Understanding the Tuckman model helps us develop better teams and ensure effective value delivery.</p>
+</div>
+<hr/>
+<div class="md-source-file">
+<small>
+    
+      Last update:
+      <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">November 22, 2022</span>
+<br/>
+        Created:
+        <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">November 22, 2022</span>
+</small>
+</div>
+</article><article id="doc-back_cover">
+<div class="wrapper"></div><div class="qrcode">
+<a href="https://github.com/Matt-Adventure-Ardeche/staffhandbook">
+<img src="data:image/svg+xml;charset=utf-8;base64,PD94bWwgdmVyc2lvbj0nMS4wJyBlbmNvZGluZz0nVVRGLTgnPz4KPHN2ZyB3aWR0aD0iNDFtbSIgaGVpZ2h0PSI0MW1tIiB2ZXJzaW9uPSIxLjEiIHZpZXdCb3g9IjAgMCA0MSA0MSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNIDE5IDI1IEwgMTkgMjYgTCAyMCAyNiBMIDIwIDI1IHogTSAzMCAyNSBMIDMwIDI2IEwgMzEgMjYgTCAzMSAyNSB6IE0gMjIgMjEgTCAyMiAyMiBMIDIzIDIyIEwgMjMgMjEgeiBNIDE5IDM0IEwgMTkgMzUgTCAyMCAzNSBMIDIwIDM0IHogTSAzMCAzNCBMIDMwIDM1IEwgMzEgMzUgTCAzMSAzNCB6IE0gMjMgNCBMIDIzIDUgTCAyNCA1IEwgMjQgNCB6IE0gMzQgNCBMIDM0IDUgTCAzNSA1IEwgMzUgNCB6IE0gMjMgMTMgTCAyMyAxNCBMIDI0IDE0IEwgMjQgMTMgeiBNIDM0IDEzIEwgMzQgMTQgTCAzNSAxNCBMIDM1IDEzIHogTSA0IDkgTCA0IDEwIEwgNSAxMCBMIDUgOSB6IE0gMTIgMjIgTCAxMiAyMyBMIDEzIDIzIEwgMTMgMjIgeiBNIDM0IDIyIEwgMzQgMjMgTCAzNSAyMyBMIDM1IDIyIHogTSAxNSAxOCBMIDE1IDE5IEwgMTYgMTkgTCAxNiAxOCB6IE0gNCAyNyBMIDQgMjggTCA1IDI4IEwgNSAyNyB6IE0gMTQgMzEgTCAxNCAzMiBMIDE1IDMyIEwgMTUgMzEgeiBNIDggNiBMIDggNyBMIDkgNyBMIDkgNiB6IE0gNiAzNiBMIDYgMzcgTCA3IDM3IEwgNyAzNiB6IE0gMjYgMTQgTCAyNiAxNSBMIDI3IDE1IEwgMjcgMTQgeiBNIDcgMTAgTCA3IDExIEwgOCAxMSBMIDggMTAgeiBNIDI2IDMyIEwgMjYgMzMgTCAyNyAzMyBMIDI3IDMyIHogTSA3IDI4IEwgNyAyOSBMIDggMjkgTCA4IDI4IHogTSAxOSAyMCBMIDE5IDIxIEwgMjAgMjEgTCAyMCAyMCB6IE0gMTEgMjUgTCAxMSAyNiBMIDEyIDI2IEwgMTIgMjUgeiBNIDIyIDI1IEwgMjIgMjYgTCAyMyAyNiBMIDIzIDI1IHogTSAyMiAzNCBMIDIyIDM1IEwgMjMgMzUgTCAyMyAzNCB6IE0gMzEgMTIgTCAzMSAxMyBMIDMyIDEzIEwgMzIgMTIgeiBNIDMzIDMxIEwgMzMgMzIgTCAzNCAzMiBMIDM0IDMxIHogTSAxMiA4IEwgMTIgOSBMIDEzIDkgTCAxMyA4IHogTSAyMyA4IEwgMjMgOSBMIDI0IDkgTCAyNCA4IHogTSAzNCA4IEwgMzQgOSBMIDM1IDkgTCAzNSA4IHogTSA0IDQgTCA0IDUgTCA1IDUgTCA1IDQgeiBNIDE1IDQgTCAxNSA1IEwgMTYgNSBMIDE2IDQgeiBNIDE1IDEzIEwgMTUgMTQgTCAxNiAxNCBMIDE2IDEzIHogTSAyOSAxNSBMIDI5IDE2IEwgMzAgMTYgTCAzMCAxNSB6IE0gMTQgMjYgTCAxNCAyNyBMIDE1IDI3IEwgMTUgMjYgeiBNIDI5IDI0IEwgMjkgMjUgTCAzMCAyNSBMIDMwIDI0IHogTSAyOSAzMyBMIDI5IDM0IEwgMzAgMzQgTCAzMCAzMyB6IE0gMjYgMTggTCAyNiAxOSBMIDI3IDE5IEwgMjcgMTggeiBNIDcgMTQgTCA3IDE1IEwgOCAxNSBMIDggMTQgeiBNIDE4IDE0IEwgMTggMTUgTCAxOSAxNSBMIDE5IDE0IHogTSAyNiAyNyBMIDI2IDI4IEwgMjcgMjggTCAyNyAyNyB6IE0gNyAyMyBMIDcgMjQgTCA4IDI0IEwgOCAyMyB6IE0gMjYgMzYgTCAyNiAzNyBMIDI3IDM3IEwgMjcgMzYgeiBNIDcgMzIgTCA3IDMzIEwgOCAzMyBMIDggMzIgeiBNIDMwIDYgTCAzMCA3IEwgMzEgNyBMIDMxIDYgeiBNIDE5IDE1IEwgMTkgMTYgTCAyMCAxNiBMIDIwIDE1IHogTSAzMCAxNSBMIDMwIDE2IEwgMzEgMTYgTCAzMSAxNSB6IE0gMjIgMTEgTCAyMiAxMiBMIDIzIDEyIEwgMjMgMTEgeiBNIDIyIDIwIEwgMjIgMjEgTCAyMyAyMSBMIDIzIDIwIHogTSAzMyAxNyBMIDMzIDE4IEwgMzQgMTggTCAzNCAxNyB6IE0gMzMgMjYgTCAzMyAyNyBMIDM0IDI3IEwgMzQgMjYgeiBNIDEwIDMzIEwgMTAgMzQgTCAxMSAzNCBMIDExIDMzIHogTSAzMyAzNSBMIDMzIDM2IEwgMzQgMzYgTCAzNCAzNSB6IE0gMjUgMzEgTCAyNSAzMiBMIDI2IDMyIEwgMjYgMzEgeiBNIDE1IDggTCAxNSA5IEwgMTYgOSBMIDE2IDggeiBNIDE0IDEyIEwgMTQgMTMgTCAxNSAxMyBMIDE1IDEyIHogTSAyOSAxOSBMIDI5IDIwIEwgMzAgMjAgTCAzMCAxOSB6IE0gNiAyNiBMIDYgMjcgTCA3IDI3IEwgNyAyNiB6IE0gMjkgMjggTCAyOSAyOSBMIDMwIDI5IEwgMzAgMjggeiBNIDE4IDkgTCAxOCAxMCBMIDE5IDEwIEwgMTkgOSB6IE0gMjYgMjIgTCAyNiAyMyBMIDI3IDIzIEwgMjcgMjIgeiBNIDE4IDM2IEwgMTggMzcgTCAxOSAzNyBMIDE5IDM2IHogTSAzMCAxMCBMIDMwIDExIEwgMzEgMTEgTCAzMSAxMCB6IE0gMjEgMjkgTCAyMSAzMCBMIDIyIDMwIEwgMjIgMjkgeiBNIDMyIDI5IEwgMzIgMzAgTCAzMyAzMCBMIDMzIDI5IHogTSAxMSAxNSBMIDExIDE2IEwgMTIgMTYgTCAxMiAxNSB6IE0gMzMgMTIgTCAzMyAxMyBMIDM0IDEzIEwgMzQgMTIgeiBNIDMzIDIxIEwgMzMgMjIgTCAzNCAyMiBMIDM0IDIxIHogTSAxMCAyOCBMIDEwIDI5IEwgMTEgMjkgTCAxMSAyOCB6IE0gMjUgMzUgTCAyNSAzNiBMIDI2IDM2IEwgMjYgMzUgeiBNIDE0IDcgTCAxNCA4IEwgMTUgOCBMIDE1IDcgeiBNIDE0IDE2IEwgMTQgMTcgTCAxNSAxNyBMIDE1IDE2IHogTSA2IDEyIEwgNiAxMyBMIDcgMTMgTCA3IDEyIHogTSAxNCAyNSBMIDE0IDI2IEwgMTUgMjYgTCAxNSAyNSB6IE0gMTQgMzQgTCAxNCAzNSBMIDE1IDM1IEwgMTUgMzQgeiBNIDYgMzAgTCA2IDMxIEwgNyAzMSBMIDcgMzAgeiBNIDI5IDMyIEwgMjkgMzMgTCAzMCAzMyBMIDMwIDMyIHogTSA3IDQgTCA3IDUgTCA4IDUgTCA4IDQgeiBNIDE4IDQgTCAxOCA1IEwgMTkgNSBMIDE5IDQgeiBNIDE3IDM2IEwgMTcgMzcgTCAxOCAzNyBMIDE4IDM2IHogTSAyOCAzNiBMIDI4IDM3IEwgMjkgMzcgTCAyOSAzNiB6IE0gMTggMTMgTCAxOCAxNCBMIDE5IDE0IEwgMTkgMTMgeiBNIDcgMjIgTCA3IDIzIEwgOCAyMyBMIDggMjIgeiBNIDE4IDIyIEwgMTggMjMgTCAxOSAyMyBMIDE5IDIyIHogTSAzMCA1IEwgMzAgNiBMIDMxIDYgTCAzMSA1IHogTSAzMiAyNCBMIDMyIDI1IEwgMzMgMjUgTCAzMyAyNCB6IE0gMzIgMzMgTCAzMiAzNCBMIDMzIDM0IEwgMzMgMzMgeiBNIDMzIDcgTCAzMyA4IEwgMzQgOCBMIDM0IDcgeiBNIDEwIDE0IEwgMTAgMTUgTCAxMSAxNSBMIDExIDE0IHogTSAzMyAxNiBMIDMzIDE3IEwgMzQgMTcgTCAzNCAxNiB6IE0gMjUgMjEgTCAyNSAyMiBMIDI2IDIyIEwgMjYgMjEgeiBNIDEwIDMyIEwgMTAgMzMgTCAxMSAzMyBMIDExIDMyIHogTSAyNSAzMCBMIDI1IDMxIEwgMjYgMzEgTCAyNiAzMCB6IE0gNiA3IEwgNiA4IEwgNyA4IEwgNyA3IHogTSA2IDE2IEwgNiAxNyBMIDcgMTcgTCA3IDE2IHogTSAyOSAxOCBMIDI5IDE5IEwgMzAgMTkgTCAzMCAxOCB6IE0gNiAzNCBMIDYgMzUgTCA3IDM1IEwgNyAzNCB6IE0gMjggMzEgTCAyOCAzMiBMIDI5IDMyIEwgMjkgMzEgeiBNIDcgOCBMIDcgOSBMIDggOSBMIDggOCB6IE0gMTggOCBMIDE4IDkgTCAxOSA5IEwgMTkgOCB6IE0gMzIgMTAgTCAzMiAxMSBMIDMzIDExIEwgMzMgMTAgeiBNIDkgMjYgTCA5IDI3IEwgMTAgMjcgTCAxMCAyNiB6IE0gMzIgMjggTCAzMiAyOSBMIDMzIDI5IEwgMzMgMjggeiBNIDEzIDMzIEwgMTMgMzQgTCAxNCAzNCBMIDE0IDMzIHogTSAxMCA5IEwgMTAgMTAgTCAxMSAxMCBMIDExIDkgeiBNIDEwIDE4IEwgMTAgMTkgTCAxMSAxOSBMIDExIDE4IHogTSAyNSAyNSBMIDI1IDI2IEwgMjYgMjYgTCAyNiAyNSB6IE0gMTAgMzYgTCAxMCAzNyBMIDExIDM3IEwgMTEgMzYgeiBNIDE0IDYgTCAxNCA3IEwgMTUgNyBMIDE1IDYgeiBNIDYgMjAgTCA2IDIxIEwgNyAyMSBMIDcgMjAgeiBNIDM2IDIxIEwgMzYgMjIgTCAzNyAyMiBMIDM3IDIxIHogTSAxNyAyNiBMIDE3IDI3IEwgMTggMjcgTCAxOCAyNiB6IE0gMjAgMzEgTCAyMCAzMiBMIDIxIDMyIEwgMjEgMzEgeiBNIDIxIDUgTCAyMSA2IEwgMjIgNiBMIDIyIDUgeiBNIDkgMTIgTCA5IDEzIEwgMTAgMTMgTCAxMCAxMiB6IE0gMjEgMTQgTCAyMSAxNSBMIDIyIDE1IEwgMjIgMTQgeiBNIDMyIDE0IEwgMzIgMTUgTCAzMyAxNSBMIDMzIDE0IHogTSA5IDIxIEwgOSAyMiBMIDEwIDIyIEwgMTAgMjEgeiBNIDMyIDIzIEwgMzIgMjQgTCAzMyAyNCBMIDMzIDIzIHogTSAxMyAxOSBMIDEzIDIwIEwgMTQgMjAgTCAxNCAxOSB6IE0gOSAzMCBMIDkgMzEgTCAxMCAzMSBMIDEwIDMwIHogTSAzMiAzMiBMIDMyIDMzIEwgMzMgMzMgTCAzMyAzMiB6IE0gMTMgMjggTCAxMyAyOSBMIDE0IDI5IEwgMTQgMjggeiBNIDEwIDQgTCAxMCA1IEwgMTEgNSBMIDExIDQgeiBNIDMzIDYgTCAzMyA3IEwgMzQgNyBMIDM0IDYgeiBNIDMzIDE1IEwgMzMgMTYgTCAzNCAxNiBMIDM0IDE1IHogTSAyNSAxMSBMIDI1IDEyIEwgMjYgMTIgTCAyNiAxMSB6IE0gMTAgMjIgTCAxMCAyMyBMIDExIDIzIEwgMTEgMjIgeiBNIDI0IDMzIEwgMjQgMzQgTCAyNSAzNCBMIDI1IDMzIHogTSAzNSAzMyBMIDM1IDM0IEwgMzYgMzQgTCAzNiAzMyB6IE0gMTQgMTAgTCAxNCAxMSBMIDE1IDExIEwgMTUgMTAgeiBNIDE2IDI5IEwgMTYgMzAgTCAxNyAzMCBMIDE3IDI5IHogTSAyNyAyOSBMIDI3IDMwIEwgMjggMzAgTCAyOCAyOSB6IE0gNiA2IEwgNiA3IEwgNyA3IEwgNyA2IHogTSAzNiA3IEwgMzYgOCBMIDM3IDggTCAzNyA3IHogTSA2IDE1IEwgNiAxNiBMIDcgMTYgTCA3IDE1IHogTSA4IDM0IEwgOCAzNSBMIDkgMzUgTCA5IDM0IHogTSAxNyAxMiBMIDE3IDEzIEwgMTggMTMgTCAxOCAxMiB6IE0gMzYgMjUgTCAzNiAyNiBMIDM3IDI2IEwgMzcgMjUgeiBNIDUgMTkgTCA1IDIwIEwgNiAyMCBMIDYgMTkgeiBNIDI4IDMwIEwgMjggMzEgTCAyOSAzMSBMIDI5IDMwIHogTSA5IDE2IEwgOSAxNyBMIDEwIDE3IEwgMTAgMTYgeiBNIDEwIDggTCAxMCA5IEwgMTEgOSBMIDExIDggeiBNIDMzIDEwIEwgMzMgMTEgTCAzNCAxMSBMIDM0IDEwIHogTSAyNSA2IEwgMjUgNyBMIDI2IDcgTCAyNiA2IHogTSAxMiAzNiBMIDEyIDM3IEwgMTMgMzcgTCAxMyAzNiB6IE0gMjQgMTkgTCAyNCAyMCBMIDI1IDIwIEwgMjUgMTkgeiBNIDM1IDI4IEwgMzUgMjkgTCAzNiAyOSBMIDM2IDI4IHogTSAxNiAyNCBMIDE2IDI1IEwgMTcgMjUgTCAxNyAyNCB6IE0gMTYgMzMgTCAxNiAzNCBMIDE3IDM0IEwgMTcgMzMgeiBNIDI3IDMzIEwgMjcgMzQgTCAyOCAzNCBMIDI4IDMzIHogTSAyOCA3IEwgMjggOCBMIDI5IDggTCAyOSA3IHogTSAzNiAyMCBMIDM2IDIxIEwgMzcgMjEgTCAzNyAyMCB6IE0gNSAxNCBMIDUgMTUgTCA2IDE1IEwgNiAxNCB6IE0gMzYgMjkgTCAzNiAzMCBMIDM3IDMwIEwgMzcgMjkgeiBNIDUgMjMgTCA1IDI0IEwgNiAyNCBMIDYgMjMgeiBNIDE3IDI1IEwgMTcgMjYgTCAxOCAyNiBMIDE4IDI1IHogTSAyMCAyMSBMIDIwIDIyIEwgMjEgMjIgTCAyMSAyMSB6IE0gMjEgNCBMIDIxIDUgTCAyMiA1IEwgMjIgNCB6IE0gMzIgNCBMIDMyIDUgTCAzMyA1IEwgMzMgNCB6IE0gMjEgMTMgTCAyMSAxNCBMIDIyIDE0IEwgMjIgMTMgeiBNIDEzIDkgTCAxMyAxMCBMIDE0IDEwIEwgMTQgOSB6IE0gOSAyMCBMIDkgMjEgTCAxMCAyMSBMIDEwIDIwIHogTSAzMiAyMiBMIDMyIDIzIEwgMzMgMjMgTCAzMyAyMiB6IE0gMzEgMjYgTCAzMSAyNyBMIDMyIDI3IEwgMzIgMjYgeiBNIDEyIDMxIEwgMTIgMzIgTCAxMyAzMiBMIDEzIDMxIHogTSAzNCAzMSBMIDM0IDMyIEwgMzUgMzIgTCAzNSAzMSB6IE0gMjQgNSBMIDI0IDYgTCAyNSA2IEwgMjUgNSB6IE0gNCAzNiBMIDQgMzcgTCA1IDM3IEwgNSAzNiB6IE0gMTUgMzYgTCAxNSAzNyBMIDE2IDM3IEwgMTYgMzYgeiBNIDI0IDE0IEwgMjQgMTUgTCAyNSAxNSBMIDI1IDE0IHogTSAxNiAxMCBMIDE2IDExIEwgMTcgMTEgTCAxNyAxMCB6IE0gMjQgMjMgTCAyNCAyNCBMIDI1IDI0IEwgMjUgMjMgeiBNIDE2IDE5IEwgMTYgMjAgTCAxNyAyMCBMIDE3IDE5IHogTSAyNyAxOSBMIDI3IDIwIEwgMjggMjAgTCAyOCAxOSB6IE0gMzUgMzIgTCAzNSAzMyBMIDM2IDMzIEwgMzYgMzIgeiBNIDggMTUgTCA4IDE2IEwgOSAxNiBMIDkgMTUgeiBNIDI3IDI4IEwgMjcgMjkgTCAyOCAyOSBMIDI4IDI4IHogTSAzNiA2IEwgMzYgNyBMIDM3IDcgTCAzNyA2IHogTSA4IDMzIEwgOCAzNCBMIDkgMzQgTCA5IDMzIHogTSA1IDE4IEwgNSAxOSBMIDYgMTkgTCA2IDE4IHogTSAxNyAyMCBMIDE3IDIxIEwgMTggMjEgTCAxOCAyMCB6IE0gMjggMjAgTCAyOCAyMSBMIDI5IDIxIEwgMjkgMjAgeiBNIDIwIDE2IEwgMjAgMTcgTCAyMSAxNyBMIDIxIDE2IHogTSAyOCAyOSBMIDI4IDMwIEwgMjkgMzAgTCAyOSAyOSB6IE0gMjAgMjUgTCAyMCAyNiBMIDIxIDI2IEwgMjEgMjUgeiBNIDUgMzYgTCA1IDM3IEwgNiAzNyBMIDYgMzYgeiBNIDIwIDM0IEwgMjAgMzUgTCAyMSAzNSBMIDIxIDM0IHogTSAzMiA4IEwgMzIgOSBMIDMzIDkgTCAzMyA4IHogTSAxMyA0IEwgMTMgNSBMIDE0IDUgTCAxNCA0IHogTSA5IDE1IEwgOSAxNiBMIDEwIDE2IEwgMTAgMTUgeiBNIDMxIDIxIEwgMzEgMjIgTCAzMiAyMiBMIDMyIDIxIHogTSAyMyAxNyBMIDIzIDE4IEwgMjQgMTggTCAyNCAxNyB6IE0gMTIgMjYgTCAxMiAyNyBMIDEzIDI3IEwgMTMgMjYgeiBNIDM0IDI2IEwgMzQgMjcgTCAzNSAyNyBMIDM1IDI2IHogTSA0IDIyIEwgNCAyMyBMIDUgMjMgTCA1IDIyIHogTSAxNSAyMiBMIDE1IDIzIEwgMTYgMjMgTCAxNiAyMiB6IE0gMzQgMzUgTCAzNCAzNiBMIDM1IDM2IEwgMzUgMzUgeiBNIDQgMzEgTCA0IDMyIEwgNSAzMiBMIDUgMzEgeiBNIDM1IDE4IEwgMzUgMTkgTCAzNiAxOSBMIDM2IDE4IHogTSAyNCAyNyBMIDI0IDI4IEwgMjUgMjggTCAyNSAyNyB6IE0gOCAxMCBMIDggMTEgTCA5IDExIEwgOSAxMCB6IE0gMzUgMjcgTCAzNSAyOCBMIDM2IDI4IEwgMzYgMjcgeiBNIDM1IDM2IEwgMzUgMzcgTCAzNiAzNyBMIDM2IDM2IHogTSAxNiAzMiBMIDE2IDMzIEwgMTcgMzMgTCAxNyAzMiB6IE0gMzYgMTAgTCAzNiAxMSBMIDM3IDExIEwgMzcgMTAgeiBNIDggMjggTCA4IDI5IEwgOSAyOSBMIDkgMjggeiBNIDUgNCBMIDUgNSBMIDYgNSBMIDYgNCB6IE0gMTcgMTUgTCAxNyAxNiBMIDE4IDE2IEwgMTggMTUgeiBNIDI4IDE1IEwgMjggMTYgTCAyOSAxNiBMIDI5IDE1IHogTSAyMCAxMSBMIDIwIDEyIEwgMjEgMTIgTCAyMSAxMSB6IE0gNSAyMiBMIDUgMjMgTCA2IDIzIEwgNiAyMiB6IE0gMTkgMjQgTCAxOSAyNSBMIDIwIDI1IEwgMjAgMjQgeiBNIDE5IDMzIEwgMTkgMzQgTCAyMCAzNCBMIDIwIDMzIHogTSA5IDEwIEwgOSAxMSBMIDEwIDExIEwgMTAgMTAgeiBNIDIyIDI5IEwgMjIgMzAgTCAyMyAzMCBMIDIzIDI5IHogTSAzMSAxNiBMIDMxIDE3IEwgMzIgMTcgTCAzMiAxNiB6IE0gMzQgMTIgTCAzNCAxMyBMIDM1IDEzIEwgMzUgMTIgeiBNIDQgOCBMIDQgOSBMIDUgOSBMIDUgOCB6IE0gMTIgMjEgTCAxMiAyMiBMIDEzIDIyIEwgMTMgMjEgeiBNIDM0IDIxIEwgMzQgMjIgTCAzNSAyMiBMIDM1IDIxIHogTSAzMSAzNCBMIDMxIDM1IEwgMzIgMzUgTCAzMiAzNCB6IE0gMTUgMTcgTCAxNSAxOCBMIDE2IDE4IEwgMTYgMTcgeiBNIDM0IDMwIEwgMzQgMzEgTCAzNSAzMSBMIDM1IDMwIHogTSA0IDI2IEwgNCAyNyBMIDUgMjcgTCA1IDI2IHogTSAxNSAyNiBMIDE1IDI3IEwgMTYgMjcgTCAxNiAyNiB6IE0gMjQgNCBMIDI0IDUgTCAyNSA1IEwgMjUgNCB6IE0gMzUgNCBMIDM1IDUgTCAzNiA1IEwgMzYgNCB6IE0gNCAzNSBMIDQgMzYgTCA1IDM2IEwgNSAzNSB6IE0gMjQgMTMgTCAyNCAxNCBMIDI1IDE0IEwgMjUgMTMgeiBNIDI0IDIyIEwgMjQgMjMgTCAyNSAyMyBMIDI1IDIyIHogTSAzNSAyMiBMIDM1IDIzIEwgMzYgMjMgTCAzNiAyMiB6IE0gMTYgMTggTCAxNiAxOSBMIDE3IDE5IEwgMTcgMTggeiBNIDggMTQgTCA4IDE1IEwgOSAxNSBMIDkgMTQgeiBNIDE2IDI3IEwgMTYgMjggTCAxNyAyOCBMIDE3IDI3IHogTSAyNyAyNyBMIDI3IDI4IEwgMjggMjggTCAyOCAyNyB6IE0gMzYgNSBMIDM2IDYgTCAzNyA2IEwgMzcgNSB6IE0gOCAyMyBMIDggMjQgTCA5IDI0IEwgOSAyMyB6IE0gOCAzMiBMIDggMzMgTCA5IDMzIEwgOSAzMiB6IE0gMjggMTAgTCAyOCAxMSBMIDI5IDExIEwgMjkgMTAgeiBNIDIwIDYgTCAyMCA3IEwgMjEgNyBMIDIxIDYgeiBNIDcgMzYgTCA3IDM3IEwgOCAzNyBMIDggMzYgeiBNIDE5IDE5IEwgMTkgMjAgTCAyMCAyMCBMIDIwIDE5IHogTSAzMCAxOSBMIDMwIDIwIEwgMzEgMjAgTCAzMSAxOSB6IE0gMzAgMjggTCAzMCAyOSBMIDMxIDI5IEwgMzEgMjggeiBNIDIyIDI0IEwgMjIgMjUgTCAyMyAyNSBMIDIzIDI0IHogTSAyMiAzMyBMIDIyIDM0IEwgMjMgMzQgTCAyMyAzMyB6IE0gMTIgNyBMIDEyIDggTCAxMyA4IEwgMTMgNyB6IE0gMzQgNyBMIDM0IDggTCAzNSA4IEwgMzUgNyB6IE0gMzEgMjAgTCAzMSAyMSBMIDMyIDIxIEwgMzIgMjAgeiBNIDIzIDE2IEwgMjMgMTcgTCAyNCAxNyBMIDI0IDE2IHogTSA0IDEyIEwgNCAxMyBMIDUgMTMgTCA1IDEyIHogTSAyMyAyNSBMIDIzIDI2IEwgMjQgMjYgTCAyNCAyNSB6IE0gMzQgMjUgTCAzNCAyNiBMIDM1IDI2IEwgMzUgMjUgeiBNIDQgMjEgTCA0IDIyIEwgNSAyMiBMIDUgMjEgeiBNIDEyIDM0IEwgMTIgMzUgTCAxMyAzNSBMIDEzIDM0IHogTSA0IDMwIEwgNCAzMSBMIDUgMzEgTCA1IDMwIHogTSAxNSAzMCBMIDE1IDMxIEwgMTYgMzEgTCAxNiAzMCB6IE0gMjQgOCBMIDI0IDkgTCAyNSA5IEwgMjUgOCB6IE0gMjcgNCBMIDI3IDUgTCAyOCA1IEwgMjggNCB6IE0gMjQgMTcgTCAyNCAxOCBMIDI1IDE4IEwgMjUgMTcgeiBNIDM1IDE3IEwgMzUgMTggTCAzNiAxOCBMIDM2IDE3IHogTSAyNyAxMyBMIDI3IDE0IEwgMjggMTQgTCAyOCAxMyB6IE0gOCAxOCBMIDggMTkgTCA5IDE5IEwgOSAxOCB6IE0gMjYgMzUgTCAyNiAzNiBMIDI3IDM2IEwgMjcgMzUgeiBNIDE4IDMxIEwgMTggMzIgTCAxOSAzMiBMIDE5IDMxIHogTSAxOSA1IEwgMTkgNiBMIDIwIDYgTCAyMCA1IHogTSAxOSAxNCBMIDE5IDE1IEwgMjAgMTUgTCAyMCAxNCB6IE0gMjIgMTAgTCAyMiAxMSBMIDIzIDExIEwgMjMgMTAgeiBNIDExIDE5IEwgMTEgMjAgTCAxMiAyMCBMIDEyIDE5IHogTSAyMiAxOSBMIDIyIDIwIEwgMjMgMjAgTCAyMyAxOSB6IE0gMTkgMzIgTCAxOSAzMyBMIDIwIDMzIEwgMjAgMzIgeiBNIDMwIDMyIEwgMzAgMzMgTCAzMSAzMyBMIDMxIDMyIHogTSAxMSAyOCBMIDExIDI5IEwgMTIgMjkgTCAxMiAyOCB6IE0gMTIgMTEgTCAxMiAxMiBMIDEzIDEyIEwgMTMgMTEgeiBNIDIzIDExIEwgMjMgMTIgTCAyNCAxMiBMIDI0IDExIHogTSAzMSAyNCBMIDMxIDI1IEwgMzIgMjUgTCAzMiAyNCB6IE0gNCA3IEwgNCA4IEwgNSA4IEwgNSA3IHogTSAzNCAyMCBMIDM0IDIxIEwgMzUgMjEgTCAzNSAyMCB6IE0gNCAxNiBMIDQgMTcgTCA1IDE3IEwgNSAxNiB6IE0gMTUgMTYgTCAxNSAxNyBMIDE2IDE3IEwgMTYgMTYgeiBNIDIzIDI5IEwgMjMgMzAgTCAyNCAzMCBMIDI0IDI5IHogTSAzNCAyOSBMIDM0IDMwIEwgMzUgMzAgTCAzNSAyOSB6IE0gNCAyNSBMIDQgMjYgTCA1IDI2IEwgNSAyNSB6IE0gMTUgMjUgTCAxNSAyNiBMIDE2IDI2IEwgMTYgMjUgeiBNIDI3IDggTCAyNyA5IEwgMjggOSBMIDI4IDggeiBNIDI5IDI3IEwgMjkgMjggTCAzMCAyOCBMIDMwIDI3IHogTSA4IDQgTCA4IDUgTCA5IDUgTCA5IDQgeiBNIDI5IDM2IEwgMjkgMzcgTCAzMCAzNyBMIDMwIDM2IHogTSA4IDEzIEwgOCAxNCBMIDkgMTQgTCA5IDEzIHogTSA3IDE3IEwgNyAxOCBMIDggMTggTCA4IDE3IHogTSAxOCAzNSBMIDE4IDM2IEwgMTkgMzYgTCAxOSAzNSB6IE0gMzAgOSBMIDMwIDEwIEwgMzEgMTAgTCAzMSA5IHogTSAxOSAxOCBMIDE5IDE5IEwgMjAgMTkgTCAyMCAxOCB6IE0gMzAgMTggTCAzMCAxOSBMIDMxIDE5IEwgMzEgMTggeiBNIDExIDE0IEwgMTEgMTUgTCAxMiAxNSBMIDEyIDE0IHogTSAzMCAyNyBMIDMwIDI4IEwgMzEgMjggTCAzMSAyNyB6IE0gMTEgMjMgTCAxMSAyNCBMIDEyIDI0IEwgMTIgMjMgeiBNIDE5IDM2IEwgMTkgMzcgTCAyMCAzNyBMIDIwIDM2IHogTSAzMSAxMCBMIDMxIDExIEwgMzIgMTEgTCAzMiAxMCB6IE0gMTIgNiBMIDEyIDcgTCAxMyA3IEwgMTMgNiB6IE0gMzQgNiBMIDM0IDcgTCAzNSA3IEwgMzUgNiB6IE0gMzQgMTUgTCAzNCAxNiBMIDM1IDE2IEwgMzUgMTUgeiBNIDE1IDExIEwgMTUgMTIgTCAxNiAxMiBMIDE2IDExIHogTSAxNSAyMCBMIDE1IDIxIEwgMTYgMjEgTCAxNiAyMCB6IE0gMTQgMjQgTCAxNCAyNSBMIDE1IDI1IEwgMTUgMjQgeiBNIDE0IDMzIEwgMTQgMzQgTCAxNSAzNCBMIDE1IDMzIHogTSAyNiA3IEwgMjYgOCBMIDI3IDggTCAyNyA3IHogTSAyNiAxNiBMIDI2IDE3IEwgMjcgMTcgTCAyNyAxNiB6IE0gNyAxMiBMIDcgMTMgTCA4IDEzIEwgOCAxMiB6IE0gMTggMTIgTCAxOCAxMyBMIDE5IDEzIEwgMTkgMTIgeiBNIDE4IDIxIEwgMTggMjIgTCAxOSAyMiBMIDE5IDIxIHogTSAyNiAzNCBMIDI2IDM1IEwgMjcgMzUgTCAyNyAzNCB6IE0gNyAzMCBMIDcgMzEgTCA4IDMxIEwgOCAzMCB6IE0gMTggMzAgTCAxOCAzMSBMIDE5IDMxIEwgMTkgMzAgeiBNIDMwIDQgTCAzMCA1IEwgMzEgNSBMIDMxIDQgeiBNIDMwIDEzIEwgMzAgMTQgTCAzMSAxNCBMIDMxIDEzIHogTSAxOSAyMiBMIDE5IDIzIEwgMjAgMjMgTCAyMCAyMiB6IE0gMzAgMjIgTCAzMCAyMyBMIDMxIDIzIEwgMzEgMjIgeiBNIDExIDE4IEwgMTEgMTkgTCAxMiAxOSBMIDEyIDE4IHogTSAxMSAyNyBMIDExIDI4IEwgMTIgMjggTCAxMiAyNyB6IE0gMzMgMjQgTCAzMyAyNSBMIDM0IDI1IEwgMzQgMjQgeiBNIDEwIDMxIEwgMTAgMzIgTCAxMSAzMiBMIDExIDMxIHogTSAzNCAxMCBMIDM0IDExIEwgMzUgMTEgTCAzNSAxMCB6IE0gNCA2IEwgNCA3IEwgNSA3IEwgNSA2IHogTSAxNSA2IEwgMTUgNyBMIDE2IDcgTCAxNiA2IHogTSAxNCAxOSBMIDE0IDIwIEwgMTUgMjAgTCAxNSAxOSB6IE0gMjkgMjYgTCAyOSAyNyBMIDMwIDI3IEwgMzAgMjYgeiBNIDYgMzMgTCA2IDM0IEwgNyAzNCBMIDcgMzMgeiBNIDI5IDM1IEwgMjkgMzYgTCAzMCAzNiBMIDMwIDM1IHogTSA3IDcgTCA3IDggTCA4IDggTCA4IDcgeiBNIDI2IDIwIEwgMjYgMjEgTCAyNyAyMSBMIDI3IDIwIHogTSAxOCAxNiBMIDE4IDE3IEwgMTkgMTcgTCAxOSAxNiB6IE0gNyAzNCBMIDcgMzUgTCA4IDM1IEwgOCAzNCB6IE0gMTkgOCBMIDE5IDkgTCAyMCA5IEwgMjAgOCB6IE0gMzAgOCBMIDMwIDkgTCAzMSA5IEwgMzEgOCB6IE0gMTkgMTcgTCAxOSAxOCBMIDIwIDE4IEwgMjAgMTcgeiBNIDMwIDE3IEwgMzAgMTggTCAzMSAxOCBMIDMxIDE3IHogTSAyMSAzNiBMIDIxIDM3IEwgMjIgMzcgTCAyMiAzNiB6IE0gMjIgMjIgTCAyMiAyMyBMIDIzIDIzIEwgMjMgMjIgeiBNIDMzIDE5IEwgMzMgMjAgTCAzNCAyMCBMIDM0IDE5IHogTSAyNSAxNSBMIDI1IDE2IEwgMjYgMTYgTCAyNiAxNSB6IE0gMTAgMjYgTCAxMCAyNyBMIDExIDI3IEwgMTEgMjYgeiBNIDMzIDI4IEwgMzMgMjkgTCAzNCAyOSBMIDM0IDI4IHogTSAxMCAzNSBMIDEwIDM2IEwgMTEgMzYgTCAxMSAzNSB6IE0gMTQgNSBMIDE0IDYgTCAxNSA2IEwgMTUgNSB6IE0gMTQgMTQgTCAxNCAxNSBMIDE1IDE1IEwgMTUgMTQgeiBNIDYgMTAgTCA2IDExIEwgNyAxMSBMIDcgMTAgeiBNIDE0IDIzIEwgMTQgMjQgTCAxNSAyNCBMIDE1IDIzIHogTSA2IDE5IEwgNiAyMCBMIDcgMjAgTCA3IDE5IHogTSAyNiA2IEwgMjYgNyBMIDI3IDcgTCAyNyA2IHogTSAyNiAyNCBMIDI2IDI1IEwgMjcgMjUgTCAyNyAyNCB6IE0gMTggMjkgTCAxOCAzMCBMIDE5IDMwIEwgMTkgMjkgeiBNIDIxIDIyIEwgMjEgMjMgTCAyMiAyMyBMIDIyIDIyIHogTSAyMSAzMSBMIDIxIDMyIEwgMjIgMzIgTCAyMiAzMSB6IE0gMzIgMzEgTCAzMiAzMiBMIDMzIDMyIEwgMzMgMzEgeiBNIDIyIDggTCAyMiA5IEwgMjMgOSBMIDIzIDggeiBNIDEzIDI3IEwgMTMgMjggTCAxNCAyOCBMIDE0IDI3IHogTSAxMyAzNiBMIDEzIDM3IEwgMTQgMzcgTCAxNCAzNiB6IE0gMTAgMTIgTCAxMCAxMyBMIDExIDEzIEwgMTEgMTIgeiBNIDMzIDIzIEwgMzMgMjQgTCAzNCAyNCBMIDM0IDIzIHogTSAyNSAxOSBMIDI1IDIwIEwgMjYgMjAgTCAyNiAxOSB6IE0gMTAgMzAgTCAxMCAzMSBMIDExIDMxIEwgMTEgMzAgeiBNIDMzIDMyIEwgMzMgMzMgTCAzNCAzMyBMIDM0IDMyIHogTSAxNCA5IEwgMTQgMTAgTCAxNSAxMCBMIDE1IDkgeiBNIDE0IDE4IEwgMTQgMTkgTCAxNSAxOSBMIDE1IDE4IHogTSAyOSAxNiBMIDI5IDE3IEwgMzAgMTcgTCAzMCAxNiB6IE0gMTQgMjcgTCAxNCAyOCBMIDE1IDI4IEwgMTUgMjcgeiBNIDE0IDM2IEwgMTQgMzcgTCAxNSAzNyBMIDE1IDM2IHogTSA2IDMyIEwgNiAzMyBMIDcgMzMgTCA3IDMyIHogTSAzNiAzMyBMIDM2IDM0IEwgMzcgMzQgTCAzNyAzMyB6IE0gMjYgMTAgTCAyNiAxMSBMIDI3IDExIEwgMjcgMTAgeiBNIDE3IDI5IEwgMTcgMzAgTCAxOCAzMCBMIDE4IDI5IHogTSA3IDYgTCA3IDcgTCA4IDcgTCA4IDYgeiBNIDE4IDYgTCAxOCA3IEwgMTkgNyBMIDE5IDYgeiBNIDkgMjQgTCA5IDI1IEwgMTAgMjUgTCAxMCAyNCB6IE0gMzIgMzUgTCAzMiAzNiBMIDMzIDM2IEwgMzMgMzUgeiBNIDEwIDcgTCAxMCA4IEwgMTEgOCBMIDExIDcgeiBNIDI1IDUgTCAyNSA2IEwgMjYgNiBMIDI2IDUgeiBNIDEwIDE2IEwgMTAgMTcgTCAxMSAxNyBMIDExIDE2IHogTSAzMyAxOCBMIDMzIDE5IEwgMzQgMTkgTCAzNCAxOCB6IE0gMzMgMjcgTCAzMyAyOCBMIDM0IDI4IEwgMzQgMjcgeiBNIDI1IDIzIEwgMjUgMjQgTCAyNiAyNCBMIDI2IDIzIHogTSAxMCAzNCBMIDEwIDM1IEwgMTEgMzUgTCAxMSAzNCB6IE0gMTQgNCBMIDE0IDUgTCAxNSA1IEwgMTUgNCB6IE0gMTQgMjIgTCAxNCAyMyBMIDE1IDIzIEwgMTUgMjIgeiBNIDYgMTggTCA2IDE5IEwgNyAxOSBMIDcgMTggeiBNIDI5IDIwIEwgMjkgMjEgTCAzMCAyMSBMIDMwIDIwIHogTSAyOCAzMyBMIDI4IDM0IEwgMjkgMzQgTCAyOSAzMyB6IE0gMTggMTAgTCAxOCAxMSBMIDE5IDExIEwgMTkgMTAgeiBNIDIwIDI5IEwgMjAgMzAgTCAyMSAzMCBMIDIxIDI5IHogTSAyMSAxMiBMIDIxIDEzIEwgMjIgMTMgTCAyMiAxMiB6IE0gMzIgMTIgTCAzMiAxMyBMIDMzIDEzIEwgMzMgMTIgeiBNIDkgMTkgTCA5IDIwIEwgMTAgMjAgTCAxMCAxOSB6IE0gMjEgMjEgTCAyMSAyMiBMIDIyIDIyIEwgMjIgMjEgeiBNIDIxIDMwIEwgMjEgMzEgTCAyMiAzMSBMIDIyIDMwIHogTSAzMiAzMCBMIDMyIDMxIEwgMzMgMzEgTCAzMyAzMCB6IE0gMzMgNCBMIDMzIDUgTCAzNCA1IEwgMzQgNCB6IE0gMzMgMTMgTCAzMyAxNCBMIDM0IDE0IEwgMzQgMTMgeiBNIDEwIDIwIEwgMTAgMjEgTCAxMSAyMSBMIDExIDIwIHogTSAyNSAyNyBMIDI1IDI4IEwgMjYgMjggTCAyNiAyNyB6IE0gMjQgMzEgTCAyNCAzMiBMIDI1IDMyIEwgMjUgMzEgeiBNIDM1IDMxIEwgMzUgMzIgTCAzNiAzMiBMIDM2IDMxIHogTSA2IDQgTCA2IDUgTCA3IDUgTCA3IDQgeiBNIDE2IDM2IEwgMTYgMzcgTCAxNyAzNyBMIDE3IDM2IHogTSA2IDEzIEwgNiAxNCBMIDcgMTQgTCA3IDEzIHogTSA2IDIyIEwgNiAyMyBMIDcgMjMgTCA3IDIyIHogTSAzNiAyMyBMIDM2IDI0IEwgMzcgMjQgTCAzNyAyMyB6IE0gMjggMTkgTCAyOCAyMCBMIDI5IDIwIEwgMjkgMTkgeiBNIDE3IDE5IEwgMTcgMjAgTCAxOCAyMCBMIDE4IDE5IHogTSAyMCAxNSBMIDIwIDE2IEwgMjEgMTYgTCAyMSAxNSB6IE0gMTcgMjggTCAxNyAyOSBMIDE4IDI5IEwgMTggMjggeiBNIDI4IDI4IEwgMjggMjkgTCAyOSAyOSBMIDI5IDI4IHogTSAyMSA3IEwgMjEgOCBMIDIyIDggTCAyMiA3IHogTSAzMiA3IEwgMzIgOCBMIDMzIDggTCAzMyA3IHogTSA5IDE0IEwgOSAxNSBMIDEwIDE1IEwgMTAgMTQgeiBNIDIxIDE2IEwgMjEgMTcgTCAyMiAxNyBMIDIyIDE2IHogTSAzMiAxNiBMIDMyIDE3IEwgMzMgMTcgTCAzMyAxNiB6IE0gOSAyMyBMIDkgMjQgTCAxMCAyNCBMIDEwIDIzIHogTSAyMSAyNSBMIDIxIDI2IEwgMjIgMjYgTCAyMiAyNSB6IE0gMTAgNiBMIDEwIDcgTCAxMSA3IEwgMTEgNiB6IE0gMzMgOCBMIDMzIDkgTCAzNCA5IEwgMzQgOCB6IE0gMjUgNCBMIDI1IDUgTCAyNiA1IEwgMjYgNCB6IE0gMjUgMTMgTCAyNSAxNCBMIDI2IDE0IEwgMjYgMTMgeiBNIDEwIDI0IEwgMTAgMjUgTCAxMSAyNSBMIDExIDI0IHogTSAzNSAyNiBMIDM1IDI3IEwgMzYgMjcgTCAzNiAyNiB6IE0gMTYgMjIgTCAxNiAyMyBMIDE3IDIzIEwgMTcgMjIgeiBNIDE2IDMxIEwgMTYgMzIgTCAxNyAzMiBMIDE3IDMxIHogTSAyNyAzMSBMIDI3IDMyIEwgMjggMzIgTCAyOCAzMSB6IE0gNiA4IEwgNiA5IEwgNyA5IEwgNyA4IHogTSAzNiA5IEwgMzYgMTAgTCAzNyAxMCBMIDM3IDkgeiBNIDggMjcgTCA4IDI4IEwgOSAyOCBMIDkgMjcgeiBNIDggMzYgTCA4IDM3IEwgOSAzNyBMIDkgMzYgeiBNIDE3IDE0IEwgMTcgMTUgTCAxOCAxNSBMIDE4IDE0IHogTSAyOCAxNCBMIDI4IDE1IEwgMjkgMTUgTCAyOSAxNCB6IE0gMzYgMjcgTCAzNiAyOCBMIDM3IDI4IEwgMzcgMjcgeiBNIDIwIDEwIEwgMjAgMTEgTCAyMSAxMSBMIDIxIDEwIHogTSA1IDIxIEwgNSAyMiBMIDYgMjIgTCA2IDIxIHogTSAxNyAyMyBMIDE3IDI0IEwgMTggMjQgTCAxOCAyMyB6IE0gNSAzMCBMIDUgMzEgTCA2IDMxIEwgNiAzMCB6IE0gMjggMzIgTCAyOCAzMyBMIDI5IDMzIEwgMjkgMzIgeiBNIDIwIDI4IEwgMjAgMjkgTCAyMSAyOSBMIDIxIDI4IHogTSAxMyA3IEwgMTMgOCBMIDE0IDggTCAxNCA3IHogTSA5IDE4IEwgOSAxOSBMIDEwIDE5IEwgMTAgMTggeiBNIDIxIDIwIEwgMjEgMjEgTCAyMiAyMSBMIDIyIDIwIHogTSAzMiAyMCBMIDMyIDIxIEwgMzMgMjEgTCAzMyAyMCB6IE0gMTMgMjUgTCAxMyAyNiBMIDE0IDI2IEwgMTQgMjUgeiBNIDkgMzYgTCA5IDM3IEwgMTAgMzcgTCAxMCAzNiB6IE0gMTAgMTAgTCAxMCAxMSBMIDExIDExIEwgMTEgMTAgeiBNIDEyIDI5IEwgMTIgMzAgTCAxMyAzMCBMIDEzIDI5IHogTSAyNSA4IEwgMjUgOSBMIDI2IDkgTCAyNiA4IHogTSA0IDM0IEwgNCAzNSBMIDUgMzUgTCA1IDM0IHogTSAyNCAyMSBMIDI0IDIyIEwgMjUgMjIgTCAyNSAyMSB6IE0gMjcgMTcgTCAyNyAxOCBMIDI4IDE4IEwgMjggMTcgeiBNIDI0IDMwIEwgMjQgMzEgTCAyNSAzMSBMIDI1IDMwIHogTSAzNSAzMCBMIDM1IDMxIEwgMzYgMzEgTCAzNiAzMCB6IE0gMTYgMjYgTCAxNiAyNyBMIDE3IDI3IEwgMTcgMjYgeiBNIDM2IDQgTCAzNiA1IEwgMzcgNSBMIDM3IDQgeiBNIDE2IDM1IEwgMTYgMzYgTCAxNyAzNiBMIDE3IDM1IHogTSAzNiAxMyBMIDM2IDE0IEwgMzcgMTQgTCAzNyAxMyB6IE0gMjggOSBMIDI4IDEwIEwgMjkgMTAgTCAyOSA5IHogTSA1IDE2IEwgNSAxNyBMIDYgMTcgTCA2IDE2IHogTSAxNyAxOCBMIDE3IDE5IEwgMTggMTkgTCAxOCAxOCB6IE0gMjAgMTQgTCAyMCAxNSBMIDIxIDE1IEwgMjEgMTQgeiBNIDE3IDI3IEwgMTcgMjggTCAxOCAyOCBMIDE4IDI3IHogTSAyMCAyMyBMIDIwIDI0IEwgMjEgMjQgTCAyMSAyMyB6IE0gMjAgMzIgTCAyMCAzMyBMIDIxIDMzIEwgMjEgMzIgeiBNIDkgNCBMIDkgNSBMIDEwIDUgTCAxMCA0IHogTSAzMiA2IEwgMzIgNyBMIDMzIDcgTCAzMyA2IHogTSA5IDEzIEwgOSAxNCBMIDEwIDE0IEwgMTAgMTMgeiBNIDMyIDE1IEwgMzIgMTYgTCAzMyAxNiBMIDMzIDE1IHogTSA5IDIyIEwgOSAyMyBMIDEwIDIzIEwgMTAgMjIgeiBNIDEzIDIwIEwgMTMgMjEgTCAxNCAyMSBMIDE0IDIwIHogTSAzMSAyOCBMIDMxIDI5IEwgMzIgMjkgTCAzMiAyOCB6IE0gMTAgNSBMIDEwIDYgTCAxMSA2IEwgMTEgNSB6IE0gMTIgMjQgTCAxMiAyNSBMIDEzIDI1IEwgMTMgMjQgeiBNIDIzIDI0IEwgMjMgMjUgTCAyNCAyNSBMIDI0IDI0IHogTSAxMiAzMyBMIDEyIDM0IEwgMTMgMzQgTCAxMyAzMyB6IE0gMjMgMzMgTCAyMyAzNCBMIDI0IDM0IEwgMjQgMzMgeiBNIDM0IDMzIEwgMzQgMzQgTCAzNSAzNCBMIDM1IDMzIHogTSAzNSAxNiBMIDM1IDE3IEwgMzYgMTcgTCAzNiAxNiB6IE0gMjQgMjUgTCAyNCAyNiBMIDI1IDI2IEwgMjUgMjUgeiBNIDggOCBMIDggOSBMIDkgOSBMIDkgOCB6IE0gMTYgMjEgTCAxNiAyMiBMIDE3IDIyIEwgMTcgMjEgeiBNIDI3IDIxIEwgMjcgMjIgTCAyOCAyMiBMIDI4IDIxIHogTSAyNCAzNCBMIDI0IDM1IEwgMjUgMzUgTCAyNSAzNCB6IE0gMjcgMzAgTCAyNyAzMSBMIDI4IDMxIEwgMjggMzAgeiBNIDM2IDggTCAzNiA5IEwgMzcgOSBMIDM3IDggeiBNIDM2IDE3IEwgMzYgMTggTCAzNyAxOCBMIDM3IDE3IHogTSAxNyAxMyBMIDE3IDE0IEwgMTggMTQgTCAxOCAxMyB6IE0gMjggMjIgTCAyOCAyMyBMIDI5IDIzIEwgMjkgMjIgeiBNIDIwIDE4IEwgMjAgMTkgTCAyMSAxOSBMIDIxIDE4IHogTSAyMCAyNyBMIDIwIDI4IEwgMjEgMjggTCAyMSAyNyB6IE0gMTkgMzEgTCAxOSAzMiBMIDIwIDMyIEwgMjAgMzEgeiBNIDEzIDYgTCAxMyA3IEwgMTQgNyBMIDE0IDYgeiBNIDEyIDEwIEwgMTIgMTEgTCAxMyAxMSBMIDEzIDEwIHogTSAzMSAyMyBMIDMxIDI0IEwgMzIgMjQgTCAzMiAyMyB6IE0gMTIgMTkgTCAxMiAyMCBMIDEzIDIwIEwgMTMgMTkgeiBNIDM0IDE5IEwgMzQgMjAgTCAzNSAyMCBMIDM1IDE5IHogTSAzMSAzMiBMIDMxIDMzIEwgMzIgMzMgTCAzMiAzMiB6IE0gNCAxNSBMIDQgMTYgTCA1IDE2IEwgNSAxNSB6IE0gMTUgMTUgTCAxNSAxNiBMIDE2IDE2IEwgMTYgMTUgeiBNIDEyIDI4IEwgMTIgMjkgTCAxMyAyOSBMIDEzIDI4IHogTSAyMyAyOCBMIDIzIDI5IEwgMjQgMjkgTCAyNCAyOCB6IE0gNCAzMyBMIDQgMzQgTCA1IDM0IEwgNSAzMyB6IE0gMTUgMzMgTCAxNSAzNCBMIDE2IDM0IEwgMTYgMzMgeiBNIDE2IDcgTCAxNiA4IEwgMTcgOCBMIDE3IDcgeiBNIDI3IDE2IEwgMjcgMTcgTCAyOCAxNyBMIDI4IDE2IHogTSAzNSAyOSBMIDM1IDMwIEwgMzYgMzAgTCAzNiAyOSB6IE0gOCAxMiBMIDggMTMgTCA5IDEzIEwgOSAxMiB6IE0gMTYgMjUgTCAxNiAyNiBMIDE3IDI2IEwgMTcgMjUgeiBNIDI3IDI1IEwgMjcgMjYgTCAyOCAyNiBMIDI4IDI1IHogTSA4IDIxIEwgOCAyMiBMIDkgMjIgTCA5IDIxIHogTSAxNiAzNCBMIDE2IDM1IEwgMTcgMzUgTCAxNyAzNCB6IE0gOCAzMCBMIDggMzEgTCA5IDMxIEwgOSAzMCB6IE0gMjAgNCBMIDIwIDUgTCAyMSA1IEwgMjEgNCB6IE0gMjAgMTMgTCAyMCAxNCBMIDIxIDE0IEwgMjEgMTMgeiBNIDExIDIyIEwgMTEgMjMgTCAxMiAyMyBMIDEyIDIyIHogTSAxOSAzNSBMIDE5IDM2IEwgMjAgMzYgTCAyMCAzNSB6IE0gMjIgMzEgTCAyMiAzMiBMIDIzIDMyIEwgMjMgMzEgeiBNIDEyIDE0IEwgMTIgMTUgTCAxMyAxNSBMIDEzIDE0IHogTSAzNCAxNCBMIDM0IDE1IEwgMzUgMTUgTCAzNSAxNCB6IE0gNCAxMCBMIDQgMTEgTCA1IDExIEwgNSAxMCB6IE0gMjMgMjMgTCAyMyAyNCBMIDI0IDI0IEwgMjQgMjMgeiBNIDM0IDIzIEwgMzQgMjQgTCAzNSAyNCBMIDM1IDIzIHogTSAzMSAzNiBMIDMxIDM3IEwgMzIgMzcgTCAzMiAzNiB6IE0gNCAxOSBMIDQgMjAgTCA1IDIwIEwgNSAxOSB6IE0gMTIgMzIgTCAxMiAzMyBMIDEzIDMzIEwgMTMgMzIgeiBNIDIzIDMyIEwgMjMgMzMgTCAyNCAzMyBMIDI0IDMyIHogTSA0IDI4IEwgNCAyOSBMIDUgMjkgTCA1IDI4IHogTSAxNSAyOCBMIDE1IDI5IEwgMTYgMjkgTCAxNiAyOCB6IE0gMjQgMTUgTCAyNCAxNiBMIDI1IDE2IEwgMjUgMTUgeiBNIDM1IDE1IEwgMzUgMTYgTCAzNiAxNiBMIDM2IDE1IHogTSA4IDcgTCA4IDggTCA5IDggTCA5IDcgeiBNIDggMjUgTCA4IDI2IEwgOSAyNiBMIDkgMjUgeiBNIDUgMTAgTCA1IDExIEwgNiAxMSBMIDYgMTAgeiBNIDIwIDggTCAyMCA5IEwgMjEgOSBMIDIxIDggeiBNIDMwIDEyIEwgMzAgMTMgTCAzMSAxMyBMIDMxIDEyIHogTSAzMCAyMSBMIDMwIDIyIEwgMzEgMjIgTCAzMSAyMSB6IE0gMjIgMTcgTCAyMiAxOCBMIDIzIDE4IEwgMjMgMTcgeiBNIDE5IDMwIEwgMTkgMzEgTCAyMCAzMSBMIDIwIDMwIHogTSAzMCAzMCBMIDMwIDMxIEwgMzEgMzEgTCAzMSAzMCB6IE0gMTEgMjYgTCAxMSAyNyBMIDEyIDI3IEwgMTIgMjYgeiBNIDMxIDQgTCAzMSA1IEwgMzIgNSBMIDMyIDQgeiBNIDMxIDEzIEwgMzEgMTQgTCAzMiAxNCBMIDMyIDEzIHogTSAxMiA5IEwgMTIgMTAgTCAxMyAxMCBMIDEzIDkgeiBNIDMxIDIyIEwgMzEgMjMgTCAzMiAyMyBMIDMyIDIyIHogTSA0IDUgTCA0IDYgTCA1IDYgTCA1IDUgeiBNIDE1IDUgTCAxNSA2IEwgMTYgNiBMIDE2IDUgeiBNIDM0IDE4IEwgMzQgMTkgTCAzNSAxOSBMIDM1IDE4IHogTSAxNSAxNCBMIDE1IDE1IEwgMTYgMTUgTCAxNiAxNCB6IE0gMTIgMjcgTCAxMiAyOCBMIDEzIDI4IEwgMTMgMjcgeiBNIDIzIDI3IEwgMjMgMjggTCAyNCAyOCBMIDI0IDI3IHogTSAzNCAyNyBMIDM0IDI4IEwgMzUgMjggTCAzNSAyNyB6IE0gNCAyMyBMIDQgMjQgTCA1IDI0IEwgNSAyMyB6IE0gMTUgMjMgTCAxNSAyNCBMIDE2IDI0IEwgMTYgMjMgeiBNIDQgMzIgTCA0IDMzIEwgNSAzMyBMIDUgMzIgeiBNIDI0IDEwIEwgMjQgMTEgTCAyNSAxMSBMIDI1IDEwIHogTSAzNSAxMCBMIDM1IDExIEwgMzYgMTEgTCAzNiAxMCB6IE0gMTYgMTUgTCAxNiAxNiBMIDE3IDE2IEwgMTcgMTUgeiBNIDggMjAgTCA4IDIxIEwgOSAyMSBMIDkgMjAgeiBNIDI2IDI4IEwgMjYgMjkgTCAyNyAyOSBMIDI3IDI4IHogTSA3IDI0IEwgNyAyNSBMIDggMjUgTCA4IDI0IHogTSAxOCAyNCBMIDE4IDI1IEwgMTkgMjUgTCAxOSAyNCB6IE0gNyAzMyBMIDcgMzQgTCA4IDM0IEwgOCAzMyB6IE0gMzAgNyBMIDMwIDggTCAzMSA4IEwgMzEgNyB6IE0gMTkgMTYgTCAxOSAxNyBMIDIwIDE3IEwgMjAgMTYgeiIgaWQ9InFyLXBhdGgiIGZpbGw9IiMwMDAwMDAiIGZpbGwtb3BhY2l0eT0iMSIgZmlsbC1ydWxlPSJub256ZXJvIiBzdHJva2U9Im5vbmUiIC8+PC9zdmc+" style=""/>
+<div>https://github.com/Matt-Adventure-Ardeche/staffhandbook</div>
+</a>
+</div> <div class="wrapper"></div>
+</article></body></html>
