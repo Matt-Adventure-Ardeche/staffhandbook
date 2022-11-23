@@ -1,7 +1,6 @@
 /* Styles Overides */
 .md-typeset {
     line-height: 1.7 !important;
-    color: rgb(48, 48, 48) !important;
 }
 
 .md-typeset :is(.tip, .hint, .important)> :is(.admonition-title, summary),
