@@ -68,19 +68,6 @@ theme:
   icon:
     repo: fontawesome/brands/github
     logo: material/library-shelves
-    admonition:
-      note: fontawesome/solid/note-sticky
-      abstract: fontawesome/solid/book
-      info: fontawesome/solid/circle-info
-      tip: fontawesome/solid/bullhorn
-      success: fontawesome/solid/check
-      question: fontawesome/solid/circle-question
-      warning: fontawesome/solid/triangle-exclamation
-      failure: fontawesome/solid/bomb
-      danger: fontawesome/solid/skull
-      bug: fontawesome/solid/robot
-      example: fontawesome/solid/flask
-      quote: fontawesome/solid/quote-left
 
   # FEATURES
   features:
@@ -94,7 +81,7 @@ plugins:
       back_cover: true
       cover_logo: docs/assets/images/AA.png
       cover_subtitle: Staff Handbook
-    # enabled_if_env: ENABLE_PDF_EXPORT
+      enabled_if_env: ENABLE_PDF_EXPORT
     # debug_html: true
   - search
   - git-revision-date-localized:

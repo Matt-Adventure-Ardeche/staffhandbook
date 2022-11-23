@@ -63,8 +63,8 @@ Even initial discussions with children should be conducted in a way that minimis
 * Effective management through Supervision, Support, Training, Monitoring, Quality Assurance.
 * Provision of a **Safe Environment** at all times, by applying best practice **Health & Safety** guidance and other legal requirements.
 * Manage any allegations appropriately and in a timely manner. 
-!!! note ""
-    **Note**
+* 
+!!! note 
     
     Staff/volunteers are not trained to deal with situations of abuse or to decide if abuse has occurred.
 

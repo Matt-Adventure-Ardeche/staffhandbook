@@ -1,6 +1,6 @@
-.admonition-title {
-    padding-left: 2rem !important;
+.md-typeset :is(.note) > :is(.admonition-title, summary) {
+    padding-left: 4rem !important;
 }
-.admonition-title::before {
-    left: .5rem !important;
+.md-typeset :is(.note) > :is(.admonition-title, summary)::before {
+    left: -0.015em !important;
 }
