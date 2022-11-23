@@ -6,7 +6,7 @@ _**Look, explore, listen, etc**_ - get to know the environment that you are work
 
 <div style="text-align: center; font-weight:bold;font-size:1.1rem">Risk level = how bad could it be x the chance of it happening</div>
 
-!!! danger "Danger"
+!!! danger
 
     _Rate the worst probable and possible consequence due to that hazard on a scale of 1-5:_
     
@@ -34,7 +34,7 @@ _**Look, explore, listen, etc**_ - get to know the environment that you are work
 
     6-8 is acceptable in outdoor activities (Although you may be able to reduce it with concise instruction and warnings).
 
-!!! danger "Danger"
+!!! danger
     
     **8+? You must reduce it**
 

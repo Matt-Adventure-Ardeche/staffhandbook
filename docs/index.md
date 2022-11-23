@@ -9,9 +9,10 @@ hide:
 
 # Staff Handbook
 
-v0.0.1
+v0.0.1-2023
 
-!!! tip "" 
+!!! info
+
     A way to evangelize, explain, and support solutions to peers so they can be correctly used and successfully adopted
 
 Supporting Learning Objectives & Efficiency to create High Quality Provision.

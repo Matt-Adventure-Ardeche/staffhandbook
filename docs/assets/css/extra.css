@@ -1,7 +1,32 @@
-.md-typeset :is(.note)> :is(.admonition-title, summary) {
+.md-typeset :is(.tip, .hint, .important)> :is(.admonition-title, summary),
+.md-typeset :is(.note)> :is(.admonition-title, summary),
+.md-typeset :is(.info,
+    .todo)> :is(.admonition-title, summary),
+.md-typeset :is(.danger,
+    .error)> :is(.admonition-title, summary),
+.md-typeset :is(.warning,
+    .caution,
+    .attention)> :is(.admonition-title, summary),
+.md-typeset :is(.success,
+    .check,
+    .done)> :is(.admonition-title, summary),
+.md-typeset :is(.quote)> :is(.admonition-title, summary) {
     padding-left: 2rem !important;
 }
 
-.md-typeset :is(.note)> :is(.admonition-title, summary)::before {
-    left: -0.015em !important;
+.md-typeset :is(.note)> :is(.admonition-title, summary)::before,
+.md-typeset :is(.tip, .hint,
+    .important)> :is(.admonition-title, summary)::before,
+.md-typeset :is(.info,
+    .todo)> :is(.admonition-title, summary)::before,
+.md-typeset :is(.success,
+    .check,
+    .done)> :is(.admonition-title, summary)::before,
+.md-typeset :is(.quote)> :is(.admonition-title, summary)::before,
+.md-typeset :is(.danger,
+    .error)> :is(.admonition-title, summary)::before,
+.md-typeset :is(.warning,
+    .caution,
+    .attention)> :is(.admonition-title, summary)::before {
+    left: 0 !important;
 }

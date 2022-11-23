@@ -9,8 +9,7 @@ The ability to effectively manage the activity for which you are employed, and t
 
 The ability to enable, motivate and support each and every individual customer: We do not expect staff to run "**standard**" activities, i.e. if one individual needs greater attention than another, we expect that it be provided with skill and without prejudice in order that that individual gains as much as they desire, rather than being required to conform to "normal" requirements. 
 
-!!! note ""
-    **Note**
+!!! note
     
     We expect that staff will go out of their way for our customers! A polite, courteous and supportive approach to all customers, members of the public and fellow staff members.
 
@@ -31,8 +30,7 @@ The ability to enable, motivate and support each and every individual customer: 
 ### Code of Practice
 For the safety and wellbeing of those involved in any activities during an Adventure Ardeche activity.
 
-!!! info ""
-    **Info**
+!!! info
 
     The purpose of this code is to state the practice that should be in use during any activity in relation to organisational, safety, and the physical well-being of everyone concerned. 
 
@@ -69,8 +67,7 @@ For the safety and wellbeing of those involved in any activities during an Adven
 ### How to look after clients
 What we expect, what the guest can expect, what legal responsibilities we have and what should not be done!
 
-!!! note ""
-    **Note**
+!!! note
 
     Adventure Ardeche is not intended to be an organisation that offers poor or even average standards of service. We expect that all staff working within Adventure Ardeche perform to an excellent standard, which is clearly obvious to all. 
 

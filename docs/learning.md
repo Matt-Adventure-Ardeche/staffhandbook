@@ -1,8 +1,7 @@
 # Learning & Development
 
 ## Learning Objectives
-!!! info ""
-    **Info**
+!!! info
 
     You should define the knowledge and skill set of your target audience before starting. You can then use this information to avoid wasting time explaining information your audience already knows.   
 
@@ -63,7 +62,6 @@ The following table represents the team attitude on these three factors during e
 |**Adjouring**|In the adjourning phase, the **Leadership** acknowledges the efforts of the team and, in the process, brings about closure. |Before this occurs, however, the team is assembled one final time and individuals are encouraged to share their experiences of working at the organisation. |	It’s important that the team does not gloss over any of the problems encountered or lessons learned. This is because the solutions and insights are valuable to subsequent teams who may find themselves in similar predicaments.|
 
 ### Summary
-!!! abstract ""
-    **Abstract**
+!!! abstract
     
     The Tuckman model for team development is an excellent tool for helping teams understand their dynamics and how they interact with each other. It is one of the most widely used models for explaining group behavior. Understanding the Tuckman model helps us develop better teams and ensure effective value delivery.
