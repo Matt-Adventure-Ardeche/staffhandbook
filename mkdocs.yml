@@ -35,13 +35,13 @@ nav:
       - activities/ardecheolympics.md
   - learning.md
   - Best Practices:
-      - staffhandbook/still-to-write.md
+      - still-to-write.md
   - Resources:
       - resources/resources.md
   - Reference:
-      - staffhandbook/still-to-write.md
+      - still-to-write.md
   - Personal Adventure:
-      - staffhandbook/still-to-write.md
+      - still-to-write.md
   
 # THEME
 theme:
