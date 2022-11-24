@@ -85,6 +85,7 @@ plugins:
       cover_logo: docs/assets/images/AA.png
       cover_subtitle: Staff Handbook
       enabled_if_env: ENABLE_PDF_EXPORT
+      output_path: pdf/staffhandbook.pdf
     # debug_html: true
   - search
   - git-revision-date-localized:
