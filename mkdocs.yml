@@ -82,7 +82,6 @@ theme:
     - navigation.tracking
     - navigation.indexes
     - navigation.sections
-    - navigation.expand
     - navigation.top
 
 # PLUGINS
