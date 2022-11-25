@@ -4,7 +4,8 @@
 
 !!! note
 
-    These words could be used amongst ourselves as a staff team as much as with our guests. Consider that what we say, what we do, our actions in general have a bearing on self, others and our environment. 
+    These words could be used amongst ourselves as a staff team as much as with our guests. Consider that what we say, what we do, our actions in general have a bearing on self, others and our environment.
+     
     + **How do those actions impact?**
     + **What are the consequences?**
 
