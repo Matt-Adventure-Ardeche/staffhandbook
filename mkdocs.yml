@@ -93,8 +93,6 @@ plugins:
       output_path: pdf/staffhandbook.pdf
     # debug_html: true
   - search
-  - git-committers:
-      repository: Matt-Adventure-Ardeche/staffhandbook
   - git-revision-date-localized:
       exclude:
         - index.md
