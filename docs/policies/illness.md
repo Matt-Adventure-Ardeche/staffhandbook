@@ -22,6 +22,8 @@ Staff with a suspected infectious disease will be referred to a general practiti
 In the event of an incidence of at least two cases reporting similar symptoms that could be attributed to a food related cause the following people will be contacted:
 Departmental Director for Health & Social Services.  
 
-Advice given by the local hospitals, a general practitioner or Environmental Health authorities will be followed.
+!!! warning ""
+
+    Advice given by the local hospitals, a general practitioner or Environmental Health authorities will be followed.
 
 **All incidents will be documented.**
