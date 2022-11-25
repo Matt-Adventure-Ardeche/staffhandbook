@@ -34,6 +34,6 @@ At regular intervals, the team reflects on how to become more effective, then ad
 
 Supporting **Learning Objectives** & **Efficiency** to create **High Quality Provision** & making learning outdoors accessible to all.
 
-### EMPOWER YOUNG PEOPLE TO THRIVE
+## EMPOWER YOUNG PEOPLE TO THRIVE
 
 Immersion in the outdoors builds core skills for their future.
