@@ -82,3 +82,33 @@ Make an accurate record of all details as soon as possible – do not leave this
 * proposed actions. 
 
 As soon as is practicable the incident will be reported on the incident report form.
+
+# Emergency & Critical Incidents
+
+Serious incidents and accidents are very rare, but they can happen. Minor incidents, accidents or emergencies are more common. We aim to reduce the exposure to these risks through our safety and risk management system. In doing so we believe that our staff and our client’s exposure to risk is reduced.
+
+## A hierarchy of emergencies
+When we consider how things might go wrong, we categorise these emergencies into three separate areas. We like these terms because they sound distinct from one another. We wouldn’t want confusion about the severity of the situation when calling out from a poor phone connection; or a case of ‘*broken telephone*’ as the message is passed from one person to another.
+
+## Everything’s ok
+**Everything’s ok** is used when no immediate help is required from resources outside of Adventure Ardeche. There might have been an incident that needs to be communicated about, a request for resources later, an update, etc. 
+
+The accident / incident book is completed following the event.
+
+## Minor
+A **Minor** situation is usually an evacuation of a person off of the trip which requires non-emergency support and transport.
+
+The accident / incident book is completed following the event.
+
+## Emergency
+An **Emergency** situation is one that is life or limb threatening and time sensitive. We would request outside help from emergency services such as the police, ambulance, or pompier.
+
+## Protocol
+* All of our staff will be trained in the Emergency procedure
+* All lead instructors will have a charged mobile phone whilst working with clients
+* All of our staff will be first aid trained
+* Scenario based tests of the emergency procedure and critical incident plan will occur at least once per season. 
+
+!!! danger ""
+   
+   All staff will have an emergency procedure laminated card with them.
