@@ -59,7 +59,7 @@ Stores will be ventilated and have controlled access.
 
 All staff using volatile substances will be trained and assessed in the use of hazardous chemicals and Control of Substances Hazardous to Health during their induction. 
 
-All volatile substances will be stored according to the Dangerous Substances and Explosive Atmospheres Regulations (**DSEAR.**) These can be found at the following link: [Explosive Atmospheres Regulations](http://www.hse.gov.uk/fireandexplosion/dsear.htm) All senior staff will be made aware of and have access to this information. A copy of this document will be printed and filed in the *Registre De Securite*.
+All volatile substances will be stored according to the Dangerous Substances and Explosive Atmospheres Regulations (**DSEAR.**) These can be found at the following link: [Explosive Atmospheres Regulations](http://www.hse.gov.uk/fireandexplosion/dsear.htm) :octicons-link-external-16: All senior staff will be made aware of and have access to this information. A copy of this document will be printed and filed in the *Registre De Securite*.
 
 Fire fighting equipment will be serviced at the start of the season; this will be recorded in the *Registre De Securite*.
 

@@ -74,7 +74,7 @@ All staff take part in safeguarding training during their induction.
 ## Resources
 ### United Kingdom
 
-[Save The Children - Child Protection Policy PDF](https://resourcecentre.savethechildren.net/pdf/2690.pdf/)
+[Save The Children - Child Protection Policy PDF](https://resourcecentre.savethechildren.net/pdf/2690.pdf/) :octicons-link-external-16:
 
 **NSPCC Helpline:** 0808 800 5000
 

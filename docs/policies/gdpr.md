@@ -2,7 +2,7 @@
 
 - [ ] <span style="color:red">ToDo.!</span>
   
-[GDPR & Data Protection](https://gdpr.eu/)
+[GDPR & Data Protection](https://gdpr.eu/) :octicons-link-external-16:
 
 **Lawfulness, fairness and transparency** — Processing must be lawful, fair, and transparent to the data subject.
 
