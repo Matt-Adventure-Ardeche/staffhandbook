@@ -2,6 +2,12 @@
 
 ## A list of words to create discussion, action, and/or focus
 
+!!! note
+
+    These words could be used amongst ourselves as a staff team as much as with our guests. Consider that what we say, what we do, our actions in general have a bearing on self, others and our environment. 
+    + **How do those actions impact?**
+    + **What are the consequences?**
+
 *Analytical Skills*
 
 *Innovative and Critical Thinking*
@@ -22,11 +28,11 @@
 
 *Interpersonal skills*
 
-*Conflict resolution
-*
+*Conflict resolution*
+
 *Rapport-building*
 
-*Persuasion, Organisational and Planning*
+*Persuasion, Organisation and Planning*
 
 *Social Responsibility*
 
@@ -40,7 +46,7 @@
 
 *Independence*
 
-*Self-awareness and Self-management*
+*Self-awareness*
 
 *Social Influence*
 
@@ -102,7 +108,7 @@
 
 *Active contribution*
 
-*Focus and a strong sense of identity*
+*Focus and a sense of identity*
 
 *Growth mindset*
 
