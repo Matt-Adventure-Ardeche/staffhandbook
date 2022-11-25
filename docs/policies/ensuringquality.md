@@ -1,5 +1,5 @@
-- [ ] <span style="color:red">ToDo.!</span>
 # Ensuring Quality
+- [ ] <span style="color:red">ToDo.!</span>
 
 This document is in place to ensure that our client’s experience is of high quality. It is based on 5 fundamental standards.
 
