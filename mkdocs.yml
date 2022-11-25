@@ -95,7 +95,7 @@ plugins:
   - search
   - git-committers:
       repository: Matt-Adventure-Ardeche/staffhandbook
-      branch: gh-pages
+      branch: master
   - git-revision-date-localized:
       exclude:
         - index.md
