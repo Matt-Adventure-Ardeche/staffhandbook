@@ -2,116 +2,114 @@
 
 ## A list of words to create discussion, action, and/or focus
 
-_Analytical Skills
+*Analytical Skills*
 
-Innovative and Critical Thinking
+*Innovative and Critical Thinking*
 
-Lateral mindset
+*Lateral mindset*
 
-Adaptability and Flexibility
+*Adaptability and Flexibility*
 
-Initiative
+*Initiative*
 
-Decision-making and Time-management
+*Decision-making and Time-management*
 
-Verbal, non-Verbal and Visual Communication
+*Verbal, non-Verbal and Visual Communication*
 
-Active Listening
+*Active Listening*
 
-Emotional Control
+*Emotional Control*
 
-Interpersonal skills
+*Interpersonal skills*
 
-Communication
+*Conflict resolution
+*
+*Rapport-building*
 
-Conflict resolution
+*Persuasion, Organisational and Planning*
 
-Rapport-building
+*Social Responsibility*
 
-Persuasion, Organisational and Planning
+*Relationship Management*
 
-Social Responsibility
+*Cooperation*
 
-Relationship Management
+*Self-belief*
 
-Cooperation
+*Communal Living*
 
-Self-belief
+*Independence*
 
-Communal Living
+*Self-awareness and Self-management*
 
-Independence
+*Social Influence*
 
-Self-awareness and Self-management
+*Fellowship*
 
-Social Influence
+*Self and Social Management*
 
-Fellowship
+*Confidence*
 
-Self and Social Management
+*Goal setting*
 
-Confidence
+*Resilience*
 
-Goal setting
+*Self-worth*
 
-Resilience
+*Honesty*
 
-Self-worth
+*Respect*
 
-Honesty
+*A Sense of Fairness*
 
-Respect
+*Accountability*
 
-A Sense of Fairness
+*Courage*
 
-Accountability
+*Compassion*
 
-Courage
+*Positive Social Growth*
 
-Compassion
+*Curiosity*
 
-Positive Social Growth
+*Social and Emotional Awareness*
 
-Curiosity
+*Environmental Literacy*
 
-Social and Emotional Awareness
+*Sustainable Practices*
 
-Environmental Literacy
+*Creativity*
 
-Sustainable Practices
+*Foresight*
 
-Creativity
+*Negotiation*
 
-Foresight
+*Collaboration*
 
-Negotiation
+*Community*
 
-Collaboration
+*Investigative Mind*
 
-Community
+*Social Cohesion*
 
-Investigative Mind
+*Social Security*
 
-Social Cohesion
+*Acceptance and Accountability*
 
-Social Security
+*Physical and Mental well-being and health*
 
-Acceptance and Accountability
+*Positive attitudes*
 
-Physical and Mental well-being and health
+*Active contribution*
 
-Positive attitudes
+*Focus and a strong sense of identity*
 
-Active contribution
+*Growth mindset*
 
-Focus and a strong sense of identity
+*Character strengths*
 
-Growth mindset
+*Gratitude*
 
-Character strengths
+*Engagement*
 
-Gratitude
-
-Engagement
-
-Automaticity_
+*Automaticity*
