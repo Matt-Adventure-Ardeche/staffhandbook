@@ -70,10 +70,10 @@ Direct contact with a Parent of a group member, from the scene of the incident s
 * Do not talk to the press – refer them to your employer’s media contact. 
 * Record all events, times and details – establish witness contact details and get statements from leaders
 
-## Recording an incident: 
+## Recording an incident 
 Make an accurate record of all details as soon as possible – do not leave this until later when your memory of details may be confused
 
-## Record the following: 
+## Record the following:
 * time, date and nature of the incident. 
 * accurate incident location.
 * names of casualties.
@@ -87,23 +87,23 @@ Make an accurate record of all details as soon as possible – do not leave this
 As soon as is practicable the incident will be reported on the incident report form.
 
 
-# Emergency & Critical Incidents
+## Emergency & Critical Incidents
 Serious incidents and accidents are very rare, but they can happen. Minor incidents, accidents or emergencies are more common. We aim to reduce the exposure to these risks through our safety and risk management system. In doing so we believe that our staff and our client’s exposure to risk is reduced.
 
-## A hierarchy of emergencies
+### A hierarchy of emergencies
 When we consider how things might go wrong, we categorise these emergencies into three separate areas. We like these terms because they sound distinct from one another. We wouldn’t want confusion about the severity of the situation when calling out from a poor phone connection; or a case of ‘*broken telephone*’ as the message is passed from one person to another.
 
-## Everything’s ok
+### Everything’s ok
 **Everything’s ok** is used when no immediate help is required from resources outside of Adventure Ardeche. There might have been an incident that needs to be communicated about, a request for resources later, an update, etc. 
 
 The accident / incident book is completed following the event.
 
-## Minor
+### Minor
 A **Minor** situation is usually an evacuation of a person off of the trip which requires non-emergency support and transport.
 
 The accident / incident book is completed following the event.
 
-## Emergency
+### Emergency
 An **Emergency** situation is one that is life or limb threatening and time sensitive. We would request outside help from emergency services such as the police, ambulance, or pompier.
 
 ## Protocol
