@@ -23,7 +23,7 @@ v0.1-2023
 
 <span style="text-align:center">
 
-## Priorities
+## The Journey
 
 Our highest priority is to satisfy the customer.<br>
 
