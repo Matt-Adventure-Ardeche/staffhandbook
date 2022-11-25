@@ -9,6 +9,7 @@
 Staff with a suspected infectious disease will be referred to a general practitioner. Control measures will be taken as advised by the general practitioner.
 
 **Employees Involved in Food Preparation, Cooking or Service:**
+
 * Adventure Ardeche catering staff suffering from any illness will report to the *Catering Manager* immediately.
 * Employees suffering from diarrhoea/vomiting or who have infected wounds, sores / skin infections that would come in contact with food, will not be allowed in the vicinity of the food areas.
 * If the person can work, they will be given alternative work outside of the food areas.
