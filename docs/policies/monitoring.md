@@ -2,7 +2,7 @@
 
 - [ ] <span style="color:red">ToDo.!</span>
   
-Monitoring is a fundamental part of our Safety Management System, and as Adventure Ardeche moves to a Safety by Design system. Compliance with policies & risk awareness will be checked as a primary part of the process.
+Monitoring is a fundamental part of our Safety Management System. As Adventure Ardeche moves to a Safety by Design system, compliance with policies & risk awareness will be checked as a primary part of the process.
 
 Quality assurance is a secondary, but fundamental, part of the process, with a focus on client care & customer satisfaction.
 
