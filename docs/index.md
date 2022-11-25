@@ -25,11 +25,11 @@ Create around motivated individuals. Give them the support they need, and trust 
 
 Continuous attention to excellence.<br>
 
-Simplicity--is essential.<br>
+Simplicity is essential.<br>
 
 The best outcomes come from self-organising teams.<br>
 
-At regular intervals, the team reflects on how to become more effective, then ashusts its behaviour accordingly.
+At regular intervals, the team reflects on how to become more effective, then adjusts its behaviour accordingly.
 </div>
 
 Supporting **Learning Objectives** & **Efficiency** to create **High Quality Provision** & making learning outdoors accessible to all.
