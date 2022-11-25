@@ -17,7 +17,9 @@ Assess the situation, establishing the nature and extent of the problem but ensu
 * If there are injuries, take action to establish their extent and administer appropriate first aid.
 
 ## First Aid
+
 **Aim to:**
+
 * Preserve life.
 * Prevent the condition from worsening.
 * Promote recovery - Treat for shock – Reassure and keep warm.
@@ -84,8 +86,8 @@ Make an accurate record of all details as soon as possible – do not leave this
 
 As soon as is practicable the incident will be reported on the incident report form.
 
-# Emergency & Critical Incidents
 
+# Emergency & Critical Incidents
 Serious incidents and accidents are very rare, but they can happen. Minor incidents, accidents or emergencies are more common. We aim to reduce the exposure to these risks through our safety and risk management system. In doing so we believe that our staff and our client’s exposure to risk is reduced.
 
 ## A hierarchy of emergencies
@@ -111,4 +113,5 @@ An **Emergency** situation is one that is life or limb threatening and time sens
 * Scenario based tests of the emergency procedure and critical incident plan will occur at least once per season. 
 
 !!! danger ""   
-   All staff will have an emergency procedure laminated card with them.
+
+    All staff will have an emergency procedure laminated card with them.

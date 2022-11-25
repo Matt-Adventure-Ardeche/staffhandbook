@@ -10,13 +10,13 @@ nav:
   - overview.md
   - expectations.md
   - Policies:
-      - policies/gdpr.md
-      - policies/emergency.md
-      - policies/accidentsincidents.md
-      - policies/monitoring.md
-      - policies/fireflood.md
       - policies/safeguarding.md
       - policies/riskmitigation.md
+      - policies/emergency.md
+      - policies/accidentsincidents.md
+      - policies/fireflood.md
+      - policies/monitoring.md
+      - policies/gdpr.md
       - policies/ensuringquality.md
   - Risk Assessments:
       - risk-assessments/ardecheRA.md

@@ -32,6 +32,7 @@ Fire doors will be kept closed and free of obstructions at all times.
 There is a no-smoking policy in all Adventure Network buildings, marquees and accommodation.
 
 Materials that pose a high risk of fire are prohibited outside designated areas. This list includes but is not limited to:
+
 * Candles.
 * Gas, oil and fuel burners.
 * Electric element heaters.
@@ -69,6 +70,7 @@ All fire fighting equipment will be checked on a weekly basis, this will include
 Any missing or damaged equipment will be reported to the Duty Manager. 
 
 Every client will receive a fire drill briefing within 6 hours of arriving on Centre, this briefing will include but is not limited to the following:
+
 * How to raise the alarm.
 * Location of fire alarm points and how to find an Adventure Ardeche staff member.
 * Instruction in the use of fire alarms.
@@ -81,6 +83,7 @@ If the fire is small and there is no immediate threat to clients or staff the fi
 If the fire is near to staff or client accommodation the fire alarm should always be raised. The fire may then be tackled using the appropriate fire fighting equipment if it is deemed safe to do so.
 
 **If the fire alarm is raised the following procedure will be implemented:**
+
 * In the event of the fire alarm being raised the most senior member of staff on duty will collect the Live File, Visitors Book and Staff Rotas from the office. If the source and scale of the fire is known at this stage the fire brigade should be called immediately or an appointed person should tackle the fire accordingly.
 * The most senior member of staff will then proceed immediately to the fire/flood assembly point and take on the role of Fire Officer.
 * All other available members of staff will direct all clients, off-duty staff and visitors to the fire assembly point.
@@ -89,6 +92,7 @@ If the fire is near to staff or client accommodation the fire alarm should alway
 * The Fire Officer will present themselves to the fire brigade with all available information - such as location and scale of fire, any persons unaccounted for, etc - and take direction from them. At this stage the Emergency Procedure will be implemented and depending on the scale of the incident the Site Evacuation Plan may be put into action.
 
 **Only the Fire Officer can end the fire alarm. This should be done when either:**
+
 * The Fire Officer being assured that the alarm was false.
 * The Fire Officer being assured that any fire is extinguished and that there is no further risk.
 * The Fire Officer is given the all clear from the fire brigade.
