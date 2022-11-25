@@ -17,7 +17,7 @@ v0.1-2023
 
 <div style="text-align:center">
 
-**Today, Adventure Ardeche are less pioneers, and more like explorers on the seas of continuous improvement.**<br>
+**Today, Adventure Ardeche are less pioneers, and more like explorers on the seas of continuous improvement.**
 
 Our highest priority is to satisfy the customer.<br>
 
