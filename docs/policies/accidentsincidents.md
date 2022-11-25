@@ -4,7 +4,7 @@
   
 The **Director of Operations** is responsible for the correct application of the procedure. 
 
-* **Occurrences will be classified as:**
+**Occurrences will be classified as:**
 * **Accident:**   Injuries requiring first aid/medical treatment.
 * **Major:**   Death or requiring overnight hospital admission.
 * **Serious:**   Involving personal injury requiring professional medical attention.

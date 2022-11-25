@@ -9,15 +9,16 @@ During an Emergency you will not have time to read this guidance – you will be
 Assess the situation, establishing the nature and extent of the problem but ensuring that the leaders do not put themselves or others at further risk.
 
 **Make sure all other members of the party are:**
-* Accounted for
-* Safe
-* Adequately supervised
+
+* Accounted for.
+* Safe.
+* Adequately supervised.
 * Briefed to ensure that they understand what to do to remain safe. Leaders should assume their allocated roles - ensuring that where one or more of the Visit Leadership Team is incapacitated then these roles are reassigned on a priority basis.
 * If there are injuries, take action to establish their extent and administer appropriate first aid.
 
 ## First Aid
 **Aim to:**
-* Preserve life
+* Preserve life.
 * Prevent the condition from worsening.
 * Promote recovery - Treat for shock – Reassure and keep warm.
 
@@ -72,11 +73,11 @@ Make an accurate record of all details as soon as possible – do not leave this
 
 ## Record the following: 
 * time, date and nature of the incident. 
-* accurate incident location
+* accurate incident location.
 * names of casualties.
 * details of injuries.
 * actions taken, including all communications.
-* names of others involved but not injured
+* names of others involved but not injured.
 * details of any moves from the incident site (times, who moved, where to, how).
 * names and contact details of witnesses.
 * proposed actions. 
@@ -109,6 +110,5 @@ An **Emergency** situation is one that is life or limb threatening and time sens
 * All of our staff will be first aid trained
 * Scenario based tests of the emergency procedure and critical incident plan will occur at least once per season. 
 
-!!! danger ""
-   
+!!! danger ""   
    All staff will have an emergency procedure laminated card with them.
