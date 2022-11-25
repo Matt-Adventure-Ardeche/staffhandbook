@@ -9,7 +9,7 @@ hide:
 
 # Staff Handbook
 
-v0.0.1-2023
+v0.1-2023
 
 !!! info
 

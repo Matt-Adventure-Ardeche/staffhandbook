@@ -10,6 +10,8 @@ nav:
   - overview.md
   - expectations.md
   - Policies:
+      - policies/gdpr.md
+      - policies/emergency.md
       - policies/safeguarding.md
       - policies/riskmitigation.md
       - policies/ensuringquality.md
