@@ -12,6 +12,7 @@ nav:
   - Policies:
       - policies/gdpr.md
       - policies/emergency.md
+      - policies/accidentsincidents.md
       - policies/safeguarding.md
       - policies/riskmitigation.md
       - policies/ensuringquality.md

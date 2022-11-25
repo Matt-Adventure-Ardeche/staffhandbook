@@ -1,5 +1,7 @@
 # GDPR Protocol
 
+- [ ] <span style="color:red">ToDo.!</span>
+  
 [GDPR & Data Protection](https://gdpr.eu/)
 
 **Lawfulness, fairness and transparency** — Processing must be lawful, fair, and transparent to the data subject.
