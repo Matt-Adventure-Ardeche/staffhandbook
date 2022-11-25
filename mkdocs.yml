@@ -9,6 +9,10 @@ nav:
   - index.md
   - overview.md
   - expectations.md
+  - Policies:
+      - policies/safeguarding.md
+      - policies/riskmitigation.md
+      - policies/ensuringquality.md
   - Risk Assessments:
       - risk-assessments/ardecheRA.md
       - risk-assessments/raft-buildRA.md
@@ -18,12 +22,6 @@ nav:
       - risk-assessments/initiativesRA.md
       - risk-assessments/adventurechallengeRA.md
       - risk-assessments/ardecheolympicsRA.md
-  - Policies:
-      - policies/safeguarding.md
-      - policies/riskmitigation.md
-      - policies/ensuringquality.md
-  - Procedures:
-      - staffhandbook/still-to-write.md
   - Activities:
       - activities/ardeche.md
       - activities/raft-build.md
