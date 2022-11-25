@@ -15,31 +15,24 @@ v0.1-2023
 
     A way to evangelize, explain, and support solutions to peers so they can be correctly used and successfully adopted
 
-<span style="text-align:center">
-
 **Today, Adventure Ardeche are less pioneers, and more like explorers on the seas of continuous improvement.**
 
-</span>
+## The JOURNEY
 
-<span style="text-align:center">
+Our highest priority is to satisfy the **customer**.<br>
 
-## The Journey
+**Create** around motivated individuals. Give them the support they need, and trust them to deliver.<br>
 
-Our highest priority is to satisfy the customer.<br>
+Continuous attention to **excellence**.<br>
 
-Create around motivated individuals. Give them the support they need, and trust them to deliver.<br>
+**Simplicity** is essential.<br>
 
-Continuous attention to excellence.<br>
+The best outcomes come from **self-organising** teams.<br>
 
-Simplicity is essential.<br>
-
-The best outcomes come from self-organising teams.<br>
-
-At regular intervals, the team reflects on how to become more effective, then adjusts its behaviour accordingly.
-</span>
-
-Supporting **Learning Objectives** & **Efficiency** to create **High Quality Provision** & making learning outdoors accessible to all.
+At regular intervals, the team **reflects** on how to become more effective, then adjusts its behaviour accordingly.
 
 ## EMPOWER YOUNG PEOPLE TO THRIVE
 
 Immersion in the outdoors builds core skills for their future.
+
+Supporting **Learning Objectives** & **Efficiency** to create **High Quality Provision** & making learning outdoors accessible to all.
