@@ -122,6 +122,7 @@ extra:
 # EXTRA CSS
 extra_css:
   - assets/css/extra.css
+  - assets/js/extra.js
 
 # Markdown Extentions
 markdown_extensions:
