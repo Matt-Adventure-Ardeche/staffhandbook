@@ -1,8 +1,8 @@
 site_name: Adventure Ardeche
 site_author: Matt Thompson, Adventure Ardeche
 repo_url: https://github.com/Matt-Adventure-Ardeche/staffhandbook
-edit_uri: ""
 copyright: Copyright &copy; 2022 - 2023 Adventure Ardeche. All Rights Reserved.
+remote_branch: gh-pages
 
 # NAVIGATION
 nav:
@@ -44,6 +44,7 @@ nav:
       - still-to-write.md
   - Resources:
       - resources/resources.md
+      - 'PDF Document': '/pdf/'
   - Reference:
       - still-to-write.md
   - Personal Adventure:
