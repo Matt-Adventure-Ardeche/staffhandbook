@@ -1,4 +1,4 @@
-# Emergency Procedure
+# Emergencies
 
 - [ ] <span style="color:red">ToDo.!</span>
   

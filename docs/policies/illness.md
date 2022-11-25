@@ -1,4 +1,4 @@
-# Illness Procedure
+# Illnesses
 
 - [ ] <span style="color:red">ToDo.!</span>
   

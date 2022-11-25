@@ -1,4 +1,4 @@
-# GDPR Protocol
+# GDPR
 
 - [ ] <span style="color:red">ToDo.!</span>
   
