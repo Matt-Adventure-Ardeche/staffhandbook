@@ -15,17 +15,18 @@ v0.1-2023
 
     A way to evangelize, explain, and support solutions to peers so they can be correctly used and successfully adopted
 
-<div style="text-align:center">**Today, Adventure Ardeche are less pioneers, and more like explorers on the seas of continuous improvement.**
+<div style="text-align:center">
+**Today, Adventure Ardeche are less pioneers, and more like explorers on the seas of continuous improvement.** <br>
 
-Our highest priority is to satisfy the customer.
+Our highest priority is to satisfy the customer.<br>
 
-Create around motivated individuals. Give them the support they need, and trust them to deliver.
+Create around motivated individuals. Give them the support they need, and trust them to deliver.<br>
 
-Continuous attention to excellence.
+Continuous attention to excellence.<br>
 
-Simplicity--is essential.
+Simplicity--is essential.<br>
 
-The best outcomes come from self-organising teams.
+The best outcomes come from self-organising teams.<br>
 
 At regular intervals, the team reflects on how to become more effective, then ashusts its behaviour accordingly.
 </div>
