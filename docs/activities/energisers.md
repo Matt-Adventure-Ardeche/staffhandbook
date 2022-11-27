@@ -53,7 +53,7 @@ This energizer trains your sensory acumen because you have to feel each other we
 * Clap your hands as you turn to the person standing to your left or right.
 * The person you clapped at should clap their hands exactly at the same time as you.
 * Now it is the turn of the other. He also flips back to the person standing on his left or right. So it can happen that you get the blow back. In that case you are clapping twice in a row.
-    * Variation: you can now also pass the blow to everyone in the circle instead of just the person standing to your left or right.
+    * **Variation:** you can now also pass the blow to everyone in the circle instead of just the person standing to your left or right.
 
 ## **Energizer 7** – Count in a circle focused in turn to as high as possible
 
@@ -86,9 +86,9 @@ Above all, this is a very funny energizer.
 * Person B and C say very enthusiastically ‘yeah, yeah, they repeat what person A said and then everyone does what person A said, yeah! Let’s do a pirouette!
 * Then it is person B’s turn. Then again C. Then again A. Nice and often repeat!
 
-    * Variation: Make it even more enthusiastic during the next round!
-    * Variation: Make the actions narrative / sequential, so let them relate to each other.
-    * Variation: After a while, let the pairs and triples merge with the whole group, creating one large group and escalate.
+    * **Variation:** Make it even more enthusiastic during the next round!
+    * **Variation:** Make the actions narrative / sequential, so let them relate to each other.
+    * **Variation:** After a while, let the pairs and triples merge with the whole group, creating one large group and escalate.
   
 ## **Energizer 12** – Unlikely twist
 
