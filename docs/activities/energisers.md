@@ -175,10 +175,9 @@ Is this going well? Then you can make it increasingly difficult by, for example,
 
 ## **Energiser 22** – Trust games
 
-There are a number of great games where you have to trust each other. My favorite two:
+There are a number of great games where you have to trust each other. Here's a favourite of mine for when the group know each other &amp; are working well together:
 
 * Fall back and be caught by your fellow players.
-* Close your eyes (and turn off the light) while your fellow player puts his / her hand on your back. This will send you. Letting go is braking / stopping.
 
 ## **Energiser 23** – Literally exercise
 
