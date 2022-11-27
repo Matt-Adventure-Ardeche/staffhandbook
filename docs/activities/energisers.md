@@ -1,6 +1,6 @@
 # Energisers
 
-Need a quick game, activity to get the group awake, moving, getting to know each other, or just for fun when you have some time to spare...?
+**Need a quick game, activity to get the group awake, moving, getting to know each other, or just for fun when you have some time to spare...?**
 
 ## **Energizer 1** – Attract and repel
 
