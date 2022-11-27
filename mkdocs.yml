@@ -20,6 +20,7 @@ nav:
       - policies/gdpr.md
       - policies/ensuringquality.md
   - Risk Assessments:
+      - risk-assessments/genericRA.md
       - risk-assessments/ardecheRA.md
       - risk-assessments/raft-buildRA.md
       - risk-assessments/supRA.md
