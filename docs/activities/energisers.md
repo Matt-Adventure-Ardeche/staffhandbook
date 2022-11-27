@@ -5,6 +5,7 @@ Need a quick game, activity to get the group awake, moving, getting to know each
 ## **Energizer 1** – Attract and repel
 
 All participants are crisscrossing each other in the hall. Now give everyone the following two instructions.
+
 * Now choose 2 people in your mind: someone you feel attracted to and someone you feel rejected.
 * Don’t tell anyone who you chose. Walk away from the person who is rejecting you as much as possible and approach the person you are attracted to as much as possible.
 
@@ -13,6 +14,7 @@ All participants are crisscrossing each other in the hall. Now give everyone the
 ## **Energizer 2** – The secret triangle
 
 All participants are criss-crossing each other in the hall. Now give everyone the following two instructions.
+
 * Now choose 2 people in your mind.
 * As everyone continues to walk, create an imaginary triangle through the distance between you. You do not say who the 2 people you have chosen are.* Everyone has to keep walking.
   
@@ -87,7 +89,7 @@ Above all, this is a very funny energizer.
     * Variation: Make it even more enthusiastic during the next round!
     * Variation: Make the actions narrative / sequential, so let them relate to each other.
     * Variation: After a while, let the pairs and triples merge with the whole group, creating one large group and escalate.
-    * 
+  
 ## **Energizer 12** – Unlikely twist
 
 * Make pairs.
