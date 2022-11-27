@@ -5,7 +5,7 @@
 
 |**Activity**                   |**Property**|
 |:----                          |:----       |
-|Improised Raft Building        |All         |
+|Improvised Raft Building       |All         |
 
 |**Ref**|**Hazard**                    |**Who is at Risk**|**Control**                   |
 |:----  |:----                         |:----             |:----                         |
