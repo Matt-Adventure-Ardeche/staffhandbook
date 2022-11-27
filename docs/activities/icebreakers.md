@@ -24,7 +24,7 @@ Go to someone you haven’t spoken to yet and address these 3 questions together
 This is a very funny and fun introductory game. This can be done in a plenary session or in pairs.
 
 * The person whose turn it is is going to tell 3 things about themselves. One of those things is a lie.
-* The rest can guess which of the three is a lie (fairytale is a more positive word).
+* The rest can guess which of the three is a lie (*fairytale is a more positive word*).
 
 ## **Icebreaker 4** – The massage train
 
@@ -56,15 +56,16 @@ Another thing that works very well is asking one funny question in front of the 
 This exercise requires the group to step out of its comfort zone, but the results are impressive! This breaks the ice very effectively.
 
 **Round 1:** everyone walks through the room while music is playing. When the music stops, you walk up to someone and greet the other without really paying attention to the other.
+
 **Round 2:** everyone walks around the room and when the music stops this time, you walk up to someone and pretend to see your best friend again after a long time.
 
 It is now definitely broken and the group could draw some nice conclusions from it as a bonus, such as: greet everyone! Or: your smile is powerful!
 
 ## **Icebreaker 8** – Eye gazing icebreaker
 
-Look at the other person for 2 minutes before you shake hands and introduce yourself.
+Look at the other person for 2 minutes before you shake hands and introduce yourself. If you look strangers in the eye for a minute (*or longer*), they are no longer strangers. 
 
-    > If you look strangers in the eye for a minute (or longer), they are no longer strangers. When you look people in the eye for so long, you suddenly realize that you really make contact – that you really see the other.
+> When you look people in the eye for so long, you suddenly realize that you really make contact – that you really see the other.
     – Sochicken
 
 ## **Icebreaker 9** – Introduce yourself through a metaphor
