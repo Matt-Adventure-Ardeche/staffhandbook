@@ -3,22 +3,27 @@
 !!! warning
     **ALL** Risk Assessments are likely to change at some point whan a common format is decided upon.
 
-|**Activity**   |**Property**|
-|:----          |:----       |
-|Ardeche Descent|Base du Cros|
+| **Activity**        | **Property** |
+|:------------------- |:------------ |
+| **Ardeche Descent** | All          | 
 
-|**Ref**|**Hazard**                     |**Who is at Risk**|**Control**                   |
-|:----  |:----                          |:----             |:----                         |
-| *AD1*   | Equipment Failure           |     ALL          |                              |
-| *AD2*   | Misuse of Equipment         |     ALL          |                              |
-| *AD3*   | Drowning                    |     ALL          |                              |
-| *AD4*   | Personal Injury             |     ALL          |                              |
-| *AD12*  | Exhaustion                  |     ALL          |                              |
-| *AD5*   | Falling Rocks &amp; Objects |     ALL          |                              |
-| *AD6*   | Foot Entrapment &amp; other swim hazards       | ALL                          |                              |
-| *AD7*   | Other River users           |     ALL          |                              |
-| *AD8*   | Dehydration                 |     ALL          |                              |
-| *AD9*   | Hypothermia                 |     ALL          |                              |
-| *AD10*  | Hyperthermia                |     ALL          |                              |
-| *AD11*  | Missing Child               |     Participant  |                              |
-| *AD12*  | Non-Qualified Staff         |     ALL          |                              |
+| **Ref** | **Hazard**          | **Who is at Risk** | **Control**                                                                                                                                                                                                                                                                                        |
+|:------- | ------------------- |:------------------:| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| AD1     | Equipment Failure   |        All         | PPE meets CE standards. Visual check before activity.                                                                                                                                                                                                                                              |
+| AD2     | Misuse of Equipment |        All         | Technical hardware stored securely. BA's, Throw-lines washed and dried each use.                                                                                                                                                                                                                   |
+| AD3     | Drowning            |        All         | PPE worn appropriately.  BA's **float tested** each season. Weak swimmers identified and monitored.                                                                                                                                                                                                |
+| AD4     | Injury              |        All         | PPE worn. Full Toe protection footwear worn.                                                                                                                                                                                                                                                       |
+| AD5     | Falling objects     |        All         | Helmets worn at all times, only removed when given clear boundaries by Lead River Leader. River leaders aware of known risk areas.                                                                                                                                                                 |
+| AD6     | Foot Entrapment     |        All         | Safe Swimming brief given during River Prep **AND** prior to any swimming activity on descent. **ALL** river staff to receive WW Safety training                                                                                                                                                   |
+| AD7     | Other Users         |        All         | Awareness of other river users at all times, particularly around obstructions and pinch points. Active guard siding to be used.                                                                                                                                                                    |
+| AD8     | Dehydration         |        All         | Re-Hydration packs available. Monitor intake of water by participants. Awareness of safe springs to replenish water supplies. Staff monitoring and vigilance.                                                                                                                                      |
+| AD9     | Hypothermia         |        All         | Awareness of risks. Weather checks before any session. Spare clothing and Group Shelter carried in Rescue kit.                                                                                                                                                                                     |
+| AD10    | Hyperthermia        |        All         | Awareness of risks. Clothing appropriate. Drinking water available. Hydration Packs available.                                                                                                                                                                                                     |
+| AD11    | Manual Handling     |        All         | Safe practices adopted. Refer to manual Handling RA.                                                                                                                                                                                                                                               |
+| AD12    | Weather conditions  |        All         | Cancel or revise descent if storms in area. Monitor until safe locations located along river. Appropriate clothing an protection from elements carried and used as required.                                                                                                                       |
+| AD13    | Missing Child       |    Participants    | Each member of staff to know **EXACTLY** where every participant in their *Cell* is in relation to themselves at all times when under their direct supervision. Transfer of responsibility between any accompanying adult acting in loco-parentis and AA staff undertaken **ONLY** by river leader. |
+| AD14    | Non-Qualified Staff |    Participants    | Compliance with National & Local law & as described in the **Code Du Sport**.                                                                                                                                                                                                                       |
+
+| **Date Created**   | **Prepared By** | **Review Date** |
+| ------------------ | --------------- | --------------- |
+| 15th December 2022 | Matt Thompson   | 1st April 2023  | 
