@@ -19,11 +19,11 @@
 | EA8     | Group posts                          |    Participants    | Common sense behaviour.                                                                                    |
 | EA9     | Football                             |        All         | Defined area for games, check area before use. Monitor enthusiasm...                                       |
 | EA10    | Petanque                             |        All         | Check court before use.                                                                                    |
-| EA11    | CampFire                             |        All         | Sensible behavior around fire pit area. Means of extinguishing fire available at site.                     |
+| EA11    | Camp Fire                            |        All         | Sensible behaviour around fire pit area. Means of extinguishing fire available at site.                    | 
 | EA12    | Marshmallows                         |        All         | Sensible behaviour. Long hair tied back. Loose clothing secured. Warning about hot Goo..!                  |
 | EA13    | Misuse of equipment                  |    Participants    | Audio/Lighting equipment only used by trained staff. placement of any cables to minimise trip hazards.     |
 | EA14    | Sound Levels                         |        All         | Restricted audio levels from basic equipment used.                                                         |
-| EA15    | Electicution                         |        All         | Visual check before Use. Equipment stored in dry location. PAT tested.                                     |
+| EA15    | Electrocution                        |        All         | Visual check before Use. Equipment stored in dry location. PAT tested.                                     |
 
 | **Date Created**   | **Prepared By** | **Review Date** |
 | ------------------ | --------------- | --------------- |
