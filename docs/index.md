@@ -30,17 +30,17 @@ This is where exposure to adventure comes in. It’s adventure that gives us the
 It is our aim to facilitate as many adventurous experiences as possible. Experiences that promote the development of personal growth, helping people navigate their own way, find their own path and step forward into the future with confidence. Adventure and challenge set in inspirational outdoor environments, coupled with our unrivalled experience, provide the ideal platform for the accelerated learning & growth which is at the very core of what we deliver.
 
 
-!!! info ""
+!!! info
     ### Our Mission
     Creating change through adventure
 
 
-!!! info ""
+!!! info
     ### Our Pillars
     ADVENTURE, ENVIRONMENT, LEARNING, PEOPLE
 
 
-!!! info ""
+!!! info
     ### Our Values
     PASSION, RESPECT, SUSTAINABILITY, SAFETY
 
