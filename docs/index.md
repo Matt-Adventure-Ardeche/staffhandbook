@@ -31,7 +31,7 @@ It is our aim to facilitate as many adventurous experiences as possible. Experie
 
 
 !!! info ""
-    ### Our mission
+    ### Our Mission
     Creating change through adventure
 
 
