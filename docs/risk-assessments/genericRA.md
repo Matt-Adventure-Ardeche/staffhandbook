@@ -3,6 +3,9 @@
 !!! warning
     **ALL** Risk Assessments are likely to change at some point whan a common format is decided upon.
 
+!!! info
+**ALL** Risk Assessments Have a huge amount of repetition across all areas. Consider bringing that across into a single Generic document to highlight these aspects.
+
 |**Activity**   |**Property**|
 |:----          |:----       |
 |Generic        |All         |
