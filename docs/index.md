@@ -13,7 +13,7 @@ v0.1-2023
 
 !!! info
 
-    A way to evangelize, explain, and support solutions to peers so they can be correctly used and successfully adopted
+    A way to evangelize, explain, and support working practices to peers so they can be correctly used and successfully adopted
 
 ## Our Belief
 
