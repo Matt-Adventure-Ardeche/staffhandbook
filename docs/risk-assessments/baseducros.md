@@ -9,22 +9,20 @@
 
 |**Ref**|**Hazard**|**Who is at Risk**|**Controls**|
 |---|---|:---:|---|
-|BdC 1|River|All||
-|BdC 2||||
-|BdC 3||||
-|BdC 4||||
-|BdC 5||||
-|BdC 6||||
-|BdC 7||||
-|BdC 8||||
-|BdC 9||||
-|BdC 10||||
-|BdC 11||||
-|BdC 12||||
-|BdC 13||||
-|BdC 14||||
-|BdC 15||||
-|BdC 16||||
+|BdC 1|River|Participants|Participants made aware of the river where travel is in immediate vicinity. Particular attention to paid to this during any period of high water. Change the route if conditions or ease of travel dictates.|
+|BdC 2|Vehicles|All|Participants made aware of danger posed by vehicles. Guard side group where required. Lead from a Position of Maximum Usefulness. Single file maintained on appropriate side of roads.|
+|BdC 3|All|Awareness of uneven terrain.  Appropriate closed toe footwear worn. Awareness of drops, cliffs, flora, tree roots etc. Vigilance particularly around key areas. Maintain group control in key areas. Use 'Spotting' techniques when appropriate.|
+|BdC 4| Falling objects | All | Awareness of overhanging cliff faces. No one to enter these areas where defined. |
+|BdC 5|All|Awareness of group/participant behaviour around general public and private properties.|
+|BdC 6|Tent Guy Ropes|Participants | Common sense behaviour encouraged where required|
+|BdC 7|Spiders Web Activity|Participants | Common sense behaviour encouraged where required |
+|BdC 8|Nightline Activity|Participants | Common sense behaviour encouraged where required |
+|BdC 9|Fences|All|Common sense behaviour encouraged where required|
+|BdC 10| Regroupment posts |All | Common sense behaviour encouraged where required |
+|BdC 11|Climbing Wall|Participants | Common sense behaviour encouraged where required |
+|BdC 12|Canoes/Kayaks|All|Common sense behaviour encouraged where required|
+|BdC 13|Trailer Park|All|Common sense behaviour encouraged where required|
+|BdC 14|Wahing Lines|All|Common sense behaviour encouraged where required. Visibility enhanced.|
 
 |**Created Date**|**Prepared By**|**Review Date**|
 |---|---|---|
