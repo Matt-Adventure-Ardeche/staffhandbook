@@ -13,7 +13,7 @@
 |BdC 2|Vehicles|All|Participants made aware of danger posed by vehicles. Guard side group where required. Lead from a Position of Maximum Usefulness. Single file maintained on appropriate side of roads.|
 |BdC 3|Slips, Trips, & Falls|All|Awareness of uneven terrain.  Appropriate closed toe footwear worn. Awareness of drops, cliffs, flora, tree roots etc. Vigilance particularly around key areas. Maintain group control in key areas. Use 'Spotting' techniques when appropriate.|
 |BdC 4| Falling objects | All | Awareness of overhanging cliff faces. No one to enter these areas where defined. |
-|BdC 5|All|Awareness of group/participant behaviour around general public and private properties.|
+|BdC 5|All|Others|Awareness of group/participant behaviour around general public and private properties.|
 |BdC 6|Tent Guy Ropes|Participants | Common sense behaviour encouraged where required|
 |BdC 7|Spiders Web Activity|Participants | Common sense behaviour encouraged where required |
 |BdC 8|Nightline Activity|Participants | Common sense behaviour encouraged where required |
