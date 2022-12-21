@@ -13,7 +13,7 @@ Situational awareness therefore enables an individual to make the most appropria
     As such, it is clear that where situational awareness is a key risk control element, organisations should be determining how they can ensure employees acquire appropriate levels of situational awareness.  
 
 ## Improving situational awareness  
-According to the HSE, the process of improving situational awareness is to get into the habit of “*regularly pausing to make a quick mental assessment of your environment*”. When doing so, it suggests that the individual should consider the following questions.
+According to the HSE, the process of improving situational awareness is to get into the habit of “*regularly pausing to make a quick mental assessment of your environment*”. When doing so, it suggests that the individual should consider the following questions:
 
   - Is there anything around that poses a threat to your health and safety and to what extent?
   - Is the threat so serious that work should be stopped?  
@@ -58,14 +58,14 @@ Clearly with this approach, employees will need to be provided with the necessar
    
 ### Training  
 **C.L.A.P**  
-**Version 1.** https://paddlerezine.com/c-l-a-p-more-than-just-an-acronym/
+**Version 1.** - [paddlerezine.com/c-l-a-p-more-than-just-an-acronym](https://paddlerezine.com/c-l-a-p-more-than-just-an-acronym/)
 
   - **C**ommunication  
   - **L**ine of Sight  
   - **A**wareness  
   - **P**osition of Maximum Usefulness  
   
-**Version 2.** https://firstaidtrainingcooperative.co.uk/acronyms-clap/
+**Version 2.** - [firstaidtrainingcooperative.co.uk/acronyms-clap](https://firstaidtrainingcooperative.co.uk/acronyms-clap/)
 
   - **C**ontrol the Situation  
   - **L**ook for hazards  
