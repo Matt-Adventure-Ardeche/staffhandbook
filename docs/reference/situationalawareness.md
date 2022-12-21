@@ -1,5 +1,6 @@
 # Situational Awareness
-## Defining situational awareness  
+
+### Defining situational awareness  
  
 > The Health and Safety Executive (HSE) defines situational awareness as “being aware of what is happening around you in terms of where you are, where you are supposed to be, and whether anyone or anything around you is a threat to your health and safety”.  
 
@@ -10,7 +11,7 @@ Situational awareness therefore enables an individual to make the most appropria
 !!! Info  
     As such, it is clear that where situational awareness is a key risk control element, organisations should be determining how they can ensure employees acquire appropriate levels of situational awareness.  
 
-#### Improving situational awareness  
+##### Improving situational awareness  
 According to the HSE, the process of improving situational awareness is to get into the habit of “*regularly pausing to make a quick mental assessment of your environment*”. When doing so, it suggests that the individual should consider the following questions.  
 - Is there anything around that poses a threat to your health and safety and to what extent?  
 - Is the threat so serious that work should be stopped?  
@@ -18,7 +19,8 @@ According to the HSE, the process of improving situational awareness is to get i
   
 Clearly with this approach, employees will need to be provided with the necessary information, instruction and training to enable them to identify the threats, analyse how serious those threats are and what action should be taken in controlling the risks.  
 
-#### “SLAM” technique to ensure employees improve situational awareness.  
+##### “SLAM” technique to ensure employees improve situational awareness.  
+
 - **STOP**: employees should engage their minds before their hands and look at the task to be completed.  
 - **LOOK**: employees should look at the workplace and find the hazards to them and other employees and report these immediately to a supervisor.  
 - **ASSESS**: employees should assess the effects the hazard may have on them and other persons, equipment, procedures, pressures and the environment. Employees should ask themselves if they have the appropriate knowledge, training and tools to do the task safely.  
