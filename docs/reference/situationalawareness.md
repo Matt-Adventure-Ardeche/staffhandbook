@@ -6,9 +6,10 @@
   Situational awareness therefore enables an individual to make the most appropriate decision to ensure their own safety and that of others who may be exposed to the threat. In essence, it requires an individual to have:  
 - An **awareness/perception** of the environment in which they work and the consequent **hazards/threats**.  
 - The comprehension to analyse the situation and potential risks from hazards/threats, the ability to respond in an appropriate manner to avoid the risks or reduce their impact.  
-!! Info  
+  
+!!! Info  
     As such, it is clear that where situational awareness is a key risk control element, organisations should be determining how they can ensure employees acquire appropriate levels of situational awareness.  
-    
+
 #### Improving situational awareness  
 According to the HSE, the process of improving situational awareness is to get into the habit of “*regularly pausing to make a quick mental assessment of your environment*”. When doing so, it suggests that the individual should consider the following questions.  
 - Is there anything around that poses a threat to your health and safety and to what extent?  
