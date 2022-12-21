@@ -49,6 +49,7 @@ nav:
       - learning/focus-words.md
   - Best Practices:
       - best-practices/generic.md
+      - best-practices/leavenotrace.md
   - Resources:
       - resources/resources.md
   - Reference:
