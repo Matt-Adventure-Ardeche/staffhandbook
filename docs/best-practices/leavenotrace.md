@@ -14,7 +14,7 @@
     Practising a Leave No trace ethic is very simple:
     <br />*Make it hard for others to see or hear you and **LEAVE NO TRACE** of your visit*.
 
-Super [.pdf](https://www.leavenotraceireland.org/wp-content/uploads/2020/01/Leave-No-Trace-Ireland-Skills-and-Ethics-A5.pdf) from **Leave No Trace Ireland** on the details around the **7 Principles** .
+Super [.pdf](https://www.leavenotraceireland.org/wp-content/uploads/2020/01/Leave-No-Trace-Ireland-Skills-and-Ethics-A5.pdf) from **Leave No Trace Ireland** on the details around the **7 Principles**.
 
 Originating in the USA, Leave No Trace has become a worldwide standard for understanding our effect on the places we visit, play, and teach in.
 
