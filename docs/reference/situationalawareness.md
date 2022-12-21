@@ -1,9 +1,9 @@
 # Situational Awareness
 ## Defining situational awareness  
  
-	  > The Health and Safety Executive (HSE) defines situational awareness as “being aware of what is happening around you in terms of where you are, where you are supposed to be, and whether anyone or anything around you is a threat to your health and safety”.  
+> The Health and Safety Executive (HSE) defines situational awareness as “being aware of what is happening around you in terms of where you are, where you are supposed to be, and whether anyone or anything around you is a threat to your health and safety”.  
 
-  Situational awareness therefore enables an individual to make the most appropriate decision to ensure their own safety and that of others who may be exposed to the threat. In essence, it requires an individual to have:  
+Situational awareness therefore enables an individual to make the most appropriate decision to ensure their own safety and that of others who may be exposed to the threat. In essence, it requires an individual to have:  
 - An **awareness/perception** of the environment in which they work and the consequent **hazards/threats**.  
 - The comprehension to analyse the situation and potential risks from hazards/threats, the ability to respond in an appropriate manner to avoid the risks or reduce their impact.  
   
