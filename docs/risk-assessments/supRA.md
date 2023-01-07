@@ -15,11 +15,11 @@
 | SUP4     |Injury from fin|All|Wear helmets|
 | SUP5     | Paddles               |    Participants    | Vigilance in use. Wear helmets.  |
 | SUP6     | Manual Handling       |        All         | Good posture at all times. Share loads.        |
-| SUP7     | Weather Conditions    |        All         | Overhead or close storm activity session to be cancelled. Appropriate measures taken to protect against Sun, Wind, Cold. Construction of Raft in shade.              |
+| SUP7     | Weather Conditions    |        All         | Overhead or close storm activity session to be cancelled. Appropriate measures taken to protect against Sun, Wind, Heat, Cold.   |
 | SUP8     | Wind / River Current  |        All         | Identify wind direction and velocity / strength of current. Consider tethering rafts to the bank, changing location, or cancelling activity dependant on conditions. |
 | SUP9     | Other river users     |    All + Others    | Awareness of other river users at all times. Guard side. Others advised to keep clear.  |
 | SUP10    | Obstructions in river |        All         | Periodic checks for obstructions at start of season and after any floods or high water incidents.|
-| SUP11   | Group Management      |    Participants    | Staff on water before group. Always use a canoe as safety craft. Consider ability of group and environmental conditions to determine area of operation. |
+| SUP11   | Group Management      |    Participants    | Staff on water before group. Consider ability of group and environmental conditions to determine area of operation. |
 | SUP12    | Slips, Trips & Falls  |        All         | Appropriate closed toe footwear. Participants are briefed about how to launch and recover and are shown a demonstration | 
 
 | **Date Created**   | **Prepared By** | **Review Date** |

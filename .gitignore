@@ -5,3 +5,4 @@ site/
 site/sitemap.xml.gz
 _pycache_
 for_pdf_print.html
+.command-upload
