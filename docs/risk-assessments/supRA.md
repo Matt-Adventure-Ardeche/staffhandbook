@@ -16,7 +16,7 @@
 | SUP5     | Paddles               |    Participants    | Vigilance in use. Wear helmets.  |
 | SUP6     | Manual Handling       |        All         | Good posture at all times. Share loads.        |
 | SUP7     | Weather Conditions    |        All         | Overhead or close storm activity session to be cancelled. Appropriate measures taken to protect against Sun, Wind, Heat, Cold.   |
-| SUP8     | Wind / River Current  |        All         | Identify wind direction and velocity / strength of current. Consider tethering rafts to the bank, changing location, or cancelling activity dependant on conditions. |
+| SUP8     | Wind / River Current  |        All         | Identify wind direction and velocity / strength of current. Consider changing location, or cancelling activity dependant on conditions. |
 | SUP9     | Other river users     |    All + Others    | Awareness of other river users at all times. Guard side. Others advised to keep clear.  |
 | SUP10    | Obstructions in river |        All         | Periodic checks for obstructions at start of season and after any floods or high water incidents.|
 | SUP11   | Group Management      |    Participants    | Staff on water before group. Consider ability of group and environmental conditions to determine area of operation. |
