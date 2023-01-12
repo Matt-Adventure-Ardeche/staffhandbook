@@ -4,7 +4,7 @@
 
 The following Guidlines and expectations will though be required:
 
-- Seven (7) days prior notice as a witten/verbal request (*Center Manager/Leadership Team only*) to have a visitor/guest on-site for longer than a few hours.
+- Seven (7) days prior notice as a written/verbal request (*Center Manager/Leadership Team only*) to have a visitor/guest on-site for longer than a few hours.
 - If your request is granted (*request based on Group density*), then for stay of up to 3 nights are permissible free of charge excepting any Meal provision.
 - Access to areas outside of the Staff Area is limited to Showers and Toilets (*NOT to be used in key Group time-periods*), Bar/Shop areas.
 
