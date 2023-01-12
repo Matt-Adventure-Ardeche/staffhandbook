@@ -94,7 +94,7 @@ theme:
 # PLUGINS
 plugins:
   - with-pdf:
-      back_cover: true
+      back_cover: false
       cover_logo: docs/assets/images/AA.png
       cover_subtitle: Staff Handbook
       enabled_if_env: ENABLE_PDF_EXPORT
