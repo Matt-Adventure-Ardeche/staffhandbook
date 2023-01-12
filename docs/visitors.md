@@ -14,6 +14,7 @@ The following Guidlines and expectations will though be required:
 - Vehicle Parking in Staff Parking Area only, and, as space available.
 
 - Accommodation charge is in effect:
+
   - **Facilities Use:** Adults - €15.00; 17 years old or less - €8.00
   - **Meals:** €5.00 per person/meal.
 
