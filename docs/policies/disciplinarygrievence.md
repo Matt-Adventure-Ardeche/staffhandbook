@@ -1,4 +1,4 @@
-## Disciplinary & Grievence
+# Disciplinary & Grievence
 
 **Outline**
 As your employer Adventure Ardeche could start a formal disciplinary action against you if there are concerns about your Work, Conduct, or Absence etc.
