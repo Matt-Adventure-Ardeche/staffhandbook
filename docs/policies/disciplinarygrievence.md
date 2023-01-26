@@ -2,11 +2,12 @@
 
 **Outline**
 
-As your employer Adventure Ardeche could start a formal disciplinary action against you if there are concerns about your Work, Conduct, or Absence etc.
+As your employer Adventure Ardeche could start a formal disciplinary action against you if there are concerns about your Work, Conduct, or persistant Absence, Lateness etc.
 
 Before taking action or dismissing you, Adventure Ardeche will raise the matter informally with you.  That will be through either the Centre Manager or one of the Leadership Team. However Adventure Ardeche can go directly to a formal disciplinary or dismissal.
 
-Disciplinary Procedures are a set way for your employer to deal with disciplinary issues. They should include a hearing where you're given a chance to explain your side of the story. There will also be a chance to appeal any action Adventure Ardeche decides to take.
+!!! Info
+    Disciplinary Procedures are a set way for your employer to deal with disciplinary issues. They should include a hearing where you're given a chance to explain your side of the story. There will also be a chance to appeal any action Adventure Ardeche decides to take.
 
 During any formal process you can have one other person of your choosing to accompany you, to listen to the conversation and for you to confer with. The support person, however, may not take ANY direct role in the process.
 
