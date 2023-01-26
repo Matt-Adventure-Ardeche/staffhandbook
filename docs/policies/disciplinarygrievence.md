@@ -1,6 +1,7 @@
 # Disciplinary & Grievence
 
 **Outline**
+
 As your employer Adventure Ardeche could start a formal disciplinary action against you if there are concerns about your Work, Conduct, or Absence etc.
 
 Before taking action or dismissing you, Adventure Ardeche will raise the matter informally with you.  That will be through either the Centre Manager or one of the Leadership Team. However Adventure Ardeche can go directly to a formal disciplinary or dismissal.
@@ -13,20 +14,20 @@ It is the responsibility of both Adventure Ardeche and the employee to deal with
 
 The following conducts may affect whether you're deemed to have stepped over the line:
 
-    - Bringing the company into disrepute.
-    - Inappropriate behaviour in the presence/vicinity of any Guest.
-    - Persistent Poor Time Keeping.
-    - Dereliction of Duty of Care towards Guests.
-    - Working outside of Adventure Ardeche norms, Unsafe, Poor performance or working practices.
-    - Under the influence of Drugs or Alcohol during working hours.
+- Bringing the company into disrepute.
+- Inappropriate behaviour in the presence/vicinity of any Guest.
+- Persistent Poor Time Keeping.
+- Dereliction of Duty of Care towards Guests.
+- Working outside of Adventure Ardeche norms, Unsafe, Poor performance or working practices.
+- Under the influence of Drugs or Alcohol during working hours.
 
 ### Disciplinary Steps.
 Adventure Ardeche disciplinary procedure includes the following steps:
 
-    1. A letter/email/interaction setting out the issue.
-    2. A meeting to discuss the issue.
-    3. A disciplinary decision.
-    4. A chance to appeal this decision.
+1. A letter/email/interaction setting out the issue.
+2. A meeting to discuss the issue.
+3. A disciplinary decision.
+4. A chance to appeal this decision.
 
 ## Grievance Policy
 All staff can raise concerns, problems, or complaints.  You can do this through one of the Leadership Team directly in writing.
