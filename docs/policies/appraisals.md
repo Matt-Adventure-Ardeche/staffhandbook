@@ -8,11 +8,11 @@ Quality assurance is a secondary, but fundamental, part of the process, with a f
 
 Appraisals also provides an opportunity for constructive feedback for our staff, enabling them to develop.
 
-The **Accueils Collectifs de Mineurs Director** will approve monitors for all work areas. The Director of Operations will maintain the Appraisals records. 
+The **Accueils Collectifs de Mineurs Director** will approve appraisers for all work areas. The Director of Operations will maintain the Appraisals records. 
 
-Employees will be individually monitored during their primary work activity on at least 1 occasion every 2 weeks. 
+Employees will be individually appraised during their primary work activity on at least 1 occasion every 4 weeks. 
 
-Employees will be monitored across a range of work activities.
+Employees will be appraised across a range of work activities.
 
 Individual feedback will be given to employees as part of the appraisals process.  Any necessary support or further training requirements will be recorded.
 
