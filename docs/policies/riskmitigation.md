@@ -4,6 +4,10 @@
 
 Managing safety through compliance has traditionally been at the forefront of thinking when it comes to safety. However, organisations might approach safety in 2 ways: by paying greater attention to the traditional tools of risk assessments and risk controls, often built upon risk avoidance, risk prevention or repression; or by learning to deploy a broader and more informed perspective of safety, beyond the applying and monitoring of controls, to that of **safety by design**.
 
+!!! quote
+	
+	You can expect **Good** and **Bad** luck, but **Good** or **Bad** judgement is your perogative.
+
 ### A Modern Approach
 
 Understanding safety by design starts instead by investing in **shared values and beliefs**, interacting with our organisation's structures and control systems to produce behavioural norms. That is, how the people and the cultures they develop, support a healthy **safety climate**.
