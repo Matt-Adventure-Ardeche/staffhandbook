@@ -7,6 +7,7 @@ Managing safety through compliance has traditionally been at the forefront of th
 !!! quote
 	
 	You can expect **Good** and **Bad** luck, but **Good** or **Bad** judgement is your perogative.
+	- Einstein. A
 
 ### A Modern Approach
 
