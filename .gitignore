@@ -1,3 +1,4 @@
+# ENABLE_PDF_EXPORT=1 mkdocs gh-deploy
 .env
 
 # Folders and files to ignore
@@ -5,4 +6,3 @@ site/
 site/sitemap.xml.gz
 _pycache_
 for_pdf_print.html
-.command-upload

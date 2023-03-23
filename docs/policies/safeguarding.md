@@ -80,8 +80,12 @@ All staff take part in safeguarding training during their induction.
 
 ### France
 
+- Service Departmental a la Jeunesse, a l’engagement et aux sports (SDJES)
+  - 04 75 66 93 00
+  - 06 14 05 90 19
+
 Nominated child protection and safeguarding officer
 
-**Name:** Ian McInnes
+**Name:** Jack Boldry
 
-**Phone/email:** 0033612502021 / ian@adventureardeche.com
+**Phone/email:** 0033602280393 / jack@adventureardeche.com
