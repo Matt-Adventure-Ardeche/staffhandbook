@@ -88,4 +88,4 @@ Nominated child protection and safeguarding officer
 
 **Name:** Jack Boldry
 
-**Phone/email:** 0033602280393 / jack@adventureardeche.com
+**Phone/email:** 0033602280393k / jack@adventureardeche.com
