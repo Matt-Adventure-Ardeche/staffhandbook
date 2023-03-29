@@ -21,6 +21,7 @@ nav:
       - policies/appraisals.md
       - policies/gdpr.md
       - policies/ensuringquality.md
+      - policies/training.md
   - Risk Assessments:
       - risk-assessments/genericRA.md
       - risk-assessments/baseducros.md
