@@ -1,6 +1,4 @@
 # Emergencies
-
-- [ ] <span style="color:red">ToDo.!</span>
   
 ## During the Incident
 During an Emergency you will not have time to read this guidance – you will be reliant on training and effective/practised systems.
@@ -112,6 +110,6 @@ An **Emergency** situation is one that is life or limb threatening and time sens
 * All of our staff will be first aid trained
 * Scenario based tests of the emergency procedure and critical incident plan will occur at least once per season. 
 
-!!! danger ""   
+!!! danger "" 
 
     All staff will have an emergency procedure laminated card with them.

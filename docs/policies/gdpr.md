@@ -1,6 +1,4 @@
 # GDPR
-
-- [ ] <span style="color:red">ToDo.!</span>
   
 [GDPR & Data Protection](https://gdpr.eu/) :octicons-link-external-16:
 

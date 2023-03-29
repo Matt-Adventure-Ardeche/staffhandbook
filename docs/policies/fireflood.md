@@ -1,8 +1,5 @@
 # Fire, Flood and Evacuation
 
-- [ ] <span style="color:red">ToDo.!</span>
-  
-
 All staff will be training in the Evacuation Procedure, as outlined below, during their induction training.
 
 Site evacuation will be implemented once the emergency procedure has been initiated. 

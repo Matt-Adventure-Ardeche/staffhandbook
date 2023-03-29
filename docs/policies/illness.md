@@ -1,6 +1,4 @@
 # Illnesses
-
-- [ ] <span style="color:red">ToDo.!</span>
   
 !!! warning ""
     
