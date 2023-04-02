@@ -6,7 +6,7 @@ The path begins within the grounds at **Base du Cros**, and continues along the 
 
 At some point along the trail you will arrive at a breathtaking viewpoint where clients can enjoy a 108 degree panorama.  Below is the Base du Cros, to your left the *'Rocket Base'* on its own hill-top, in front and below the **Ardeche River**, the village and town of both Salavas & Vallon Pont d'Arc, directly in front above Vallon is the building of **Chauvet 2**, harder to see is the top of Pont d'Arc itself, remember to tell the clients about *Post Office Rock*... The summit of Fos Hill is an amazing place to take a group photo, but be very mindfull about the situation and environment around you.! Remember **Safety First**.
 
-Continuing along the trail, the route twists and turns along narrow, shady ways untill you eventually rejoing the upward trail and once again return to the car-park area at the road..
+Continuing along the trail, the route twists and turns along narrow, shady ways until you eventually rejoin the upward trail and once again return to the car-park area at the road..
 
 ## Skills Developed
 - communication
