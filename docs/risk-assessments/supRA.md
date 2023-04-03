@@ -1,8 +1,5 @@
 # Stand Up Paddling RA
 
-!!! warning
-    **ALL** Risk Assessments are likely to change at some point whan a common format is decided upon.
-
 | **Activity**   | **Property** |
 |:-------------- |:------------ |
 | **Stand Up Paddleboarding** | Base du Cros | 
