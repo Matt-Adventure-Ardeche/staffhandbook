@@ -6,7 +6,8 @@ Starting from the Base du Cros the clients follow the riverside footpath in a up
 
 During the walk the clients should be provided with many questions, discussions, and small challenges that encourage and engage participation, and raise awareness of the groups surroundings.  After some time in the village where they will complete a kind of treasure hunt, the group will make its way back to Base du Cros via small and quiet roads that can also provide further opportunities for engagement.
 
-To maximise the activity potential, instructors
+**To maximise the activity potential, instructors should focus on:**
+
 - relationships between others, self, environment
 - language skills with other people
 - environmental understanding
