@@ -17,7 +17,7 @@ Below is further information on the model – each stage is given a fuller descr
 This is just one model of reflection. Test it out and see how it works for you. If you find that only a few of the questions are helpful for you, focus on those. However, by thinking about each stage you are more likely to engage critically with your learning experience.
 
 ## The model
-![A graphic of the model spelling out the acronym. Fact, feelings, findings, future.](/assets/images/ffff.png "The Four F's of Active Reviewing"){ width=20%,align=right }
+![A graphic of the model spelling out the acronym. Fact, feelings, findings, future.](../../assets/images/ffff.png "The Four F's of Active Reviewing"){ width=20%,align=right }
 
 This model can be used to think and reflect on a situation and can help to structure written reflections. The model is easy to remember and goes over the main aspects of what is helpful to consider when reviewing an experience.
 
