@@ -16,6 +16,6 @@
 |AC8|Getting Lost|All|Staff to ensure familiarity with ALL routes. Staff to carry a charged mobile phone with contacts for Base.|
 |AC9|Vehicles|All|Participants made aware of danger posed by all vehicles. Guard side group where required. Lead from a Position of Maximum Usefulness. Single file maintained on appropriate side of roads.|
 
-|**Dtae Created**|**Prepared By**|**Review Date**|
+|**Date Created**|**Prepared By**|**Review Date**|
 |---|---|---|
 |19th December|Matt Thompson|3rd April 2024|
