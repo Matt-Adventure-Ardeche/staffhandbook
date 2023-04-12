@@ -145,3 +145,6 @@ other sub-groups must guess which one is telling the truth.
 ### 25. Magic Stick
 Split the group into sub-groups. Have each face the other. Arms out-streched, with index fingers pointing and overlapping the other group.  Balance a wand on the backs of the fingers. The aim is to lower the wand to the ground without any fingers loosing contact.  The *usual* outcome is that the wand heads to the clouds first...
 **Variation:** Once done successfully, have the group repeat the task in silence.
+
+### 26. Team Ski's
+Using the *ski's* to travel a set distance without falling off.  If anyone touches the ground, restart..!
