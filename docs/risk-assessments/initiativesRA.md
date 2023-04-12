@@ -1,8 +1,5 @@
 # Initiatives RA
 
-!!! warning
-    **ALL** Risk Assessments are likely to change at some point when a common format is decided upon.
-
 | **Activity**               | **Property** |
 |:-------------------------- |:------------ |
 | **Team Games/Initiatives** | All          |
