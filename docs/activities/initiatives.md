@@ -1,5 +1,5 @@
 # Initiatives
-i
+
 Intiatives are activities that aim to bring *Team Spirit* closer to the participants. Through mentally and physically challenging activities. The principle of together we are stronger is emphasised.  Within the session, the group participants  will solve problems taking the strengths of each individual into consideration. Emphasis is placed on the environment in which each participant feels comfortable. Encourage participants to step slightly beyond their comfort zone. 
 
 A good format for delivering these activities is to try and make the focus progressive or in a particular area to highlight the needs of the group. Not easy when you may not have worked directly with the respective individuals... Coordinate with the other staff you are working alongside to create a **Round-Robin** of activities so as not to clash with each other. Choose locations for each activity that require moving a reasonable distance.  This additional space allows you to chat with the group to illicit reflection on the learning. Ask **Open** Questions to elicit feedback that is positive and constructive from the participants. Ask **How** they will use this learning in the next activity, **How** they will transfer the overall learning to thier own lives...  This **Reflective** practice is what you are aiming for.
@@ -15,7 +15,7 @@ each other. They may *Woosh* the people beside them in a single direction by swe
 arms to the side. If a person *Boinks* you (by crossing their arms) then it goes back in the opposite
 direction. If a person *Pows* they may send it to any person in the circle. If a person shouts *Panic* all
 the group must run in random directions whilst shouting. If a person evokes *Sea Cucumber*
-they must all cross their wrists above their heads and do a *“oooowoooooowoooooo”.*
+they must all cross their wrists above their heads and do a *“oooowoooooowoooooo”*.
 
 ### 3. Human Knot
 Get a piece of rope joined at the ends, mess it up so it’s placed randomly. The group then pick up a random

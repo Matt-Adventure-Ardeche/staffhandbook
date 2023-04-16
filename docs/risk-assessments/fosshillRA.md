@@ -13,7 +13,7 @@
 |FH5|Medications|Participants|Medical Information will be checked on group card. Staff to ensure any required medication is available, kept secure and dry.|
 |FH6|Dehydration|All|Everyone to carry a minimum of One litre water. Staff to carry extra water, minimum Ten Litres.|
 |FH7|Sun Burn / Sun Stroke|All|Ensure everyone is using regular applications of suncream. Wear a hat that provides protection from sun. Wear suitable clothing to protect from the sun.|
-|FH8|Slips,Trips, and Falls|All|Awareness of uneven terrain.  Approprite closed toe footwear worn. Awareness of drops, cliffs, flora, tree roots etc. Vigilance particularly around key areas. Maintain group control in key areas. Use 'Spotting' techniques when appropriate.|
+|FH8|Slips,Trips, and Falls|All|Awareness of uneven terrain.  Approprite closed toe footwear worn. Awareness of drops, cliffs, flora, tree roots etc. Vigilance particularly around key areas. Maintain group control in key areas. Use *'Spotting'* techniques when appropriate.|
 |FH9|Fauna/Flora|All|Leave no Trace. Awareness of any key contact species.|
 
 |**Date Created**|**Prepared By**|**Review Date**|
