@@ -1,8 +1,5 @@
 # Raft Build RA
 
-!!! warning
-    **ALL** Risk Assessments are likely to change at some point whan a common format is decided upon.
-
 | **Activity**   | **Property** |
 |:-------------- |:------------ |
 | **Raft Build** | Base du Cros | 
@@ -26,4 +23,4 @@
 
 | **Date Created**   | **Prepared By** | **Review Date** |
 | ------------------ | --------------- | --------------- |
-| 15th December 2022 | Matt Thompson   | 1st April 2023 | 
+| 15th December 2022 | Matt Thompson   | 1st April 2024 | 
