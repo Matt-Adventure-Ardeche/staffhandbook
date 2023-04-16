@@ -1,8 +1,5 @@
 # Ardeche Descent RA
 
-!!! warning
-    **ALL** Risk Assessments are likely to change at some point whan a common format is decided upon.
-
 | **Activity**        | **Property** |
 |:------------------- |:------------ |
 | **Ardeche Descent** | All          | 
@@ -19,11 +16,11 @@
 | AD8     | Dehydration         |        All         | Re-Hydration packs available. Monitor intake of water by participants. Awareness of safe springs to replenish water supplies. Staff monitoring and vigilance.                                                                                                                                      |
 | AD9     | Hypothermia         |        All         | Awareness of risks. Weather checks before any session. Spare clothing and Group Shelter carried in Rescue kit.                                                                                                                                                                                     |
 | AD10    | Hyperthermia        |        All         | Awareness of risks. Clothing appropriate. Drinking water available. Hydration Packs available.                                                                                                                                                                                                     |
-| AD11    | Manual Handling     |        All         | Safe practices adopted. Refer to manual Handling RA.                                                                                                                                                                                                                                               |
+| AD11    | Manual Handling     |        All         | Safe practices adopted.                                                                                                                                           |
 | AD12    | Weather conditions  |        All         | Cancel or revise descent if storms in area. Monitor until safe locations located along river. Appropriate clothing an protection from elements carried and used as required.                                                                                                                       |
 | AD13    | Missing Child       |    Participants    | Each member of staff to know **EXACTLY** where every participant in their *Cell* is in relation to themselves at all times when under their direct supervision. Transfer of responsibility between any accompanying adult acting in loco-parentis and AA staff undertaken **ONLY** by river leader. |
 | AD14    | Non-Qualified Staff |    Participants    | Compliance with National & Local law & as described in the **Code Du Sport**.                                                                                                                                                                                                                       |
 
 | **Date Created**   | **Prepared By** | **Review Date** |
 | ------------------ | --------------- | --------------- |
-| 15th December 2022 | Matt Thompson   | 1st April 2023  | 
+| 15th December 2022 | Matt Thompson   | 16th April 2024  | 

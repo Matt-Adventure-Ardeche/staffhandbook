@@ -54,6 +54,7 @@ nav:
   - Best Practices:
       - best-practices/generic.md
       - best-practices/leavenotrace.md
+      - best-practices/sup-session.md
   - Resources:
       - resources/resources.md
   - Reference:
