@@ -10,4 +10,4 @@ Once on the water and floating carry out basic **Sea Trials**. Paddle forwards, 
 
 There are plenty of games and activities you can employ, also set up a race with other raft groups. At all times when playing, be mindful of the way the group are using their paddles, limit any splashing to avoid people getting hit in the face...
 
-If the group have built a good raft, your ole is one of initiator and motivator; if the group have built a poor raft and you have let them do so, then your role will be one of debris collector..!
+If the group have built a good raft, your role is one of initiator and motivator; if the group have built a poor raft and you have let them do so, then your role will be one of debris collector..!
