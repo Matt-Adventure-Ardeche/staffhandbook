@@ -18,3 +18,4 @@ Any person wishing to drive an Adventure Ardeche vehicle must be:
 - All drivers must drive within the road conditions and prioritise the comfort of passengers.
 - Under no circumstances must anyone tow a trailer unless authorised to do so. Trailer towing will only be authorised if the driver has either taken a specific national test or has a license category endorsement.
 - The vehicle **LogBook** is to be completed after every journey.
+- Drivers of Adventure Ardeche vehicles will be liable for **any and all damage**, to the limit of the company insurance excess requirements - currently (2023) €2000.00.
