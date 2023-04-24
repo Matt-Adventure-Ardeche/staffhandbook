@@ -35,6 +35,7 @@ Further the activity ask them to give you a french tongue twister. You read it b
 - Tom threw Tim three thumbtacks
 
 **This or That** - in this activity participants choose between two things and then they should explain why they've made this choice.
+
 - Would you rather be a wizard or a superhero?
 - Would you rather only be able to walk on all fours or only be able to walk sideways like a crab?
 - Would you rather be super strong or super fast?
@@ -49,9 +50,9 @@ Further the activity ask them to give you a french tongue twister. You read it b
 
 **Directions guided around a grid** - set out a 4 by 4 grid with 16 cones. Pair the group up and give each pair a blindfold, and a direction sheet. Go over relevant vocab (right, left, forward, backwards, stop, go, turn) and then set the teams to go around the course.
 
-**Further the activity** - if the group isn't doing team games. Now take the group down to the night line and tell the group they will now guide each other around here. For that they will need some more vocab, demonstrate the actions they will need words for to see if they know them if they don't tell them. (step over, duck down, crouch, lift up the rope, push down the rope.
+*Further the activity* - if the group isn't doing team games. Take the group down to the night line and tell the group they will now guide each other around here. For that they will need some more vocab, demonstrate the actions they will need words for to see if they know them, if they don't tell them. (step over, duck down, crouch, lift up the rope, push down the rope.
 
-Tell me about where you live (school groups) get the whiteboard and place it on the table tell them you are going to draw what they tell you about the area they live in. As they tell you about their town draw exactly what they describ. After you have drawn a few things check with them if this looks correct, if it is wrong tell them that they must describe it more specifically give them words to help with this if you need to. 
+Tell me about where you live (*school groups*) get the whiteboard and place it on the table tell them you are going to draw what they tell you about the area they live in. As they tell you about their town draw exactly what they describ. After you have drawn a few things check with them if this looks correct, if it is wrong tell them that they must describe it more specifically give them words to help with this if you need to. 
 
 **Centre vocab** - place a variety of items from the activity tent on the ground, introduce the participants to all the items. Tell them you will say an item and they need to run to the correct item. 
 
